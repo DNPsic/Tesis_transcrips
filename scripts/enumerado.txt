@@ -1,0 +1,277 @@
+001 Habla espontánea
+002 D: cuenteme que hizo ?
+003 AH: yo  desayuné
+004 D: qué más hizo? qué desayunó?
+005 AH: sopa de verduras y atole
+006 D: y pescado
+007 D: que mas hizo en la semana?
+008 AH: la tarea y  trapié
+009 D: qué más?
+010 AH: la tarea y duerme y duerme
+011 D: qué otra cosa
+012 AH: con mis nietos y con su esposa de Diego
+013 D: diego quién es?
+014 AH: mi nieto
+015 D: la fueron a visitar?
+016 AH: no,  aquí están en el departamento, a la mitad, como?
+017 AC: llegaron a rentar ahí
+018 D: hizo alguna otra cosa, en las noches por ejemplo?
+019 AH: café con leche y pan tostado 2
+020 AH: el seguro también, me fui  al seguro 2
+021 D: alguna otra cosa?
+022 AH: el tianguis tambien , el miercoles
+023 D: usted fue al tianguis?
+024 AH: no porque ya no,  está muy feo, muy feo
+025 D: porque es peligroso?
+026 AH: sí
+027 AC: el llamado tianguis del salado
+028 
+029 VERBOS Y SUSTANTIVOS CON APOYO VISUAL
+030 Qué cosa es?
+031 AH: estufa?
+032 DT: muy bien, ahora por ejemplo este
+033 AH: telefono
+034 D: y a ver este
+035 AH: cacerola
+036 D. algo así
+037 DT: un plato
+038 DT: ahora este
+039 AH: una taza, mhh cosa
+040 DT: este de acá
+041 AH: cuchillo
+042 D: ¿Qué es?
+043 AH: cuchillo
+044 DT: parecido
+045 D: atrás trae una pista
+046 AH: tes?
+047 AH: cuchillo?
+048 DT: y a ver este
+049 AH: una, que es, un
+050 D: con qué sonido empieza?
+051 AH: ta, ta ta
+052 D: muy bien, empieza con ese sonido qué sigue
+053 AH: una  corneta
+054 D: no también es un instrumento pero no es una trompeta, dele la vuelta
+055 AH: tambor (TAM)
+056 DT: seguimos con cosa qué es?
+057 AH: agua, el agua
+058 DT:okay pero es un lugar y empieza con esta letra (M)
+059 AH: mar
+060 DT: a ver este
+061 AH: que es? ay no, el metro
+062 DT: este le va a gustar
+063 AH: las galletas, las, el pan
+064 
+065 DT: qué se hace?
+066 AH: la taza estaba bien sabrosa
+067 DT: la taza? se come?
+068 AH: el café
+069 DT: qué hace con el café?
+070 AH: bien  sabroso, se hace con el café NP
+071 D: se toma el café
+072 DT: yo me tomé
+073 D: yo tomé
+074 DT: a ver esta
+075 AH: el cuchillo
+076 DT:que se hace
+077 AH: el cuchillo está bien rasposo rasposoNP
+078 DT:que hacemos con el cuchillo
+079 AH: el cuchillo está bien filoso  NP
+080 DT: y usted que hace con el cuchillo? para que lo usa
+081 AH: aquí (señala su dedo) P
+082 DT: que hizo usted
+083 AH: esta bien ayyy bien filoso
+084 DT: se cortó
+085 AH: me corte*, el cuchillo
+086 DT: vamos a intentar unos más y este?
+087 DT: como se llama, vamos a usar la trampa (Cu)
+088 AH: qué es?
+089 DT: como lo usa, se come?
+090 AH: nooo
+091 DT: pero si se usa para …
+092 AH: así (simula comer) 
+093 DT: como se usa eso? comer
+094 DT: no se acuerda como se llama?
+095 DT: te..
+096 AH: tendedor
+097 DT: mas o menos
+098 AH: ten…
+099 DT: tene…
+100 AH: tenedor
+101 DT: para que se usa?
+102 AH: el tenedor estaba haciendo-estaba haceERRFlexel tenedor  estaba haciendo-estabaPFIn sssssh (sorbe)*
+103 DT: vamos a decir comió con el tenedor
+104 AH: el tenedor, comi con el tenedor*
+105 
+106 Qué se hace?
+107 AH: leche con cafe
+108 DT: este es un ejemplo, que se hace con el café pues me lo tomo
+109 AH: si
+110 DT: a ver esta qué me había dicho?
+111 AH: la estufa
+112 DT: y qué se hace con la estufa?
+113 AH: se hace el café , en la estufa, con la estufa, la lumbre, en el café con leche 2
+114 DT: y eso como se dice, cuando pone cosas aquí es cocinar, que se hace en la estufa?
+115 AH: cocinar *
+116 DT: o puede decir, yo cocino
+117 AH: yo cocino, yo cociné*
+118 DT: en la estufa
+119 AH: yo cociné*
+120 DT: ahora con este
+121 AH: el telefono
+122 DT: que hace
+123 AH: rrrrrr
+124 D: eso como se llama
+125 AH: el telefono  estaba bien rue, rui  NP
+126 D: tiene otra forma de decirlo, hace…
+127 AH:  hace ruido
+128 D: y usted que hace con el telefono
+129 AH: hablo-con sus, con mis hijos mis-susPRSem  2
+130 D: y usted que hace con sus hijos
+131 AH:  estaba enel telefono, el telefono estar + L
+132 D: en la estufa cocinamos y por el teléfono en el teléfono? hablamos o llamamos
+133 AH: hablamos *
+134 D: con esta que hacemos?
+135 AH: la estufa
+136 D: qué hacemos
+137 AH:  cocinamos-estaba en la estufaFV x 
+138 D: cocinamos
+139 AH: cocinamos*
+140 D: o yo cocino, y aquí?
+141 AH: el telefono !!esta bien sordo  NP
+142 DT: aquí
+143 AH: las galletas
+144 DT: que se hace con las galletas
+145 AH: las galletas están bien sabrosas   P?
+146 DT: qué hace usted con las galletas?
+147 AH: las galletas estaban bien sabrosas [↑]
+148 DT: aquí que dijimos que era?
+149 DT: empieza con (M) esta letra
+150 AH: mar
+151 DT: aqui que hace ?
+152 AH: el mar está bien feo   DS
+153 DT: no le gusta? 
+154 AH: no
+155 DT: y que puede hacer en el mar?
+156 AH: nadar-nadandoERRFlex nadando VGer P
+157 DT: muy bien yo nado
+158 AH: nadé nadé *
+159 DT: esta qué es?
+160 D: con que letra empieza? se acuerda?
+161 DT: vamos a hacer trampa (ta)
+162 A:la talla
+163 AH: la cosa, que la.. ay mucha tristeza, mucha tristeza mi lengua
+164 
+165 DT: a ver este que dijimos
+166 AH: el metro
+167 DT: y qué hace?
+168 AH: piiiiiiiiiiiii
+169 DT: eso como se llama
+170 AH: el metro !!estaba acatitla NP
+171 DT:: hace ruido?
+172 AH: si mucho ruido*
+173 DT: y va lento o rápido?
+174 AH: pues lent, bien feo, bien
+175 DT: se mueve?
+176 AH: si hombre
+177 DT: vamos a decir se mueve..usted diga, el metro… lo que usted quiera
+178 AH: el metro estaba bien shh como? P
+179 DT: lento?
+180 AH: no, bien…
+181 DT: rapido
+182 AH: rapido bien rapido*
+183 DT: se mueve
+184 AH: el metro estaba bien
+185 DT:rapido
+186 AH: bien rapido
+187 DT: a ver este a ver volteelo
+188 AH: tambor
+189 DT: que hace?
+190 AH: tchtch (simula golpear un tambor con las manos)
+191 DT: como se llama hacerle así?
+192 AH: mucho ruido?
+193 DT: okay..tocar el tambor
+194 AH: tocar el ba, el tambor-tocadorPRSem, estaba el, qué es?
+195 DT: el tambor, tocando el tambor o pegarle
+196 AH: ah si
+197 DT: el ultimo
+198 AH: el plato
+199 DT: que se puede hacer con el plato?
+200 AH: servir-la sopaVInf
+201 DT: se come? (el plato)
+202 AH: no hombre
+203 DT: se usa para la comida como?
+204 AH: un plato con las cucharas y sopa
+205 DT: entonces ..servimos la comida, a ver digalo
+206 AH: servimos*
+207 DT: o, yo sirvo
+208 AH: yo sirvo sopa*
+209 
+210 COSA O ACCIÓN
+211 Confunde lapiz y escribir de categoría
+212 DT:si le doy su tacita de cafe usted qué hace?
+213 AH: bebí 
+214 DT: tamal es cosa o es acción?
+215 AH: cosa
+216 DT: muy bien, que hace con el tamal
+217 AH: no sé
+218 DT: es comida
+219 AH: si
+220 DT: qué hace con la comida? (seña de comer)
+221 AH: bebí
+222 DT:nos lo co…
+223 AH: comemos*
+224 DT: este
+225 AH: cuchillo
+226 DT: es cosa o acción
+227 AH: (clasifica en cosas)
+228 DT: ¿Qué hace con el cuchillo?
+229 DT: con el cuchillo qué se hizo
+230 AH: cuchillo está bien filoso [↑]
+231 DT: ¿Qué pasó, porque estaba filoso?
+232 AH:  me machuque corté-machuquéPRSem
+233 D: masomenos
+234 DT: me cor…
+235 AH: me corté*
+236 DT: qué pasó con el cuchillo
+237 AH: me corte*
+238 DT: con
+239 AH: con el cuchillo
+240 
+241 Clasificación cosas acciones
+242 DT: cepillar
+243 AH: simula cepillar
+244 A:cepillar*
+245 DT:Donde va?
+246 AH: aquí (acciones)
+247 DT:muy bien y dientes?
+248 AH: aquí (señala cosas)
+249 DT: ahora digalo
+250 AH: cepillar dientes*
+251 DT: o como lo puede decir, yo…
+252 AH: yo cepille los dientes*
+253 DT: ahora con agua
+254 AH: agua
+255 DT: donde iría 
+256 AH: (señala cosa pero al cuestionarla dice acción)
+257 DT: y servir?
+258 AH: aquí acción
+259 DT: ver que es cosa o acción?
+260 AH: (señala cosa) 
+261 DT: segura
+262 AH: acción 
+263 DT: tele?
+264 AH: coca, cosa
+265 DT: muy bien
+266 
+267 Sustantivo y verbo con dibujo
+268 DT:con qué escribimos
+269 AH: el lapiz
+270 DT: que es esta parte
+271 A:la goma
+272 DT: y esta
+273 AH: la goma
+274 DT: se mueve solo el lapiz?
+275 AH: no
+276 DT: como se usa (toca su mano)
+277 AH: con la mano

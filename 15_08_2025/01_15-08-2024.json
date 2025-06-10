@@ -1,0 +1,26 @@
+[
+    {
+        "META":
+        { 
+        "sesion":1,
+        "grabación":1,
+        "fecha":"15_08_2025",
+        "participantes":
+            { 
+        "D":"Mujer 26 años",
+        "DT":"Hombre 26 años",
+        "AH":"Mujer participante 66 años",
+        "AC":"Hombre esposo de AH"
+            }
+        }
+    },
+    {
+        "ENTRADAS":
+        [
+            {"turno":"001","habla":"hola"},
+            {},
+            {},
+            {}
+        ]
+    }
+]

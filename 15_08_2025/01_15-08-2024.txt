@@ -1,0 +1,19 @@
+D: cuénteme qué hizo en las mañanas, en las tardes y en las noches
+AH: yo desayuné
+D: ¿qué más hizo qué desayunó?
+AH: sopa de verduras
+D: ¿qué más?
+AH: y atole
+D: ¿eso qué día fue?
+AH: siempre siempre
+D: ¿todos los días desayuna supa de verduras?
+AH: sí sí
+D: muy bien qué saludable ¿qué más?
+AH: y pescado
+D: ¿qué más hizo en la semana?
+AH: este la tarea este, trapié, la tarea
+D: ¿qué más?
+AH: y duerme y duerme
+D: ay qué bonito es dormir
+DT:
+AC:

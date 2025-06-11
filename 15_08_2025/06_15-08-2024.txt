@@ -1,0 +1,12 @@
+# Segmento: escritura al dictado con dibujos.
+# Condición: dictado.
+DT: 
+AH: 
+DT: 
+AH: 
+DT: 
+AH: 
+DT: 
+AH: 
+DT: 
+AH: 

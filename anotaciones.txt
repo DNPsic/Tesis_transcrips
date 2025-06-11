@@ -1,0 +1,59 @@
+Anotación de Corpus de habla afásica.
+>--------------------<
+Convenciones empleadas para la anotación de las trascripciones que conforman el Corpus.
+>--------------------<
+I. Sobre los comentarios y anotaciones más generales.
+
+El símbolo de # indica diferentes elementos:
+
+(1)segmentos: se indica escribiendo -> # Segmento: .
+
+(2)materiales: se indica escribiendo -> # Material: .
+
+(3)comentarios y/o aclaraciones: se usa # seguido del comentario.   Si (3) se indica sobre el mismo turno de habla y no en una línea aparte, se considera que el comentario se refiere a ese hablante. Cuando esto ocurra el comentario se debe concluir con un punto final -> . De esta forma se puede continuar con el habla del mismo turno seguido del punto. Ejemplo: duerme y duerme # asiente.
+
+Si (3) se usa en un salto de línea, indica algo general no relacionado directamente a un hablante en concreto. No se agrega punto final para distinguir que no está inserto en el turno de habla anterior. Ejemplo: y por el teléfono o en el teléfono
+# se le hace la seña con la mano de «llamar por teléfono»
+>--------------------<
+II. Sobre símbolos especiales.
+
+a. El uso de paréntesis -> ( ) tiene diferentes significados:
+    (1)completar palabras dado el contexto. Ejemplo: caf(café)
+    
+    (2)indicar segmentos ininteligibles. Ejemplo: yo deci(?), y dijo (?).
+    
+    (3)aclarar usos particulares de palabras. Ejemplo: pus(pues), ¿vea?(¿verdad?)
+    
+    (4)indicar segmentos donde se duda de la transcripción. Ejemplo: y me dijo ((que no)) sabía.
+
+b. Uso de barras o diagonales -> / / tiene 2 significados:
+    (1)encierra fonemas o articulaciones. Ejemplo: el ronrroneo suena como /pr/, la ese suena /s/.
+
+    (2)al agregarle puntos -> /. ./ indica problemas articulatorios aferentes o eferentes. Ejemplo: el teléfono estaba /.rud rui ru./
+>--------------------<
+III. Sobre nombres e información sensible
+Por privacidad y ética se censura información sensible y nombres propios de personas, tanto participantes de la investigación —salvo por los investgidares— y aquellas menciones durante las conversaciones.
+
+a. Cuando se trate de nombres de personas se usará la conversación de usar la letra inicial del nombre y un guión bajo. Esto con la finalidad de no perder el rastro del cambio entre cadenas articulatorias. Desafortunadamente si se producen cambios al interior de los nombres será información perdida.
+
+Ejemplo: y le dije a Vicente -> y le dije a V_.
+>--------------------<
+IV. Interrupciones y tiempos vacíos o irrelevantes.
+Cuando se de el caso de interrupciones o momentos en que no se produce interacción relevante para la investigación, como silencios, se usaran tres puntos -> ... en una línea nueva o en el turno de habla.
+Se puede agregar un comentario a la derecha para dar más información.
+
+Ejemplo: y le dije ... ay se me olvidó, ... # interrupción por llamada telefónica.
+>--------------------<
+*Cheatsheet*
+___________________________
+| Símbolo |  significado  |
+̣̣|---------|---------------|
+|    #    |    comment    |
+|    M_   |    censura    |
+|   ...   |     vacío     |
+|   (?)   | ininteligible |
+|   ( )   |   aclaración  |
+|  (( ))  |    dudoso     |
+|   / /   |   fonema(s)   |
+|  /. ./  |  dismelódico  |
+|---------|---------------|

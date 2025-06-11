@@ -1,0 +1,182 @@
+# Segmento: continuación posterior a la pausa.
+# se le muestra la ilustración de la taza vacía
+DT: la taza
+AH: la taza, la taza la taza estaba bien sabrosas
+DT: ¿la taza, se come?
+AH: la el café el café
+DT: muy bien muy bien, es como esta ¿no?
+# se le muestra la ilustración de la taza con café
+AH: sí ajá
+DT: vamos a cambiarla
+# se deja la ilustración de la taza con café y se retira la de la taza vacía
+DT: aquí está el café
+AH: el café
+DT: ¿y qué hace con el café?
+AH: este, bien sabroso
+D: ¿pero qué hace?
+DT: ¿qué hace? ya estamos acá en esta pregunta
+# se le señala la pregunta «¿qué se hace?» escrita en el pizarrón
+DT: ¿qué se hace con el café?
+AH: se hace café, el café ((se hace)) el café
+DT: se toma # hace el gesto con la mano izquierda de «tomar».
+AH: se tomó se tomá el café
+DT: yo me tomé el café
+AH: yo tomé café
+DT: eso muy bien
+...
+DT: a ver vamos a ver, por ejemplo con este
+# se le muestra una ilustración de un cuchillo de cocina
+AH: el cuchillo
+DT: ¿qué se hace con un cuchillo?
+AH: el cuchillo el cuchillo está bien rasposo # comienza a reírse.
+DT: vamos a borrar esto y dejar el hace
+# se borra lo escrito en el pizarrón blanco dejando únicamente la palabra «hace»
+AH: hace
+DT: ¿qué hacemos con el cuchillo?
+AH: el cuchillo estaba bien filoso
+D: muy bien
+AH: bien filoso
+DT: ¿y usted qué hace con el cuchillo?
+AH: el cuchillo está
+DT: ¿para qué lo usa?
+AH: /mr/ # hace un sonido suave de /r/ no se entiende si es una palabra. ia(mira) aquí # muestra el dedo medio de la mano izquierda y lo señala con el índice derecho.
+D: ajá muy bien
+DT: ¿qué hizo usted?
+AH: se /m/ estaba bien /s/ # sonido de /s/ aspirada. ay, bien filoso
+DT: ¿se cortó?
+AH: sí
+DT: a ver dígalo
+AH: me corté me corté
+DT: eso, con el cuchillo
+AH: cuchillo, me corté cuchillo
+DT: ahí está muy bien, vamos a intentar unos más, a ver ¿con este?
+# se le muestra una ilustración de un tenedor con «TE» escrito al reverso
+AH: no me acuerdo
+DT: ¿cómo se llama? vamos a usar la tramapa
+# se le da la vuelta a la tarjeta para que pueda leer la pista
+DT: ¿cómo se llama?
+AH: ¿qué es, qué es hijo?
+DT: ¿cómo lo usa?
+AH: ...
+DT: ¿cómo lo usa este?
+AH: este qué es
+DT: ¿se come?
+AH: no no hombre no
+DT: pero sí se usa para
+AH: sí sí
+DT: ¿para qué se usa?
+AH: este así # se lleva la mano derecha juntando las puntas de los dedos a la boca en repetidas cosasiones haciendo el gesto de «comer» o «llevarse un bocado a la boca».
+DT: ¿cómo se llama eso?
+AH: no me acuerdo # mueve la mano izquierda cerca de la boca juntando las puntas de los dedos.
+DT: comer
+AH: yo comí este qué # niega levemente con la cabeza y se rie.
+DT: este no se come
+AH: ajá
+DT: pero lo usamos para comer
+AH: ah sí
+DT: ¿no se acuerda cómo se llama?
+AH: no
+DT: a ver
+# se vuelve a mostrar el «TE» escrito al reverso de la tarjeta
+DT: te
+AH: te
+DT: ten # haciendo énfasis en el sonido de la /n/
+AH: tendedor ¿cómo?
+D: muy bien
+DT: más o menos, ten
+AH: ten
+DT: tene
+AH: tenedor tenedor
+DT: eso
+AH: ah tenedor tenedor 
+DT: a ver ¿para qué se usa el tenedor?
+AH: el tenedor estaba hace # se rie. el tenedor estaba /fs/ # se lleva la mano izquierda enfrente de la boca y comienza a reírse.
+DT: a ver vamos a decir comió con el tenedor
+AH: el tenedor comió comí con el tenedor
+... # por conversación de D y DT con AC.
+DT: a ver ahora este ¿qué dijimos?
+# se le muestra una ilustración de un vagon del metro de la ciudad de México.
+AH: el metro
+DT: ¿y qué hace?
+AH: /pi/ # alargando el último sonido.
+DT: sí ¿y eso cómo se llama?
+AH: este en el metro estaba ((catitlan)) acatitla # se rie.
+DT: en acatitla
+AH: sí
+DT: bueno vamos a decir que ¿hace ruido?
+AH: sí mucho ruido
+DT: ¿va lento o rápido?
+AH: pus(pues) len bien /f/ feo bien 
+DT: ¿bien?
+AH: bien
+DT: ¿se mueve?
+AH: sí hombre
+DT: a ver vamos a decir se mueve, usted diga, todo completo, el metro
+AH: el metro estaba bien estaba /fs/ # con las dos manos hace puños y los sube y baja en un par de ocasiones. ¿cómo? # comienza a reírse.
+DT: ¿lento?
+AH: no bien
+DT: ¿bien qué?
+AH: bien ... no
+DT: ¿rápido?
+AH: rápio bien rápido rápido rápido
+DT: ¿se mueve rápido?
+AH: sí bien rápido
+DT: a ver diga así, se mueve rápido
+AH: ¿cómo?
+DT: se mueve
+AH: se bue
+DT: mueve
+AH: se mueve el metro
+DT: ajá
+AH: el metro est el metro estaba bien bien 
+DT: rápido
+AH: bien
+DT: rápido
+AH: bien rápido
+DT: a ver este
+# se le muestra una ilustración de un tambor con el escrito «TAM» al reverso
+AH: a ver, /m/ ay no me acuerdo
+DT: a ver voltéelo atrás qué dice
+AH: tambor
+DT: ¿qué hace?
+AH: estaba /psh/ # con ambas manos con puños cerrados sube y baja de forma alternada simulando tocar un tambor. 
+DT: ¿eso cómo se dice?
+AH: el tambor estaba bien /s/ # repite el gesto con las manos de tocar un tambor.
+DT: ¿usted qué hace con el tambor?
+AH: # repite el gesto de tocar el tambor, esta vez la distancia vertical al alternar las manos es mucho más pronunciada y no agrega sonido.
+DT: ¿eso cómo se llama, cómo se llama hacerle así? # imita el gesto con las manos.
+AH: ay
+DT: así como si yo le estuviera haciendo así ¿no? # toma los marcadores para pizarrón y simula tocar un tambor. ¿cómo se dice esto?
+AH: ¿mucho ruido?
+DT: muy bien
+AH: mucho ruido
+DT: tocar el tambor
+AH: tocar
+DT: a ver diga usted
+AH: tocar el ba el tocador # comienza a reir. estaba el ¿qué es?
+DT: el tambor
+AH: el tambor
+DT: ¿qué hace?
+AH: estaba /m/ # vuelve a hacer el gesto con ambas manos de tocar un tambor.
+DT: tocando el tambor
+AH: tocar
+DT: y a ver ya el último
+# se le muestra una ilustración de un plato vacío
+AH: plato
+DT: ¿y qué se puede hacer con un plato?
+AH: la sopa la sopa
+DT: ¿este se come?
+AH: no hombre
+DT: ¿se usa para la comida?
+AH: sí
+DT: ¿cómo se usa?
+AH: este # señala la ilustración. un plato y con las cucharas y sopa
+DT: entonces servimos la comida
+AH: sí sí
+DT: puede ser
+AH: sí
+DT: a ver dígalo usted
+AH: /. sevimos ./ servimos servimos
+DT: o yo sirvo
+AH: yo sirvo el sopa
+DT: muy bien

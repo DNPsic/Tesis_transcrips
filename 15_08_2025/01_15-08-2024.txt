@@ -1,3 +1,5 @@
+# Segmento: inicio de sesión.
+# Condición: conversación.
 D: cuénteme qué hizo en las mañanas, en las tardes y en las noches
 AH: yo desayuné
 D: ¿qué más hizo qué desayunó?
@@ -15,5 +17,40 @@ AH: este la tarea este, trapié, la tarea
 D: ¿qué más?
 AH: y duerme y duerme
 D: ay qué bonito es dormir
-DT:
-AC:
+AH: sí verdad
+D: a ver cuénteme qué hizo por las tardes
+AH: este duerme y duerme, duerme y duerme # asiente.
+D: ¿qué más qué otra cosa?
+AH: este /s/ duerme y duerme con mis nietos con mis nietos y con mi su esposa de D_
+D: ¿D_ quién es?
+AH: este mi nieto
+D: ah muy bien ¿lo fueron a visitar?
+AH: aquí está en el departamento ¿vea?(¿verdad?) # voltea a ver a AC.
+D: ah viven con usted
+AH: no el (?) a la mitad # voltea a ver a AC.
+AC: viven en el otro ahí somos vecinos
+AH: sí
+D: viven al lado
+AC: llegaron a rentar ahí
+D: ah muy bien muy bien
+AC: A_ mi hijo les consiguió ahí el departamento y pues ya se cambiaron de donde estaban
+AH: sí
+D: es el hijo de A_ entonces
+AH: sí
+AC: el hijo de A_
+D: ¿hizo alguna otra cosa en las noches por ejemplo?
+AH: café con leche y pan tostado
+D: muy bien muy bien ¿algo más?
+AH: el seguro también en la man ayer me fui al seguro
+D: ah muy bien ¿escuchó que usted dijo me fui?
+DT: me fui al seguro me fui al seguro # asiente.
+D: muy bien ahí usó un verbo
+AH: ¿sí? ah sí mira
+D: ¿alguna otra cosa?
+AH: este ya no no sé
+D: muy bien
+AH: el tianguis también el miércoles
+D: usted fue al tianguis
+AH: no porque ya no ya luego está muy feo muy feo
+D: ¿a porque es peligroso?
+AH: pus(pues) sí

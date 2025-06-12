@@ -1,0 +1,735 @@
+Sesión del 15 de agosto del 2014.
+ID: AH-1508-2024.
+Participantes:
+D: Daniela Salinas - autora.
+DT: Dante Nava - autor.
+AC: Hombre de 65 años, esposo de AH.
+
+001 # Segmento: inicio de sesión.
+002 # Condición: conversación.
+003 D: cuénteme qué hizo en las mañanas, en las tardes y en las noches
+004 AH: yo desayuné
+005 D: ¿qué más hizo qué desayunó?
+006 AH: sopa de verduras
+007 D: ¿qué más?
+008 AH: y atole
+009 D: ¿eso qué día fue?
+010 AH: siempre siempre
+011 D: ¿todos los días desayuna supa de verduras?
+012 AH: sí sí
+013 D: muy bien qué saludable ¿qué más?
+014 AH: y pescado
+015 D: ¿qué más hizo en la semana?
+016 AH: este la tarea este, trapié, la tarea
+017 D: ¿qué más?
+018 AH: y duerme y duerme
+019 D: ay qué bonito es dormir
+020 AH: sí verdad
+021 D: a ver cuénteme qué hizo por las tardes
+022 AH: este duerme y duerme, duerme y duerme # asiente.
+023 D: ¿qué más qué otra cosa?
+024 AH: este /s/ duerme y duerme con mis nietos con mis nietos y con mi su esposa de D_
+025 D: ¿D_ quién es?
+026 AH: este mi nieto
+027 D: ah muy bien ¿lo fueron a visitar?
+028 AH: aquí está en el departamento ¿vea?(¿verdad?) # voltea a ver a AC.
+029 D: ah viven con usted
+030 AH: no el (?) a la mitad # voltea a ver a AC.
+031 AC: viven en el otro ahí somos vecinos
+032 AH: sí
+033 D: viven al lado
+034 AC: llegaron a rentar ahí
+035 D: ah muy bien muy bien
+036 AC: A_ mi hijo les consiguió ahí el departamento y pues ya se cambiaron de donde estaban
+037 AH: sí
+038 D: es el hijo de A_ entonces
+039 AH: sí
+040 AC: el hijo de A_
+041 D: ¿hizo alguna otra cosa en las noches por ejemplo?
+042 AH: café con leche y pan tostado
+043 D: muy bien muy bien ¿algo más?
+044 AH: el seguro también en la man ayer me fui al seguro
+045 D: ah muy bien ¿escuchó que usted dijo me fui?
+046 DT: me fui al seguro me fui al seguro # asiente.
+047 D: muy bien ahí usó un verbo
+048 AH: ¿sí? ah sí mira
+049 D: ¿alguna otra cosa?
+050 AH: este ya no no sé
+051 D: muy bien
+052 AH: el tianguis también el miércoles
+053 D: usted fue al tianguis
+054 AH: no porque ya no ya luego está muy feo muy feo
+055 D: ¿a porque es peligroso?
+056 AH: pus(pues) sí
+057 # Segmento: actividad con ilustraciones de objetos.
+058 # Material: tarjetas de imágenes y las preguntas en el pizarrón ¿qué es? ¿qué se hace?, marcadores azul y rojo. 
+059 ...
+060 DT: con este de arriba ya no vamos a trabajar, ya no es la cosa, ya lo tachamos, ahora con ¿qué se hace? ¿lo puede leer otra vez?
+061 AH: ¿qué se hace?
+062 DT: yo le voy a poner un ejemplo
+063 # se le muestra una ilustración con una taza de café
+064 DT: ¿qué cosa es?
+065 AH: café
+066 DT: ¿qué se hace?
+067 AH: leche con café
+068 DT: ahora para contestar, este es un ejemplo, ¿qué se ahce con el café? me lo tomo ¿ya vio?
+069 AH: sí sí
+070 DT: entonces acá arriba es café y con esta ¿la puede leer otra vez?
+071 AH: qué hace
+072 DT: me lo tomo
+073 AH: me lo tomo me lo tomo me lo tomo
+074 DT: exacto este fue un ejemplo, entonces vamos a empezar
+075 AH: sí
+076 DT: a ver este qué me había dicho
+077 # se le muestra una ilustración de una estufa
+078 AH: la estufa
+079 DT: ¿y qué se hace?
+080 AH: en la estufa se hace el ca estaba el café la estufa, en la estufa
+081 DT: sí muy bien ¿y qué se hace con la estufa?
+082 AH: este esperame, la lumbre la lumbre
+083 DT: ¿y qué hace usted ahí en la estufa?
+084 AH: en la lumbre, el café con leche, café el café
+085 DT: ¿qué más?
+086 AH: el café,este atole
+087 DT: ¿y eso cómo se dice? le voy a ayudar, cuando usted pone cosas aquí es cocinar
+088 AH: cocinar ah pues sí cierto
+089 DT: entonce vamoa a intentar decirlo todo completo ¿qué se hace en la estufa?
+090 AH: cocinar
+091 DT: o puede decir yo cocino
+092 AH: yo deci(?) yo
+093 DT: yo cocino
+094 AH: yo cociné
+095 DT: a ver señálese así
+096 AH: yo cociné
+097 DT: muy bien a ver otra vez, en la estufa
+098 AH: yo cociné 
+099 DT: muy bien
+100 ...
+101 DT: ahora vamos con este ¿qué dijimos que era?
+102 # se le muestra una ilustración de un teléfono fijo, no celular
+103 AH: el teléfono
+104 DT: ¿y qué se hace?
+105 AH: ¿qué hace? # el teléfono señala la tarjeta con la imagen del teléfono. /rr/ # intenta imitar el sonido de un teléfono.
+106 DT: ¿y eso cómo se llama? sí está bien
+107 AH: el teléfono estaba bien /. rue ru ./ # se ríe.
+108 DT: muy bien pero tiene otra forma de decirlo, hace
+109 AH: hace ruido
+110 DT: eso muy bien
+111 AH: hace ruido 
+112 DT: ¿y usted qué hace con el teléfono? acá me dijo cocino
+113 # se le muestra la ilustración de la estufa
+114 DT: y aquí con este
+115 # se le señala la ilustración del teléfono
+116 AH: el teléfono
+117 DT: ¿y qué hace con el teléfono
+118 AH: este con mis hijos, el teléfono con mis hijos
+119 DT: ¿pero qué hace con sus hijos?
+120 AH: con mis hijos en el refri(refigerador) estaba en # comeinza a reirse y se cubre la boca con la mano. el teléfono
+121 DT: muy bien, le voy a ayudar otra vez, acá en la estufa cocinamos
+122 # se le señala la imagen de la estufa
+123 AH: cocinamos
+124 DT: y por el teléfono o en el teléfono
+125 # se le hace la seña con la mano de «llamar por teléfono»
+126 DT: ¿cómo se dice esto?
+127 AH: ...
+128 DT: hablamos
+129 AH: hablando hablamos
+130 DT: o llamamos
+131 AH: hablamos ah sí cierto hablamos # no dijo «llamamos» repitió varias veces «hablamos».
+132 DT: a ver con esta qué hacemos
+133 # se le señala la ilustración de la estufa
+134 AH: estufa
+135 DT: ¿qué hacemos con la estufa?
+136 AH: la estufa
+137 DT: ¿qué hacemos?
+138 AH: eh la estufa
+139 DT: ¿qué habíamos dicho que hacía?
+140 AH: estaba en la estufa ...
+141 DT: cocinamos
+142 AH: cocinamos
+143 AT: ¿y aquí?
+144 # se le señala la ilustración del teléfono
+145 AH: el teléfono está bien sordo # se ríe y voltea a ver a AC.
+146 DT: muy bien vamos a ir al siguiente, a ver por ejemplo este qué dijimos
+147 # se le muestra la ilustración de una canasta con diferentes tipos de pan
+148 AH: las galletas
+149 DT: ¿qué se hace con las galletas?
+150 AH: las galletas ((estaban)) bien sabrosas
+151 DT: ¿qué hace usted con las galletas?
+152 ... # interrupción por llamada telefónica
+153 # Segmento: continuación posterior a la interrupción.
+154 AH: están bien sabrosas
+155 DT: ¿y qué hace con las galletas usted?
+156 AH: a ver, eh pérame(espérame) ay, sí, ay pérame(espérame) ¿qué es? las galletas estaban bien sabrosas
+157 DT: bien, vamos a pasar a la siguiente, ¿aquí qué dijimos que era?
+158 # se le muestra una ilustración de una playa
+159 AH: en pérame(espérame) ... a ver
+160 DT: ya nos había dicho hace rato
+161 AH: en ... no no me acuerdo
+162 DT: empieza con esta letra
+163 # se da la vuelta a la tarjeta donde esta escrita la letra «M»
+164 AH: Mar mar
+165 D: muy bien
+166 DT: ¿y aquí qué hace?
+167 AH: el mar estaba bien fea bien feo # se rie
+168 DT: ¿no le gusta ir al mar?
+169 DH: no no
+170 DT: ¿no le gusta?
+171 D: ¿por qué?
+172 AH: # voltea a ver a D y asiente sin responder
+173 DT: ¿y qué puede hacer en el mar?
+174 AH: nadar, nadando nadando
+175 D: muy bien
+176 DT: a ver dígame yo nado
+177 AH: yo nadé nad(?) ya nadé yo nadé
+178 DT: muy bien muy bien ahí sí nos salió el verbo, a ver y esto qué era
+179 # se le muestra una ilustración de una taza vacía
+180 AH: la ...
+181 D: ¿con qué letra empieza, se acuerda?
+182 AH: ay pérame(espérame) no
+183 DT: vamos a hacer trampa
+184 # se da la vuelta a la tarjeta donde esta escrito «TA»
+185 AH: la la talla la taj ay # comeinza a reirse y se cubre la boca.
+186 DT: la talla
+187 D: más o menos pero no
+188 AH: la tas la cosa la cosa # continua riéndose.
+189 DT: sí es una cosa
+190 D: sí muy bien
+191 AH: ¿qué? la
+192 D: ¿cómo se llama?
+193 AH: la # deja de reirse. ay mucho tristeza mucha tristeza # se lleva la mano izquierda a la garganta. mucha tristeza mi lengua
+194 DT: ¿por eso le está costando trabajo?
+195 AH: sí
+196 ... # pausa para descansar de la actividad.
+197 # Segmento: continuación posterior a la pausa.
+198 # se le muestra la ilustración de la taza vacía
+199 DT: la taza
+200 AH: la taza, la taza la taza estaba bien sabrosas
+201 DT: ¿la taza, se come?
+202 AH: la el café el café
+203 DT: muy bien muy bien, es como esta ¿no?
+204 # se le muestra la ilustración de la taza con café
+205 AH: sí ajá
+206 DT: vamos a cambiarla
+207 # se deja la ilustración de la taza con café y se retira la de la taza vacía
+208 DT: aquí está el café
+209 AH: el café
+210 DT: ¿y qué hace con el café?
+211 AH: este, bien sabroso
+212 D: ¿pero qué hace?
+213 DT: ¿qué hace? ya estamos acá en esta pregunta
+214 # se le señala la pregunta «¿qué se hace?» escrita en el pizarrón
+215 DT: ¿qué se hace con el café?
+216 AH: se hace café, el café ((se hace)) el café
+217 DT: se toma # hace el gesto con la mano izquierda de «tomar».
+218 AH: se tomó se tomá el café
+219 DT: yo me tomé el café
+220 AH: yo tomé café
+221 DT: eso muy bien
+222 ...
+223 DT: a ver vamos a ver, por ejemplo con este
+224 # se le muestra una ilustración de un cuchillo de cocina
+225 AH: el cuchillo
+226 DT: ¿qué se hace con un cuchillo?
+227 AH: el cuchillo el cuchillo está bien rasposo # comienza a reírse.
+228 DT: vamos a borrar esto y dejar el hace
+229 # se borra lo escrito en el pizarrón blanco dejando únicamente la palabra «hace»
+230 AH: hace
+231 DT: ¿qué hacemos con el cuchillo?
+232 AH: el cuchillo estaba bien filoso
+233 D: muy bien
+234 AH: bien filoso
+235 DT: ¿y usted qué hace con el cuchillo?
+236 AH: el cuchillo está
+237 DT: ¿para qué lo usa?
+238 AH: /mr/ # hace un sonido suave de /r/ no se entiende si es una palabra. ia(mira) aquí # muestra el dedo medio de la mano izquierda y lo señala con el índice derecho.
+239 D: ajá muy bien
+240 DT: ¿qué hizo usted?
+241 AH: se /m/ estaba bien /s/ # sonido de /s/ aspirada. ay, bien filoso
+242 DT: ¿se cortó?
+243 AH: sí
+244 DT: a ver dígalo
+245 AH: me corté me corté
+246 DT: eso, con el cuchillo
+247 AH: cuchillo, me corté cuchillo
+248 DT: ahí está muy bien, vamos a intentar unos más, a ver ¿con este?
+249 # se le muestra una ilustración de un tenedor con «TE» escrito al reverso
+250 AH: no me acuerdo
+251 DT: ¿cómo se llama? vamos a usar la tramapa
+252 # se le da la vuelta a la tarjeta para que pueda leer la pista
+253 DT: ¿cómo se llama?
+254 AH: ¿qué es, qué es hijo?
+255 DT: ¿cómo lo usa?
+256 AH: ...
+257 DT: ¿cómo lo usa este?
+258 AH: este qué es
+259 DT: ¿se come?
+260 AH: no no hombre no
+261 DT: pero sí se usa para
+262 AH: sí sí
+263 DT: ¿para qué se usa?
+264 AH: este así # se lleva la mano derecha juntando las puntas de los dedos a la boca en repetidas cosasiones haciendo el gesto de «comer» o «llevarse un bocado a la boca».
+265 DT: ¿cómo se llama eso?
+266 AH: no me acuerdo # mueve la mano izquierda cerca de la boca juntando las puntas de los dedos.
+267 DT: comer
+268 AH: yo comí este qué # niega levemente con la cabeza y se rie.
+269 DT: este no se come
+270 AH: ajá
+271 DT: pero lo usamos para comer
+272 AH: ah sí
+273 DT: ¿no se acuerda cómo se llama?
+274 AH: no
+275 DT: a ver
+276 # se vuelve a mostrar el «TE» escrito al reverso de la tarjeta
+277 DT: te
+278 AH: te
+279 DT: ten # haciendo énfasis en el sonido de la /n/
+280 AH: tendedor ¿cómo?
+281 D: muy bien
+282 DT: más o menos, ten
+283 AH: ten
+284 DT: tene
+285 AH: tenedor tenedor
+286 DT: eso
+287 AH: ah tenedor tenedor 
+288 DT: a ver ¿para qué se usa el tenedor?
+289 AH: el tenedor estaba hace # se rie. el tenedor estaba /fs/ # se lleva la mano izquierda enfrente de la boca y comienza a reírse.
+290 DT: a ver vamos a decir comió con el tenedor
+291 AH: el tenedor comió comí con el tenedor
+292 ... # por conversación de D y DT con AC.
+293 DT: a ver ahora este ¿qué dijimos?
+294 # se le muestra una ilustración de un vagon del metro de la ciudad de México.
+295 AH: el metro
+296 DT: ¿y qué hace?
+297 AH: /pi/ # alargando el último sonido.
+298 DT: sí ¿y eso cómo se llama?
+299 AH: este en el metro estaba ((catitlan)) acatitla # se rie.
+300 DT: en acatitla
+301 AH: sí
+302 DT: bueno vamos a decir que ¿hace ruido?
+303 AH: sí mucho ruido
+304 DT: ¿va lento o rápido?
+305 AH: pus(pues) len bien /f/ feo bien 
+306 DT: ¿bien?
+307 AH: bien
+308 DT: ¿se mueve?
+309 AH: sí hombre
+310 DT: a ver vamos a decir se mueve, usted diga, todo completo, el metro
+311 AH: el metro estaba bien estaba /fs/ # con las dos manos hace puños y los sube y baja en un par de ocasiones. ¿cómo? # comienza a reírse.
+312 DT: ¿lento?
+313 AH: no bien
+314 DT: ¿bien qué?
+315 AH: bien ... no
+316 DT: ¿rápido?
+317 AH: rápio bien rápido rápido rápido
+318 DT: ¿se mueve rápido?
+319 AH: sí bien rápido
+320 DT: a ver diga así, se mueve rápido
+321 AH: ¿cómo?
+322 DT: se mueve
+323 AH: se bue
+324 DT: mueve
+325 AH: se mueve el metro
+326 DT: ajá
+327 AH: el metro est el metro estaba bien bien 
+328 DT: rápido
+329 AH: bien
+330 DT: rápido
+331 AH: bien rápido
+332 DT: a ver este
+333 # se le muestra una ilustración de un tambor con el escrito «TAM» al reverso
+334 AH: a ver, /m/ ay no me acuerdo
+335 DT: a ver voltéelo atrás qué dice
+336 AH: tambor
+337 DT: ¿qué hace?
+338 AH: estaba /psh/ # con ambas manos con puños cerrados sube y baja de forma alternada simulando tocar un tambor. 
+339 DT: ¿eso cómo se dice?
+340 AH: el tambor estaba bien /s/ # repite el gesto con las manos de tocar un tambor.
+341 DT: ¿usted qué hace con el tambor?
+342 AH: # repite el gesto de tocar el tambor, esta vez la distancia vertical al alternar las manos es mucho más pronunciada y no agrega sonido.
+343 DT: ¿eso cómo se llama, cómo se llama hacerle así? # imita el gesto con las manos.
+344 AH: ay
+345 DT: así como si yo le estuviera haciendo así ¿no? # toma los marcadores para pizarrón y simula tocar un tambor. ¿cómo se dice esto?
+346 AH: ¿mucho ruido?
+347 DT: muy bien
+348 AH: mucho ruido
+349 DT: tocar el tambor
+350 AH: tocar
+351 DT: a ver diga usted
+352 AH: tocar el ba el tocador # comienza a reir. estaba el ¿qué es?
+353 DT: el tambor
+354 AH: el tambor
+355 DT: ¿qué hace?
+356 AH: estaba /m/ # vuelve a hacer el gesto con ambas manos de tocar un tambor.
+357 DT: tocando el tambor
+358 AH: tocar
+359 DT: y a ver ya el último
+360 # se le muestra una ilustración de un plato vacío
+361 AH: plato
+362 DT: ¿y qué se puede hacer con un plato?
+363 AH: la sopa la sopa
+364 DT: ¿este se come?
+365 AH: no hombre
+366 DT: ¿se usa para la comida?
+367 AH: sí
+368 DT: ¿cómo se usa?
+369 AH: este # señala la ilustración. un plato y con las cucharas y sopa
+370 DT: entonces servimos la comida
+371 AH: sí sí
+372 DT: puede ser
+373 AH: sí
+374 DT: a ver dígalo usted
+375 AH: /. sevimos ./ servimos servimos
+376 DT: o yo sirvo
+377 AH: yo sirvo el sopa
+378 DT: muy bien
+379 # Segmento: clasificación de palabras en categorías de acción (verbos) o cosas.
+380 # Material: pizarrón blanco con un tabla de dos columnas, una  que dice «cosa» y otra «acción».
+381 DT: esto ya lo hemos hecho ¿me ayuda a leer?
+382 # se le señalan las columnas en el pizarrón
+383 AH: cosa acción
+384 DT: ¿se acuerda que los estábamos separando? que si esto es una cosa que si esto una acción
+385 AH: sí sí cierto
+386 DT: por ejemplo vamos a usar su tarea, ¿el lápiz dónde iría, acá o acá? lápiz
+387 AH: a ver # señala la columna de acción.
+388 DT: ¿y escribir?
+389 AH: aquí # señala la columna de cosa.
+390 DT: en realidad van al revés pero vamos a empezar a trabajar
+391 AH: ah sí sí
+392 DT: por ejemplo, ¿esto qué es?
+393 # se le muestra una ilustración de una taza de café
+394 AH: café
+395 DT: ¿es cosa o es acción?
+396 AH: este acción # señala la columna de acción.
+397 DT: no, va acá # coloca la ilustración en la columna de cosa.
+398 AH: ah sí cierto
+399 DT: es una cosa, pero a ver ¿qué hace con el café?
+400 AH: este el café
+401 DT: ¿pero qué hace usted? así si le doy su tacita de café # junta ambas manos acercándolas a AH simulando el gesto de «dar».
+402 AH: este bebí bebí
+403 DT: eso muy bien
+404 D: muy bien
+405 AH: bebí
+406 DT: a ver escriba aquí bebí # señala la columna de acción.
+407 AH: bebí # toma el marcador de pizarrón.
+408 # Condición: escritura.
+409 AH: be # escribe «Be». be # escribe la letra B. bí # escribe la letra i, resultando en «BeBi».
+410 # Condición: conversación.
+411 DT: muy bien, esta es la acción # señala la palabra «bebí» que AH acaba de escribir. a ver hágale así de que tomamos # hace el gesto con la mano izquierda de «beber».
+412 AH: comí es # señala la ilustración de la taza de café. este el café, café /. bibi ./ bebí café
+413 DT: eso ¿ya vio? el café es la cosa es diferente
+414 AH: sí cierto
+415 DT: a ver vamos a hacerlo otra vez
+416 AH: órale
+417 DT: estuvo bien eh, así como lo hizo está bien
+418 AH: sí
+419 DT: ¿qué dijimos que es?
+420 AH: café
+421 DT: ¿es cosa o es acción?
+422 AH: cosa
+423 DT: a ver acomódelo
+424 # se le entrega la ilustración con la taza de café
+425 AH: # coloca la ilustración en la columna de cosa.
+426 DT: muy bien, y ¿qué hace conel café? # le entrega el marcador para pizarrón.
+427 AH: cosa
+428 DT: a ver est ya está acá en cosa # acomoda la ilustración. ¿qué hace con el café usted?
+429 AH: este café
+430 D: ¿pero qué quedamos que hace con el café?
+431 DT: ¿qué hace?
+432 AH: bebí
+433 DT: muy bien
+434 AH: bebí
+435 # Condición: escritura.
+436 AH: be # escribe «Be». bí # escribe «Bi» resultando en «BeBi».
+437 # Condición: conversación.
+438 DT: por ejemplo ¿cuál estaría bien?
+439 D: el de los tamales
+440 DT: a ver si le gusta nuestro dibujito ¿esto qué es?
+441 # se le muestra una ilustración de un plato con 2 tamales.
+442 AH: tamal
+443 DT: my bien ¿y es cosa o es acción?
+444 AH: este cosa
+445 DT: acomódelo # le entrega la ilustración.
+446 AH: cosa # intenta alcanzar el marcador de pizarrón.
+447 DT: a ver primero acomode ese aquí encima # señala la columna de cosa.
+448 AH: así # coloca la ilustración en la columna señalada.
+449 DT: entonce el tamal cosa ¿y qué hace con el tamal?
+450 AH: cosa, tamal # intenta escribir en la columna de cosa, acción que no se pide en la actividad.
+451 DT: ¿pero qué hace con el tamal, usted qué hace?
+452 AH: cosa
+453 DT: sí es cosa ¿pero qué hace usted? así le sirvo aquí sus tamales # le hacerca ambas manos. ¿qué hace?
+454 AH: tamales, ay pérame(espérame)
+455 DT: los tamales ¿los avienta?
+456 AH: no no
+457 DT: ¿los vende?
+458 AH: sí sí
+459 DT: los puede vender
+460 D: ¿qué otra cosa puede hacer con los tamales? si lo tiene aquí y usted tiene hambre ¿qué hace?
+461 AH: acción
+462 D: sí muy bien ¿pero cómo se le llama? # hace el gesto con la mano derecha de llevarse algo a la boca. ¿se acuerda? 
+463 AH: ay no es que me da miedo no sé me 
+464 D: ¿por qué miedo?
+465 AH: # mueve los ojos a la izquierda donde se encuentra AC sin que este se percate, mueve los labios pero no dice nada y sube y baja las cejas.
+466 D: no pasa nada
+467 DT: a ver le podemos ayudar
+468 AH: a ver
+469 DT: ¿es comida? # señala la ilustración de los tamales.
+470 AH: comida
+471 DT: los tamales son comida
+472 AH: sí
+473 DT: ¿qué hace con la comida? se # hace el gesto de llevarse algo a la boca con la mano derecha.
+474 AH: se # hace el gesto de llevarse algo a la boca con la mano izquierda. be be
+475 DT: cerca
+476 D: más o menos pero no
+477 DT: beber es así ¿no? tengo mi vacito o mi tacita # hace el gesto de beber con la mano derecha. pero cuando tengo mi comida y hago esto # repite el gesto de llevarse algo a la boca con la mano derecha.
+478 AH: # frunce el seño.
+479 DT: ¿cómo se come sus tamales? así abre la hoja
+480 AH: sí
+481 DT: y ¿qué, con un tenedor?
+482 AH: ah un tenedor
+483 DT: así lo parte # hace el gesto de llevarse algo a la boca.
+484 AH: sí sí ¿y luego? # se empieza a reir.
+485 DT: ¿y luego? ajá eso le toca a usted
+486 AH: /m/
+487 DT: nos lo co
+488 AH: comemos
+489 DT: eso
+490 AH: comemos
+491 DT: esa es la acción
+492 AH: comemos
+493 DT: a ver póngala aquí # señala la columna de acción.
+494 AH: comemos
+495 # Condición: escritura
+496 AH: comemos, co # escribe «co». me # escribe «mi». mos # escribe «mos» resultando en «comimos».
+497 # Condición: conversación.
+498 DT: los tamales # señala la ilustración y después la palabra que acaba de escribir AH.
+499 AH: comemos comimos comemos
+500 DT: bueno está bien aquí le cambió una letra, a ver léalo
+501 AH: comimos
+502 DT: está bien no pasa nada, los tamales ¿qué hacemos con los tamales? # señala nuevamente la palabra escrita.
+503 AH: comimos
+504 DT: vamos a hacer uno último, para que no se nos sature
+505 AH: ajá
+506 DT: a ver este ya lo habíamos usado
+507 # se le muestra una ilustración de un cuchillo de cocina.
+508 AH: cuchara cuchillo
+509 DT: ¿y es cosa o es acción?
+510 AH: este cosa
+511 DT: acomódelo # asiente y le entrega la ilustración.
+512 AH: # coloca la ilustración en la columna de cosa.
+513 DT: eso # le entrega el marcador de pizarrón. ¿y qué hace con el cuchillo?
+514 AH: este cu ...
+515 DT: mire to también me # le muestra una cortada pequeña que tiene el brazo. como usted
+516 AH: ah mira sí
+517 AC: aquí tiene otra # señala otra cortada en el brazo de DT.
+518 DT: ah sí aquí tengo otra
+519 AH: ah mira
+520 DT: nada más que estas no me las hice con un cuchillo, me las hizo mi gato
+521 AH: ay ¿a poco? # muestra sorpresa. íjole(expresión de sorpresa)
+522 DT: pero usted con el cuchillo ¿qué se hizo?
+523 AH: este con ira(mira) # señala su dedo medio de la mano izquierda. con /s/
+524 DT: sí ¿cuál es la acción?
+525 AH: este cuchillo está bien filoso
+526 DT: ¿y qué pasó porque estaba filoso? se # con la mano derecha extendida hace el gesto de «cortar» sobre su mano izquierda.
+527 AH: machu/k/ machuqué
+528 DT: más o menos
+529 D: más o menos
+530 AH: machuqué
+531 DT: va por ahí es otro verbo # continúa haciendo el gesto de «cortar» con la mano derecha
+532 AH: me machuqué
+533 DT: me cor
+534 AH: me corté me corté
+535 DT: eso
+536 AH: me corté
+537 DT: a ver escriba eso # señala la columna de acción.
+538 # Condición: escritura.
+539 AH: me # escribe «me». cor # escribe «cor». té # escribe «te» resultando en «me corte».
+540 DT: ¿con el cuchillo?
+541 AH: cuchillo # asiente pero no produce la oración completa, sólo repite la frase. con el cuchillo
+542 DT: muy bien ahora vamos a decirlotodo completo
+543 AH: ajá
+544 DT: ¿qué pasó con el cuchillo?
+545 AH: me corté # lee la palabra escrita el pizarrón.
+546 DT: a ver dígalo todo completo
+547 AH: me corté
+548 D: muy bien
+549 DT: con
+550 AH: con el cuchillo
+551 DT: otra vez todo completo
+552 AH: me corté con el cuchillo
+553 DT: eso muy bien, a ver ¿este qué habíamos dicho? # le muestra la ilustración  de los tamales nuevamente.
+554 AH: el tamal el tamal
+555 DT: ajá muy bien # le señala la palabra escrita en el pizarrón «comimos».
+556 AH: comimos tamal
+557 DT: a ver otra vez
+558 AH: comimos tamal
+559 DT: eso, ¿y el último? # le muestra la ilustración de la taza con café nuevamente.
+560 AH: el café # lee la palabra «BeBi» escrita en el pizarrón. bebí café
+561 DT: eso muy bien ¿ya vio la diferencia?
+562 AH: ajá sí cierto
+563 ...
+564 DT: vamos a hacer un último ejercicio
+565 AH: sí
+566 DT: va a ser un poquito más difícil
+567 AH: sí cierto
+568 DT: pero lo hizo muy bien
+569 ...
+570 DT: entonces vamos a ver mire con azul las cosas y con rojo las acciones # se le muestra una hoja blanca de forma horizontal dividida en dos columnas, la izquierda dice «Acción» en color rojo y la derecha «Cosa» en azul. usted ahorita va a escojer, vamos a usar su tarea
+571 AH: sí
+572 DT: cepillar
+573 AH: se
+574 DT: cepillar, a ver yo voy a hacer la acción # con la mano derecha hace el gesto de «cepillar los dientes». ¿usted lo hace?
+575 AH: sí sí
+576 DT: a ver ¿cómo se lava los dientes?
+577 AH: # lleva la mano derecha con las puntas de los dedos juntas a la comisura izquierda de sus labios, luego a la derecha y repite esta acción dos veces. sí sí sí
+578 DT: esta es la acción
+579 AH: acción sí
+580 DT: cepillar
+581 AH: sí
+582 DT: a ver diga cepillar
+583 AH: cepillar cepillar
+584 DT: ¿dónde va? # señala la hoja.
+585 AH: aquí # señala la columna que dice acción. acción
+586 DT: muy bien # le da el marcador rojo.
+587 AH: ¿cepillar?
+588 DT: sí
+589 # Condición: escritura.
+590 AH: # escribe la letra c. ce # escribe «cep». pi # escribe la letra i segido de «ll». llar # escribe «ar» resultando en «cepillar».
+591 DT: muy bien esa es la acción
+592 AH: sí ajá
+593 DT: y ¿dientes?
+594 AH: los dientes aquí # señala la columna de cosa. cosa
+595 DT: eso muy bien a ver
+596 AH: cosa
+597 DT: dientes
+598 AH: dientes
+599 # Condición: escritura.
+600 AH: # escribe «diE». dien # escribe «Nte». tes # escribe la letra s resultando en «diENtes».
+601 # Condición: conversación.
+602 DT: muy bien a ver ahora dígalo # le señala la palabra cepillar y luego dientes.
+603 AH: cepillar dientes
+604 DT: ¿cómo lo puede decir? yo
+605 AH: yo yo cepillé los dientes
+606 DT: perfecto, a ver vamos a intetar ahora con agua
+607 AH: /a/ agua # señala primero la columna cosa y luego la de acción, comienza a hacer un movimient con el dedo índice de la mano derecha sobre la hoja en la columna de cosa simulando la escritura de la palabra requerida, parece escribir en el aire «agi».
+608 DT: a ver ¿es una cosa el agua?
+609 AH: acción # señala la columna de cosa. agua agua
+610 DT: estaba bien aquí # señala al mismo tiempo que AH la columna de cosa.
+611 # Condición: escritura.
+612 AH: # sin decir la palabra escribe «agui» similar a la acción anterior de escribir en el aire con el dedo índice. /a/ agua # nota el error y corrige escribiendo sobre la letra i una A, resultando en «aguA».
+613 DT: muy bien ¿y servir?
+614 AH: /. serville serv ./ 
+615 DT: servir
+616 AH: servir aquí # señala la columna de acción. acción
+617 DT: sí muy bien a ver
+618 AH: ((vio))
+619 DT: servir
+620 AH: servir
+621 # Condición: escritura.
+622 AH: ser # escribe «CE». /s/ ser # escribe la letra N resultando en «CEN». ¿no?
+623 DT: servir
+624 AH: servir # escribe la letra d. ser # escribe la letra i. vir # escribe la letra N, resultando en «CENdiN».
+625 DT: no pasa nada ¿cómo sería completo? # señala la palabra escrita por AH «CENdiN» y después
+626 AH: servir
+627 DT: servir # señala la palabra «aguA».
+628 AH: agua
+629 DT: a ver ahora ¿cómo lo diría completo?
+630 AH: servir agua coca este cosa
+631 DT: ah ya se le antojó la coca
+632 AH: cosa # comienza a reirse.
+633 DT: muy bien, y ahora vamos a ponerle uno que no ha hecho usted, por ejemplo ver
+634 AH: ah
+635 DT: ¿qué es cosa o acción?
+636 AH: ver ver
+637 DT: ver ¿cuál es?
+638 AH: a ver # señala la columna de cosa.
+639 DT: ¿segura?
+640 AH: acción # continúa señalando la misma columna. ver
+641 DT: a ver # le da el marcador rojo.
+642 AH: ver
+643 # Condición: escritura.
+644 AH: ver # escribe «ER». ver ver 
+645 DT: a ver # cubre con un objeto lo que AH acaba de escribir. aquí abajito escríbalo, ver
+646 AH: ver # escribe «Per»
+647 DT: y a ver, tele(televisión)
+648 AH: ¿tele?
+649 DT: la tele
+650 AH: coca cosa cosa cosa
+651 DT: muy bien, sí se le antojó la coca
+652 AH: # se rie pero no escribe.
+653 DT: tele, la tele
+654 AH: # escribe «te». tele # escribe «Le». vi # escribe «b». vi # escribe la letra i. /s/ # escribe «ci». ción # escribe oN, resultando en «teLebicioN».
+655 DT: bien ¿usted ve la televisión?
+656 AH: sí
+657 DT: a ver diga así veo la televisión
+658 AH: ayer ayer estaba en la televisión
+659 DT: ¿usted estaba en la televisión?
+660 AH: sí sí
+661 DT: ¿la grabaron?
+662 AH: no hombre # se comienza a reir.
+663 DT: estaba viendo la televisión
+664 AH: vien
+665 DT: viendo la televisión
+666 AH: viendo la televisión # lo dice al mismo tiempo que DT.
+667 # Segmento: escritura al dictado con dibujos.
+668 # Material: una nueva hoja en blanco y un lápiz.
+669 DT: a ver va a escribir ¿qué hace con un lápiz?
+670 AH: lápiz
+671 DT: con el lápiz ¿qué hacemos? # señala el cuaderno de AH.
+672 AH: escribir
+673 D: muy bien
+674 DT: ¿puede escribir aquí una oración usted?
+675 # Condición: escritura.
+676 AH: escribir escribir es # escribe «ES». cri a ver # voltea a ver su cuaderno para copiar la palabra. 
+677 DT: ah no sin trampas sin trampas
+678 AH: escribir es cri bir # dice la palabra separando por sílabas y concluye la palabra resultando en «ESiBiN», el cambio de la grafía de N es sustición de la R ha sido constante.
+679 # Condición: conversación.
+680 DT: a ver ¿se parece? vamos a comparar # pone la hoja donde acaba de escribir AH al lado de las palabras escritas en su cuaderno. ¿se parece lo que usted puso?
+681 AH: no
+682 DT: ¿no se parece?
+683 AH: no
+684 DT: a ver escríbalo aquía bajo
+685 # Condición: escritura.
+686 AH: a ver # copia la palabra «escribir» anotada en su cuaderno.
+687 DT: había faltado ¿verdad?
+688 AH: sí
+689 DT: ¿con qué escribimos?
+690 AH: el lápiz
+691 DT: a ver escríbalo
+692 AH: lápiz # copia la palabra lápiz escrita en su cuaderno.
+693 DT: a ver ¿puede dibujar un lápiz?
+694 # Condición: dibujo.
+695 AH: # dibuja al final de la hoja un óvalo pequeño de un centímetro aproximadamente, de la parte inferior del óvalo dibuja una línea recta vertical de un centímetro.
+696 DT: a ver ¿qué es esto? # señala el dibujo que AH acaba de ralizar.
+697 AH: pis # le provoca risa y comienza a hacer trazos con el lápiz sobre la palma de su mano izquierda. la ah no
+698 DT: ¿qué dibujó? platíqueme usted qué dibujó
+699 AH: a ver # vuelve a hacer trazos sobre la palma de su mano izquierda. la a ver lápiz # comienza a reirse. 
+700 DT: a ver para que se guíe # dibuja un rectángulo debajo de la palabra lápiz que AH escribió. aquí adentro dibuje un lápiz # le entrega el lápiz a AH. dibujado
+701 AH: # sin habla comienza a dibujar una línea recta vertical, en el extremo superior dibuja un círculo pequeño, dibujo similar al anterior.
+702 DT: ¿esto qué es? # señala el dibujo reciente.
+703 AH: lápiz
+704 DT: ¿esta parte de aquí qué es? # señala el círculo.
+705 AH: la goma la goma
+706 DT: ¿y todo esto que dibujó? # señala la línea vertical.
+707 AH: ...
+708 DT: a ver ¿esto qué es? # señala la punta del lápiz con el que hizo el dibujo.
+709 AH: la punta
+710 D: muy bien
+711 DT: a ver # dibuja un rectángulo debajo de la palabra «escribir» que AH escribió. ¿con qué escribe?
+712 AH: una pluma
+713 DT: ¿con qué partes del cuerpo escribe?
+714 AH: aquí con la pluma # señala el lápiz con su mano izquierda.
+715 DT: ¿y qué mueve el lápiz, se mueve sólo?
+716 AH: no
+717 DT: ¿cómo se usa? con
+718 AH: con la mano con la mano
+719 DT: a ver dibújeme una manita aquí # señala el rectángulo debajo de la palabra «escribir».
+720 AH: con la mano # dibuja una líea con cinco ángulos como «^^^^^» (podría tratarse de una representación de los dedos de la mano).
+721 DT: los cinco dedos
+722 AH: sí
+723 DT: muy bien entonces escribimos # señala el dibujo de la mano.
+724 AH: escribir la mano la mano con la mano
+725 DT: a ver todo completo
+726 AH: escribir con la cap con la /k/ escribir con # voltea a ver su mano derecha donde sostiene el lápiz. con la mano
+727 DT: ¿o? # señala el dibujo del lápiz.
+728 AH: o la o con lápiz

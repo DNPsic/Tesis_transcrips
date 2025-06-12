@@ -1,12 +1,62 @@
 # Segmento: escritura al dictado con dibujos.
-# Condición: dictado.
-DT: 
-AH: 
-DT: 
-AH: 
-DT: 
-AH: 
-DT: 
-AH: 
-DT: 
-AH: 
+# Material: una nueva hoja en blanco y un lápiz.
+DT: a ver va a escribir ¿qué hace con un lápiz?
+AH: lápiz
+DT: con el lápiz ¿qué hacemos? # señala el cuaderno de AH.
+AH: escribir
+D: muy bien
+DT: ¿puede escribir aquí una oración usted?
+# Condición: escritura.
+AH: escribir escribir es # escribe «ES». cri a ver # voltea a ver su cuaderno para copiar la palabra. 
+DT: ah no sin trampas sin trampas
+AH: escribir es cri bir # dice la palabra separando por sílabas y concluye la palabra resultando en «ESiBiN», el cambio de la grafía de N es sustición de la R ha sido constante.
+# Condición: conversación.
+DT: a ver ¿se parece? vamos a comparar # pone la hoja donde acaba de escribir AH al lado de las palabras escritas en su cuaderno. ¿se parece lo que usted puso?
+AH: no
+DT: ¿no se parece?
+AH: no
+DT: a ver escríbalo aquía bajo
+# Condición: escritura.
+AH: a ver # copia la palabra «escribir» anotada en su cuaderno.
+DT: había faltado ¿verdad?
+AH: sí
+DT: ¿con qué escribimos?
+AH: el lápiz
+DT: a ver escríbalo
+AH: lápiz # copia la palabra lápiz escrita en su cuaderno.
+DT: a ver ¿puede dibujar un lápiz?
+# Condición: dibujo.
+AH: # dibuja al final de la hoja un óvalo pequeño de un centímetro aproximadamente, de la parte inferior del óvalo dibuja una línea recta vertical de un centímetro.
+DT: a ver ¿qué es esto? # señala el dibujo que AH acaba de ralizar.
+AH: pis # le provoca risa y comienza a hacer trazos con el lápiz sobre la palma de su mano izquierda. la ah no
+DT: ¿qué dibujó? platíqueme usted qué dibujó
+AH: a ver # vuelve a hacer trazos sobre la palma de su mano izquierda. la a ver lápiz # comienza a reirse. 
+DT: a ver para que se guíe # dibuja un rectángulo debajo de la palabra lápiz que AH escribió. aquí adentro dibuje un lápiz # le entrega el lápiz a AH. dibujado
+AH: # sin habla comienza a dibujar una línea recta vertical, en el extremo superior dibuja un círculo pequeño, dibujo similar al anterior.
+DT: ¿esto qué es? # señala el dibujo reciente.
+AH: lápiz
+DT: ¿esta parte de aquí qué es? # señala el círculo.
+AH: la goma la goma
+DT: ¿y todo esto que dibujó? # señala la línea vertical.
+AH: ...
+DT: a ver ¿esto qué es? # señala la punta del lápiz con el que hizo el dibujo.
+AH: la punta
+D: muy bien
+DT: a ver # dibuja un rectángulo debajo de la palabra «escribir» que AH escribió. ¿con qué escribe?
+AH: una pluma
+DT: ¿con qué partes del cuerpo escribe?
+AH: aquí con la pluma # señala el lápiz con su mano izquierda.
+DT: ¿y qué mueve el lápiz, se mueve sólo?
+AH: no
+DT: ¿cómo se usa? con
+AH: con la mano con la mano
+DT: a ver dibújeme una manita aquí # señala el rectángulo debajo de la palabra «escribir».
+AH: con la mano # dibuja una líea con cinco ángulos como «^^^^^» (podría tratarse de una representación de los dedos de la mano).
+DT: los cinco dedos
+AH: sí
+DT: muy bien entonces escribimos # señala el dibujo de la mano.
+AH: escribir la mano la mano con la mano
+DT: a ver todo completo
+AH: escribir con la cap con la /k/ escribir con # voltea a ver su mano derecha donde sostiene el lápiz. con la mano
+DT: ¿o? # señala el dibujo del lápiz.
+AH: o la o con lápiz

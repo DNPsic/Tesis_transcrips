@@ -1,0 +1,728 @@
+# Segmento: inicio de sesión.
+# Condición: conversación.
+D: cuénteme qué hizo en las mañanas, en las tardes y en las noches
+AH: yo desayuné
+D: ¿qué más hizo qué desayunó?
+AH: sopa de verduras
+D: ¿qué más?
+AH: y atole
+D: ¿eso qué día fue?
+AH: siempre siempre
+D: ¿todos los días desayuna supa de verduras?
+AH: sí sí
+D: muy bien qué saludable ¿qué más?
+AH: y pescado
+D: ¿qué más hizo en la semana?
+AH: este la tarea este, trapié, la tarea
+D: ¿qué más?
+AH: y duerme y duerme
+D: ay qué bonito es dormir
+AH: sí verdad
+D: a ver cuénteme qué hizo por las tardes
+AH: este duerme y duerme, duerme y duerme # asiente.
+D: ¿qué más qué otra cosa?
+AH: este /s/ duerme y duerme con mis nietos con mis nietos y con mi su esposa de D_
+D: ¿D_ quién es?
+AH: este mi nieto
+D: ah muy bien ¿lo fueron a visitar?
+AH: aquí está en el departamento ¿vea?(¿verdad?) # voltea a ver a AC.
+D: ah viven con usted
+AH: no el (?) a la mitad # voltea a ver a AC.
+AC: viven en el otro ahí somos vecinos
+AH: sí
+D: viven al lado
+AC: llegaron a rentar ahí
+D: ah muy bien muy bien
+AC: A_ mi hijo les consiguió ahí el departamento y pues ya se cambiaron de donde estaban
+AH: sí
+D: es el hijo de A_ entonces
+AH: sí
+AC: el hijo de A_
+D: ¿hizo alguna otra cosa en las noches por ejemplo?
+AH: café con leche y pan tostado
+D: muy bien muy bien ¿algo más?
+AH: el seguro también en la man ayer me fui al seguro
+D: ah muy bien ¿escuchó que usted dijo me fui?
+DT: me fui al seguro me fui al seguro # asiente.
+D: muy bien ahí usó un verbo
+AH: ¿sí? ah sí mira
+D: ¿alguna otra cosa?
+AH: este ya no no sé
+D: muy bien
+AH: el tianguis también el miércoles
+D: usted fue al tianguis
+AH: no porque ya no ya luego está muy feo muy feo
+D: ¿a porque es peligroso?
+AH: pus(pues) sí
+# Segmento: actividad con ilustraciones de objetos.
+# Material: tarjetas de imágenes y las preguntas en el pizarrón ¿qué es? ¿qué se hace?, marcadores azul y rojo. 
+...
+DT: con este de arriba ya no vamos a trabajar, ya no es la cosa, ya lo tachamos, ahora con ¿qué se hace? ¿lo puede leer otra vez?
+AH: ¿qué se hace?
+DT: yo le voy a poner un ejemplo
+# se le muestra una ilustración con una taza de café
+DT: ¿qué cosa es?
+AH: café
+DT: ¿qué se hace?
+AH: leche con café
+DT: ahora para contestar, este es un ejemplo, ¿qué se ahce con el café? me lo tomo ¿ya vio?
+AH: sí sí
+DT: entonces acá arriba es café y con esta ¿la puede leer otra vez?
+AH: qué hace
+DT: me lo tomo
+AH: me lo tomo me lo tomo me lo tomo
+DT: exacto este fue un ejemplo, entonces vamos a empezar
+AH: sí
+DT: a ver este qué me había dicho
+# se le muestra una ilustración de una estufa
+AH: la estufa
+DT: ¿y qué se hace?
+AH: en la estufa se hace el ca estaba el café la estufa, en la estufa
+DT: sí muy bien ¿y qué se hace con la estufa?
+AH: este esperame, la lumbre la lumbre
+DT: ¿y qué hace usted ahí en la estufa?
+AH: en la lumbre, el café con leche, café el café
+DT: ¿qué más?
+AH: el café,este atole
+DT: ¿y eso cómo se dice? le voy a ayudar, cuando usted pone cosas aquí es cocinar
+AH: cocinar ah pues sí cierto
+DT: entonce vamoa a intentar decirlo todo completo ¿qué se hace en la estufa?
+AH: cocinar
+DT: o puede decir yo cocino
+AH: yo deci(?) yo
+DT: yo cocino
+AH: yo cociné
+DT: a ver señálese así
+AH: yo cociné
+DT: muy bien a ver otra vez, en la estufa
+AH: yo cociné 
+DT: muy bien
+...
+DT: ahora vamos con este ¿qué dijimos que era?
+# se le muestra una ilustración de un teléfono fijo, no celular
+AH: el teléfono
+DT: ¿y qué se hace?
+AH: ¿qué hace? # el teléfono señala la tarjeta con la imagen del teléfono. /rr/ # intenta imitar el sonido de un teléfono.
+DT: ¿y eso cómo se llama? sí está bien
+AH: el teléfono estaba bien /. rue ru ./ # se ríe.
+DT: muy bien pero tiene otra forma de decirlo, hace
+AH: hace ruido
+DT: eso muy bien
+AH: hace ruido 
+DT: ¿y usted qué hace con el teléfono? acá me dijo cocino
+# se le muestra la ilustración de la estufa
+DT: y aquí con este
+# se le señala la ilustración del teléfono
+AH: el teléfono
+DT: ¿y qué hace con el teléfono
+AH: este con mis hijos, el teléfono con mis hijos
+DT: ¿pero qué hace con sus hijos?
+AH: con mis hijos en el refri(refigerador) estaba en # comeinza a reirse y se cubre la boca con la mano. el teléfono
+DT: muy bien, le voy a ayudar otra vez, acá en la estufa cocinamos
+# se le señala la imagen de la estufa
+AH: cocinamos
+DT: y por el teléfono o en el teléfono
+# se le hace la seña con la mano de «llamar por teléfono»
+DT: ¿cómo se dice esto?
+AH: ...
+DT: hablamos
+AH: hablando hablamos
+DT: o llamamos
+AH: hablamos ah sí cierto hablamos # no dijo «llamamos» repitió varias veces «hablamos».
+DT: a ver con esta qué hacemos
+# se le señala la ilustración de la estufa
+AH: estufa
+DT: ¿qué hacemos con la estufa?
+AH: la estufa
+DT: ¿qué hacemos?
+AH: eh la estufa
+DT: ¿qué habíamos dicho que hacía?
+AH: estaba en la estufa ...
+DT: cocinamos
+AH: cocinamos
+AT: ¿y aquí?
+# se le señala la ilustración del teléfono
+AH: el teléfono está bien sordo # se ríe y voltea a ver a AC.
+DT: muy bien vamos a ir al siguiente, a ver por ejemplo este qué dijimos
+# se le muestra la ilustración de una canasta con diferentes tipos de pan
+AH: las galletas
+DT: ¿qué se hace con las galletas?
+AH: las galletas ((estaban)) bien sabrosas
+DT: ¿qué hace usted con las galletas?
+... # interrupción por llamada telefónica
+# Segmento: continuación posterior a la interrupción.
+AH: están bien sabrosas
+DT: ¿y qué hace con las galletas usted?
+AH: a ver, eh pérame(espérame) ay, sí, ay pérame(espérame) ¿qué es? las galletas estaban bien sabrosas
+DT: bien, vamos a pasar a la siguiente, ¿aquí qué dijimos que era?
+# se le muestra una ilustración de una playa
+AH: en pérame(espérame) ... a ver
+DT: ya nos había dicho hace rato
+AH: en ... no no me acuerdo
+DT: empieza con esta letra
+# se da la vuelta a la tarjeta donde esta escrita la letra «M»
+AH: Mar mar
+D: muy bien
+DT: ¿y aquí qué hace?
+AH: el mar estaba bien fea bien feo # se rie
+DT: ¿no le gusta ir al mar?
+DH: no no
+DT: ¿no le gusta?
+D: ¿por qué?
+AH: # voltea a ver a D y asiente sin responder
+DT: ¿y qué puede hacer en el mar?
+AH: nadar, nadando nadando
+D: muy bien
+DT: a ver dígame yo nado
+AH: yo nadé nad(?) ya nadé yo nadé
+DT: muy bien muy bien ahí sí nos salió el verbo, a ver y esto qué era
+# se le muestra una ilustración de una taza vacía
+AH: la ...
+D: ¿con qué letra empieza, se acuerda?
+AH: ay pérame(espérame) no
+DT: vamos a hacer trampa
+# se da la vuelta a la tarjeta donde esta escrito «TA»
+AH: la la talla la taj ay # comeinza a reirse y se cubre la boca.
+DT: la talla
+D: más o menos pero no
+AH: la tas la cosa la cosa # continua riéndose.
+DT: sí es una cosa
+D: sí muy bien
+AH: ¿qué? la
+D: ¿cómo se llama?
+AH: la # deja de reirse. ay mucho tristeza mucha tristeza # se lleva la mano izquierda a la garganta. mucha tristeza mi lengua
+DT: ¿por eso le está costando trabajo?
+AH: sí
+... # pausa para descansar de la actividad.
+# Segmento: continuación posterior a la pausa.
+# se le muestra la ilustración de la taza vacía
+DT: la taza
+AH: la taza, la taza la taza estaba bien sabrosas
+DT: ¿la taza, se come?
+AH: la el café el café
+DT: muy bien muy bien, es como esta ¿no?
+# se le muestra la ilustración de la taza con café
+AH: sí ajá
+DT: vamos a cambiarla
+# se deja la ilustración de la taza con café y se retira la de la taza vacía
+DT: aquí está el café
+AH: el café
+DT: ¿y qué hace con el café?
+AH: este, bien sabroso
+D: ¿pero qué hace?
+DT: ¿qué hace? ya estamos acá en esta pregunta
+# se le señala la pregunta «¿qué se hace?» escrita en el pizarrón
+DT: ¿qué se hace con el café?
+AH: se hace café, el café ((se hace)) el café
+DT: se toma # hace el gesto con la mano izquierda de «tomar».
+AH: se tomó se tomá el café
+DT: yo me tomé el café
+AH: yo tomé café
+DT: eso muy bien
+...
+DT: a ver vamos a ver, por ejemplo con este
+# se le muestra una ilustración de un cuchillo de cocina
+AH: el cuchillo
+DT: ¿qué se hace con un cuchillo?
+AH: el cuchillo el cuchillo está bien rasposo # comienza a reírse.
+DT: vamos a borrar esto y dejar el hace
+# se borra lo escrito en el pizarrón blanco dejando únicamente la palabra «hace»
+AH: hace
+DT: ¿qué hacemos con el cuchillo?
+AH: el cuchillo estaba bien filoso
+D: muy bien
+AH: bien filoso
+DT: ¿y usted qué hace con el cuchillo?
+AH: el cuchillo está
+DT: ¿para qué lo usa?
+AH: /mr/ # hace un sonido suave de /r/ no se entiende si es una palabra. ia(mira) aquí # muestra el dedo medio de la mano izquierda y lo señala con el índice derecho.
+D: ajá muy bien
+DT: ¿qué hizo usted?
+AH: se /m/ estaba bien /s/ # sonido de /s/ aspirada. ay, bien filoso
+DT: ¿se cortó?
+AH: sí
+DT: a ver dígalo
+AH: me corté me corté
+DT: eso, con el cuchillo
+AH: cuchillo, me corté cuchillo
+DT: ahí está muy bien, vamos a intentar unos más, a ver ¿con este?
+# se le muestra una ilustración de un tenedor con «TE» escrito al reverso
+AH: no me acuerdo
+DT: ¿cómo se llama? vamos a usar la tramapa
+# se le da la vuelta a la tarjeta para que pueda leer la pista
+DT: ¿cómo se llama?
+AH: ¿qué es, qué es hijo?
+DT: ¿cómo lo usa?
+AH: ...
+DT: ¿cómo lo usa este?
+AH: este qué es
+DT: ¿se come?
+AH: no no hombre no
+DT: pero sí se usa para
+AH: sí sí
+DT: ¿para qué se usa?
+AH: este así # se lleva la mano derecha juntando las puntas de los dedos a la boca en repetidas cosasiones haciendo el gesto de «comer» o «llevarse un bocado a la boca».
+DT: ¿cómo se llama eso?
+AH: no me acuerdo # mueve la mano izquierda cerca de la boca juntando las puntas de los dedos.
+DT: comer
+AH: yo comí este qué # niega levemente con la cabeza y se rie.
+DT: este no se come
+AH: ajá
+DT: pero lo usamos para comer
+AH: ah sí
+DT: ¿no se acuerda cómo se llama?
+AH: no
+DT: a ver
+# se vuelve a mostrar el «TE» escrito al reverso de la tarjeta
+DT: te
+AH: te
+DT: ten # haciendo énfasis en el sonido de la /n/
+AH: tendedor ¿cómo?
+D: muy bien
+DT: más o menos, ten
+AH: ten
+DT: tene
+AH: tenedor tenedor
+DT: eso
+AH: ah tenedor tenedor 
+DT: a ver ¿para qué se usa el tenedor?
+AH: el tenedor estaba hace # se rie. el tenedor estaba /fs/ # se lleva la mano izquierda enfrente de la boca y comienza a reírse.
+DT: a ver vamos a decir comió con el tenedor
+AH: el tenedor comió comí con el tenedor
+... # por conversación de D y DT con AC.
+DT: a ver ahora este ¿qué dijimos?
+# se le muestra una ilustración de un vagon del metro de la ciudad de México.
+AH: el metro
+DT: ¿y qué hace?
+AH: /pi/ # alargando el último sonido.
+DT: sí ¿y eso cómo se llama?
+AH: este en el metro estaba ((catitlan)) acatitla # se rie.
+DT: en acatitla
+AH: sí
+DT: bueno vamos a decir que ¿hace ruido?
+AH: sí mucho ruido
+DT: ¿va lento o rápido?
+AH: pus(pues) len bien /f/ feo bien 
+DT: ¿bien?
+AH: bien
+DT: ¿se mueve?
+AH: sí hombre
+DT: a ver vamos a decir se mueve, usted diga, todo completo, el metro
+AH: el metro estaba bien estaba /fs/ # con las dos manos hace puños y los sube y baja en un par de ocasiones. ¿cómo? # comienza a reírse.
+DT: ¿lento?
+AH: no bien
+DT: ¿bien qué?
+AH: bien ... no
+DT: ¿rápido?
+AH: rápio bien rápido rápido rápido
+DT: ¿se mueve rápido?
+AH: sí bien rápido
+DT: a ver diga así, se mueve rápido
+AH: ¿cómo?
+DT: se mueve
+AH: se bue
+DT: mueve
+AH: se mueve el metro
+DT: ajá
+AH: el metro est el metro estaba bien bien 
+DT: rápido
+AH: bien
+DT: rápido
+AH: bien rápido
+DT: a ver este
+# se le muestra una ilustración de un tambor con el escrito «TAM» al reverso
+AH: a ver, /m/ ay no me acuerdo
+DT: a ver voltéelo atrás qué dice
+AH: tambor
+DT: ¿qué hace?
+AH: estaba /psh/ # con ambas manos con puños cerrados sube y baja de forma alternada simulando tocar un tambor. 
+DT: ¿eso cómo se dice?
+AH: el tambor estaba bien /s/ # repite el gesto con las manos de tocar un tambor.
+DT: ¿usted qué hace con el tambor?
+AH: # repite el gesto de tocar el tambor, esta vez la distancia vertical al alternar las manos es mucho más pronunciada y no agrega sonido.
+DT: ¿eso cómo se llama, cómo se llama hacerle así? # imita el gesto con las manos.
+AH: ay
+DT: así como si yo le estuviera haciendo así ¿no? # toma los marcadores para pizarrón y simula tocar un tambor. ¿cómo se dice esto?
+AH: ¿mucho ruido?
+DT: muy bien
+AH: mucho ruido
+DT: tocar el tambor
+AH: tocar
+DT: a ver diga usted
+AH: tocar el ba el tocador # comienza a reir. estaba el ¿qué es?
+DT: el tambor
+AH: el tambor
+DT: ¿qué hace?
+AH: estaba /m/ # vuelve a hacer el gesto con ambas manos de tocar un tambor.
+DT: tocando el tambor
+AH: tocar
+DT: y a ver ya el último
+# se le muestra una ilustración de un plato vacío
+AH: plato
+DT: ¿y qué se puede hacer con un plato?
+AH: la sopa la sopa
+DT: ¿este se come?
+AH: no hombre
+DT: ¿se usa para la comida?
+AH: sí
+DT: ¿cómo se usa?
+AH: este # señala la ilustración. un plato y con las cucharas y sopa
+DT: entonces servimos la comida
+AH: sí sí
+DT: puede ser
+AH: sí
+DT: a ver dígalo usted
+AH: /. sevimos ./ servimos servimos
+DT: o yo sirvo
+AH: yo sirvo el sopa
+DT: muy bien
+# Segmento: clasificación de palabras en categorías de acción (verbos) o cosas.
+# Material: pizarrón blanco con un tabla de dos columnas, una  que dice «cosa» y otra «acción».
+DT: esto ya lo hemos hecho ¿me ayuda a leer?
+# se le señalan las columnas en el pizarrón
+AH: cosa acción
+DT: ¿se acuerda que los estábamos separando? que si esto es una cosa que si esto una acción
+AH: sí sí cierto
+DT: por ejemplo vamos a usar su tarea, ¿el lápiz dónde iría, acá o acá? lápiz
+AH: a ver # señala la columna de acción.
+DT: ¿y escribir?
+AH: aquí # señala la columna de cosa.
+DT: en realidad van al revés pero vamos a empezar a trabajar
+AH: ah sí sí
+DT: por ejemplo, ¿esto qué es?
+# se le muestra una ilustración de una taza de café
+AH: café
+DT: ¿es cosa o es acción?
+AH: este acción # señala la columna de acción.
+DT: no, va acá # coloca la ilustración en la columna de cosa.
+AH: ah sí cierto
+DT: es una cosa, pero a ver ¿qué hace con el café?
+AH: este el café
+DT: ¿pero qué hace usted? así si le doy su tacita de café # junta ambas manos acercándolas a AH simulando el gesto de «dar».
+AH: este bebí bebí
+DT: eso muy bien
+D: muy bien
+AH: bebí
+DT: a ver escriba aquí bebí # señala la columna de acción.
+AH: bebí # toma el marcador de pizarrón.
+# Condición: escritura.
+AH: be # escribe «Be». be # escribe la letra B. bí # escribe la letra i, resultando en «BeBi».
+# Condición: conversación.
+DT: muy bien, esta es la acción # señala la palabra «bebí» que AH acaba de escribir. a ver hágale así de que tomamos # hace el gesto con la mano izquierda de «beber».
+AH: comí es # señala la ilustración de la taza de café. este el café, café /. bibi ./ bebí café
+DT: eso ¿ya vio? el café es la cosa es diferente
+AH: sí cierto
+DT: a ver vamos a hacerlo otra vez
+AH: órale
+DT: estuvo bien eh, así como lo hizo está bien
+AH: sí
+DT: ¿qué dijimos que es?
+AH: café
+DT: ¿es cosa o es acción?
+AH: cosa
+DT: a ver acomódelo
+# se le entrega la ilustración con la taza de café
+AH: # coloca la ilustración en la columna de cosa.
+DT: muy bien, y ¿qué hace conel café? # le entrega el marcador para pizarrón.
+AH: cosa
+DT: a ver est ya está acá en cosa # acomoda la ilustración. ¿qué hace con el café usted?
+AH: este café
+D: ¿pero qué quedamos que hace con el café?
+DT: ¿qué hace?
+AH: bebí
+DT: muy bien
+AH: bebí
+# Condición: escritura.
+AH: be # escribe «Be». bí # escribe «Bi» resultando en «BeBi».
+# Condición: conversación.
+DT: por ejemplo ¿cuál estaría bien?
+D: el de los tamales
+DT: a ver si le gusta nuestro dibujito ¿esto qué es?
+# se le muestra una ilustración de un plato con 2 tamales.
+AH: tamal
+DT: my bien ¿y es cosa o es acción?
+AH: este cosa
+DT: acomódelo # le entrega la ilustración.
+AH: cosa # intenta alcanzar el marcador de pizarrón.
+DT: a ver primero acomode ese aquí encima # señala la columna de cosa.
+AH: así # coloca la ilustración en la columna señalada.
+DT: entonce el tamal cosa ¿y qué hace con el tamal?
+AH: cosa, tamal # intenta escribir en la columna de cosa, acción que no se pide en la actividad.
+DT: ¿pero qué hace con el tamal, usted qué hace?
+AH: cosa
+DT: sí es cosa ¿pero qué hace usted? así le sirvo aquí sus tamales # le hacerca ambas manos. ¿qué hace?
+AH: tamales, ay pérame(espérame)
+DT: los tamales ¿los avienta?
+AH: no no
+DT: ¿los vende?
+AH: sí sí
+DT: los puede vender
+D: ¿qué otra cosa puede hacer con los tamales? si lo tiene aquí y usted tiene hambre ¿qué hace?
+AH: acción
+D: sí muy bien ¿pero cómo se le llama? # hace el gesto con la mano derecha de llevarse algo a la boca. ¿se acuerda? 
+AH: ay no es que me da miedo no sé me 
+D: ¿por qué miedo?
+AH: # mueve los ojos a la izquierda donde se encuentra AC sin que este se percate, mueve los labios pero no dice nada y sube y baja las cejas.
+D: no pasa nada
+DT: a ver le podemos ayudar
+AH: a ver
+DT: ¿es comida? # señala la ilustración de los tamales.
+AH: comida
+DT: los tamales son comida
+AH: sí
+DT: ¿qué hace con la comida? se # hace el gesto de llevarse algo a la boca con la mano derecha.
+AH: se # hace el gesto de llevarse algo a la boca con la mano izquierda. be be
+DT: cerca
+D: más o menos pero no
+DT: beber es así ¿no? tengo mi vacito o mi tacita # hace el gesto de beber con la mano derecha. pero cuando tengo mi comida y hago esto # repite el gesto de llevarse algo a la boca con la mano derecha.
+AH: # frunce el seño.
+DT: ¿cómo se come sus tamales? así abre la hoja
+AH: sí
+DT: y ¿qué, con un tenedor?
+AH: ah un tenedor
+DT: así lo parte # hace el gesto de llevarse algo a la boca.
+AH: sí sí ¿y luego? # se empieza a reir.
+DT: ¿y luego? ajá eso le toca a usted
+AH: /m/
+DT: nos lo co
+AH: comemos
+DT: eso
+AH: comemos
+DT: esa es la acción
+AH: comemos
+DT: a ver póngala aquí # señala la columna de acción.
+AH: comemos
+# Condición: escritura
+AH: comemos, co # escribe «co». me # escribe «mi». mos # escribe «mos» resultando en «comimos».
+# Condición: conversación.
+DT: los tamales # señala la ilustración y después la palabra que acaba de escribir AH.
+AH: comemos comimos comemos
+DT: bueno está bien aquí le cambió una letra, a ver léalo
+AH: comimos
+DT: está bien no pasa nada, los tamales ¿qué hacemos con los tamales? # señala nuevamente la palabra escrita.
+AH: comimos
+DT: vamos a hacer uno último, para que no se nos sature
+AH: ajá
+DT: a ver este ya lo habíamos usado
+# se le muestra una ilustración de un cuchillo de cocina.
+AH: cuchara cuchillo
+DT: ¿y es cosa o es acción?
+AH: este cosa
+DT: acomódelo # asiente y le entrega la ilustración.
+AH: # coloca la ilustración en la columna de cosa.
+DT: eso # le entrega el marcador de pizarrón. ¿y qué hace con el cuchillo?
+AH: este cu ...
+DT: mire to también me # le muestra una cortada pequeña que tiene el brazo. como usted
+AH: ah mira sí
+AC: aquí tiene otra # señala otra cortada en el brazo de DT.
+DT: ah sí aquí tengo otra
+AH: ah mira
+DT: nada más que estas no me las hice con un cuchillo, me las hizo mi gato
+AH: ay ¿a poco? # muestra sorpresa. íjole(expresión de sorpresa)
+DT: pero usted con el cuchillo ¿qué se hizo?
+AH: este con ira(mira) # señala su dedo medio de la mano izquierda. con /s/
+DT: sí ¿cuál es la acción?
+AH: este cuchillo está bien filoso
+DT: ¿y qué pasó porque estaba filoso? se # con la mano derecha extendida hace el gesto de «cortar» sobre su mano izquierda.
+AH: machu/k/ machuqué
+DT: más o menos
+D: más o menos
+AH: machuqué
+DT: va por ahí es otro verbo # continúa haciendo el gesto de «cortar» con la mano derecha
+AH: me machuqué
+DT: me cor
+AH: me corté me corté
+DT: eso
+AH: me corté
+DT: a ver escriba eso # señala la columna de acción.
+# Condición: escritura.
+AH: me # escribe «me». cor # escribe «cor». té # escribe «te» resultando en «me corte».
+DT: ¿con el cuchillo?
+AH: cuchillo # asiente pero no produce la oración completa, sólo repite la frase. con el cuchillo
+DT: muy bien ahora vamos a decirlotodo completo
+AH: ajá
+DT: ¿qué pasó con el cuchillo?
+AH: me corté # lee la palabra escrita el pizarrón.
+DT: a ver dígalo todo completo
+AH: me corté
+D: muy bien
+DT: con
+AH: con el cuchillo
+DT: otra vez todo completo
+AH: me corté con el cuchillo
+DT: eso muy bien, a ver ¿este qué habíamos dicho? # le muestra la ilustración  de los tamales nuevamente.
+AH: el tamal el tamal
+DT: ajá muy bien # le señala la palabra escrita en el pizarrón «comimos».
+AH: comimos tamal
+DT: a ver otra vez
+AH: comimos tamal
+DT: eso, ¿y el último? # le muestra la ilustración de la taza con café nuevamente.
+AH: el café # lee la palabra «BeBi» escrita en el pizarrón. bebí café
+DT: eso muy bien ¿ya vio la diferencia?
+AH: ajá sí cierto
+...
+DT: vamos a hacer un último ejercicio
+AH: sí
+DT: va a ser un poquito más difícil
+AH: sí cierto
+DT: pero lo hizo muy bien
+...
+DT: entonces vamos a ver mire con azul las cosas y con rojo las acciones # se le muestra una hoja blanca de forma horizontal dividida en dos columnas, la izquierda dice «Acción» en color rojo y la derecha «Cosa» en azul. usted ahorita va a escojer, vamos a usar su tarea
+AH: sí
+DT: cepillar
+AH: se
+DT: cepillar, a ver yo voy a hacer la acción # con la mano derecha hace el gesto de «cepillar los dientes». ¿usted lo hace?
+AH: sí sí
+DT: a ver ¿cómo se lava los dientes?
+AH: # lleva la mano derecha con las puntas de los dedos juntas a la comisura izquierda de sus labios, luego a la derecha y repite esta acción dos veces. sí sí sí
+DT: esta es la acción
+AH: acción sí
+DT: cepillar
+AH: sí
+DT: a ver diga cepillar
+AH: cepillar cepillar
+DT: ¿dónde va? # señala la hoja.
+AH: aquí # señala la columna que dice acción. acción
+DT: muy bien # le da el marcador rojo.
+AH: ¿cepillar?
+DT: sí
+# Condición: escritura.
+AH: # escribe la letra c. ce # escribe «cep». pi # escribe la letra i segido de «ll». llar # escribe «ar» resultando en «cepillar».
+DT: muy bien esa es la acción
+AH: sí ajá
+DT: y ¿dientes?
+AH: los dientes aquí # señala la columna de cosa. cosa
+DT: eso muy bien a ver
+AH: cosa
+DT: dientes
+AH: dientes
+# Condición: escritura.
+AH: # escribe «diE». dien # escribe «Nte». tes # escribe la letra s resultando en «diENtes».
+# Condición: conversación.
+DT: muy bien a ver ahora dígalo # le señala la palabra cepillar y luego dientes.
+AH: cepillar dientes
+DT: ¿cómo lo puede decir? yo
+AH: yo yo cepillé los dientes
+DT: perfecto, a ver vamos a intetar ahora con agua
+AH: /a/ agua # señala primero la columna cosa y luego la de acción, comienza a hacer un movimient con el dedo índice de la mano derecha sobre la hoja en la columna de cosa simulando la escritura de la palabra requerida, parece escribir en el aire «agi».
+DT: a ver ¿es una cosa el agua?
+AH: acción # señala la columna de cosa. agua agua
+DT: estaba bien aquí # señala al mismo tiempo que AH la columna de cosa.
+# Condición: escritura.
+AH: # sin decir la palabra escribe «agui» similar a la acción anterior de escribir en el aire con el dedo índice. /a/ agua # nota el error y corrige escribiendo sobre la letra i una A, resultando en «aguA».
+DT: muy bien ¿y servir?
+AH: /. serville serv ./ 
+DT: servir
+AH: servir aquí # señala la columna de acción. acción
+DT: sí muy bien a ver
+AH: ((vio))
+DT: servir
+AH: servir
+# Condición: escritura.
+AH: ser # escribe «CE». /s/ ser # escribe la letra N resultando en «CEN». ¿no?
+DT: servir
+AH: servir # escribe la letra d. ser # escribe la letra i. vir # escribe la letra N, resultando en «CENdiN».
+DT: no pasa nada ¿cómo sería completo? # señala la palabra escrita por AH «CENdiN» y después
+AH: servir
+DT: servir # señala la palabra «aguA».
+AH: agua
+DT: a ver ahora ¿cómo lo diría completo?
+AH: servir agua coca este cosa
+DT: ah ya se le antojó la coca
+AH: cosa # comienza a reirse.
+DT: muy bien, y ahora vamos a ponerle uno que no ha hecho usted, por ejemplo ver
+AH: ah
+DT: ¿qué es cosa o acción?
+AH: ver ver
+DT: ver ¿cuál es?
+AH: a ver # señala la columna de cosa.
+DT: ¿segura?
+AH: acción # continúa señalando la misma columna. ver
+DT: a ver # le da el marcador rojo.
+AH: ver
+# Condición: escritura.
+AH: ver # escribe «ER». ver ver 
+DT: a ver # cubre con un objeto lo que AH acaba de escribir. aquí abajito escríbalo, ver
+AH: ver # escribe «Per»
+DT: y a ver, tele(televisión)
+AH: ¿tele?
+DT: la tele
+AH: coca cosa cosa cosa
+DT: muy bien, sí se le antojó la coca
+AH: # se rie pero no escribe.
+DT: tele, la tele
+AH: # escribe «te». tele # escribe «Le». vi # escribe «b». vi # escribe la letra i. /s/ # escribe «ci». ción # escribe oN, resultando en «teLebicioN».
+DT: bien ¿usted ve la televisión?
+AH: sí
+DT: a ver diga así veo la televisión
+AH: ayer ayer estaba en la televisión
+DT: ¿usted estaba en la televisión?
+AH: sí sí
+DT: ¿la grabaron?
+AH: no hombre # se comienza a reir.
+DT: estaba viendo la televisión
+AH: vien
+DT: viendo la televisión
+AH: viendo la televisión # lo dice al mismo tiempo que DT.
+# Segmento: escritura al dictado con dibujos.
+# Material: una nueva hoja en blanco y un lápiz.
+DT: a ver va a escribir ¿qué hace con un lápiz?
+AH: lápiz
+DT: con el lápiz ¿qué hacemos? # señala el cuaderno de AH.
+AH: escribir
+D: muy bien
+DT: ¿puede escribir aquí una oración usted?
+# Condición: escritura.
+AH: escribir escribir es # escribe «ES». cri a ver # voltea a ver su cuaderno para copiar la palabra. 
+DT: ah no sin trampas sin trampas
+AH: escribir es cri bir # dice la palabra separando por sílabas y concluye la palabra resultando en «ESiBiN», el cambio de la grafía de N es sustición de la R ha sido constante.
+# Condición: conversación.
+DT: a ver ¿se parece? vamos a comparar # pone la hoja donde acaba de escribir AH al lado de las palabras escritas en su cuaderno. ¿se parece lo que usted puso?
+AH: no
+DT: ¿no se parece?
+AH: no
+DT: a ver escríbalo aquía bajo
+# Condición: escritura.
+AH: a ver # copia la palabra «escribir» anotada en su cuaderno.
+DT: había faltado ¿verdad?
+AH: sí
+DT: ¿con qué escribimos?
+AH: el lápiz
+DT: a ver escríbalo
+AH: lápiz # copia la palabra lápiz escrita en su cuaderno.
+DT: a ver ¿puede dibujar un lápiz?
+# Condición: dibujo.
+AH: # dibuja al final de la hoja un óvalo pequeño de un centímetro aproximadamente, de la parte inferior del óvalo dibuja una línea recta vertical de un centímetro.
+DT: a ver ¿qué es esto? # señala el dibujo que AH acaba de ralizar.
+AH: pis # le provoca risa y comienza a hacer trazos con el lápiz sobre la palma de su mano izquierda. la ah no
+DT: ¿qué dibujó? platíqueme usted qué dibujó
+AH: a ver # vuelve a hacer trazos sobre la palma de su mano izquierda. la a ver lápiz # comienza a reirse. 
+DT: a ver para que se guíe # dibuja un rectángulo debajo de la palabra lápiz que AH escribió. aquí adentro dibuje un lápiz # le entrega el lápiz a AH. dibujado
+AH: # sin habla comienza a dibujar una línea recta vertical, en el extremo superior dibuja un círculo pequeño, dibujo similar al anterior.
+DT: ¿esto qué es? # señala el dibujo reciente.
+AH: lápiz
+DT: ¿esta parte de aquí qué es? # señala el círculo.
+AH: la goma la goma
+DT: ¿y todo esto que dibujó? # señala la línea vertical.
+AH: ...
+DT: a ver ¿esto qué es? # señala la punta del lápiz con el que hizo el dibujo.
+AH: la punta
+D: muy bien
+DT: a ver # dibuja un rectángulo debajo de la palabra «escribir» que AH escribió. ¿con qué escribe?
+AH: una pluma
+DT: ¿con qué partes del cuerpo escribe?
+AH: aquí con la pluma # señala el lápiz con su mano izquierda.
+DT: ¿y qué mueve el lápiz, se mueve sólo?
+AH: no
+DT: ¿cómo se usa? con
+AH: con la mano con la mano
+DT: a ver dibújeme una manita aquí # señala el rectángulo debajo de la palabra «escribir».
+AH: con la mano # dibuja una líea con cinco ángulos como «^^^^^» (podría tratarse de una representación de los dedos de la mano).
+DT: los cinco dedos
+AH: sí
+DT: muy bien entonces escribimos # señala el dibujo de la mano.
+AH: escribir la mano la mano con la mano
+DT: a ver todo completo
+AH: escribir con la cap con la /k/ escribir con # voltea a ver su mano derecha donde sostiene el lápiz. con la mano
+DT: ¿o? # señala el dibujo del lápiz.
+AH: o la o con lápiz

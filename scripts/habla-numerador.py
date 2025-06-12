@@ -7,10 +7,10 @@ def numerador_habla(archivo):
     with open(archivo,"r",encoding="utf8") as entrada:
         lineas : str = entrada.readlines()
     # Crear un nuevo archivo con las líneas formateadas
-    with open("enumerado.txt","w",encoding="utf8") as salida:
+    with open("enum_15-08-2024.txt","w",encoding="utf8") as salida:
         for l, linea in enumerate(lineas, start=1):
             num_format = f"{l:03}"
             salida.write(f"{num_format} {linea}")
     print(f"Lineas enumeradas correctamente!")
 if __name__ == '__main__':
-    numerador_habla(r"/home/dante/DATA/Tesis/Transcripciones/15_08_2025/test_15_08.txt")
+    numerador_habla(r"/home/dante/DATA/Tesis/Transcripciones/15_08_2025/all_15-08-2024.txt")

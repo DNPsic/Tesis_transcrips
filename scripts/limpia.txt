@@ -1,0 +1,314 @@
+004 AH: yo desayuné
+006 AH: sopa de verduras
+008 AH: y atole
+010 AH: siempre siempre
+012 AH: sí sí
+014 AH: y pescado
+016 AH: este la tarea este, trapié, la tarea
+018 AH: y duerme y duerme
+020 AH: sí verdad
+022 AH: este duerme y duerme, duerme y duerme 
+024 AH: este  duerme y duerme con mis nietos con mis nietos y con mi su esposa de D_
+026 AH: este mi nieto
+028 AH: aquí está en el departamento ¿vea? 
+030 AH: no el  a la mitad 
+032 AH: sí
+037 AH: sí
+039 AH: sí
+042 AH: café con leche y pan tostado
+044 AH: el seguro también en la man ayer me fui al seguro
+048 AH: ¿sí? ah sí mira
+050 AH: este ya no no sé
+052 AH: el tianguis también el miércoles
+054 AH: no porque ya no ya luego está muy feo muy feo
+056 AH: pus sí
+061 AH: ¿qué se hace?
+065 AH: café
+067 AH: leche con café
+069 AH: sí sí
+071 AH: qué hace
+073 AH: me lo tomo me lo tomo me lo tomo
+075 AH: sí
+078 AH: la estufa
+080 AH: en la estufa se hace el ca estaba el café la estufa, en la estufa
+082 AH: este esperame, la lumbre la lumbre
+084 AH: en la lumbre, el café con leche, café el café
+086 AH: el café,este atole
+088 AH: cocinar ah pues sí cierto
+090 AH: cocinar
+092 AH: yo deci yo
+094 AH: yo cociné
+096 AH: yo cociné
+098 AH: yo cociné 
+103 AH: el teléfono
+105 AH: ¿qué hace? 
+107 AH: el teléfono estaba bien rue ru 
+109 AH: hace ruido
+111 AH: hace ruido 
+116 AH: el teléfono
+118 AH: este con mis hijos, el teléfono con mis hijos
+120 AH: con mis hijos en el refri estaba en 
+123 AH: cocinamos
+127 AH: ...
+129 AH: hablando hablamos
+131 AH: hablamos ah sí cierto hablamos 
+134 AH: estufa
+136 AH: la estufa
+138 AH: eh la estufa
+140 AH: estaba en la estufa ...
+142 AH: cocinamos
+145 AH: el teléfono está bien sordo 
+148 AH: las galletas
+150 AH: las galletas  bien sabrosas
+154 AH: están bien sabrosas
+156 AH: a ver, eh pérame ¿qué es? las galletas estaban bien sabrosas
+159 AH: en pérame ... a ver
+161 AH: en ... no no me acuerdo
+164 AH: Mar mar
+167 AH: el mar estaba bien fea bien feo 
+172 AH: 
+174 AH: nadar, nadando nadando
+177 AH: yo nadé nad ya nadé yo nadé
+180 AH: la ...
+182 AH: ay pérame no
+185 AH: la la talla la taj ay 
+188 AH: la tas la cosa la cosa 
+191 AH: ¿qué? la
+193 AH: la 
+195 AH: sí
+200 AH: la taza, la taza la taza estaba bien sabrosas
+202 AH: la el café el café
+205 AH: sí ajá
+209 AH: el café
+211 AH: este, bien sabroso
+216 AH: se hace café, el café  el café
+218 AH: se tomó se tomá el café
+220 AH: yo tomé café
+225 AH: el cuchillo
+227 AH: el cuchillo el cuchillo está bien rasposo 
+230 AH: hace
+232 AH: el cuchillo estaba bien filoso
+234 AH: bien filoso
+236 AH: el cuchillo está
+238 AH:  
+241 AH: se  estaba bien  
+243 AH: sí
+245 AH: me corté me corté
+247 AH: cuchillo, me corté cuchillo
+250 AH: no me acuerdo
+254 AH: ¿qué es, qué es hijo?
+256 AH: ...
+258 AH: este qué es
+260 AH: no no hombre no
+262 AH: sí sí
+264 AH: este así 
+266 AH: no me acuerdo 
+268 AH: yo comí este qué 
+270 AH: ajá
+272 AH: ah sí
+274 AH: no
+278 AH: te
+280 AH: tendedor ¿cómo?
+283 AH: ten
+285 AH: tenedor tenedor
+287 AH: ah tenedor tenedor 
+289 AH: el tenedor estaba hace 
+291 AH: el tenedor comió comí con el tenedor
+295 AH: el metro
+297 AH:  
+299 AH: este en el metro estaba  acatitla 
+301 AH: sí
+303 AH: sí mucho ruido
+305 AH: pus len bien  feo bien 
+307 AH: bien
+309 AH: sí hombre
+311 AH: el metro estaba bien estaba  
+313 AH: no bien
+315 AH: bien ... no
+317 AH: rápio bien rápido rápido rápido
+319 AH: sí bien rápido
+321 AH: ¿cómo?
+323 AH: se bue
+325 AH: se mueve el metro
+327 AH: el metro est el metro estaba bien bien 
+329 AH: bien
+331 AH: bien rápido
+334 AH: a ver,  ay no me acuerdo
+336 AH: tambor
+338 AH: estaba  
+340 AH: el tambor estaba bien  
+342 AH: 
+344 AH: ay
+346 AH: ¿mucho ruido?
+348 AH: mucho ruido
+350 AH: tocar
+352 AH: tocar el ba el tocador 
+354 AH: el tambor
+356 AH: estaba  
+358 AH: tocar
+361 AH: plato
+363 AH: la sopa la sopa
+365 AH: no hombre
+367 AH: sí
+369 AH: este 
+371 AH: sí sí
+373 AH: sí
+375 AH: sevimos servimos servimos
+377 AH: yo sirvo el sopa
+383 AH: cosa acción
+385 AH: sí sí cierto
+387 AH: a ver 
+389 AH: aquí 
+391 AH: ah sí sí
+394 AH: café
+396 AH: este acción 
+398 AH: ah sí cierto
+400 AH: este el café
+402 AH: este bebí bebí
+405 AH: bebí
+407 AH: bebí 
+409 AH: be 
+412 AH: comí es 
+414 AH: sí cierto
+416 AH: órale
+418 AH: sí
+420 AH: café
+422 AH: cosa
+425 AH: 
+427 AH: cosa
+429 AH: este café
+432 AH: bebí
+434 AH: bebí
+436 AH: be 
+442 AH: tamal
+444 AH: este cosa
+446 AH: cosa 
+448 AH: así 
+450 AH: cosa, tamal 
+452 AH: cosa
+454 AH: tamales, ay pérame
+456 AH: no no
+458 AH: sí sí
+461 AH: acción
+463 AH: ay no es que me da miedo no sé me 
+465 AH: 
+468 AH: a ver
+470 AH: comida
+472 AH: sí
+474 AH: se 
+478 AH: 
+480 AH: sí
+482 AH: ah un tenedor
+484 AH: sí sí ¿y luego? 
+486 AH: 
+488 AH: comemos
+490 AH: comemos
+492 AH: comemos
+494 AH: comemos
+496 AH: comemos, co 
+499 AH: comemos comimos comemos
+501 AH: comimos
+503 AH: comimos
+505 AH: ajá
+508 AH: cuchara cuchillo
+510 AH: este cosa
+512 AH: 
+514 AH: este cu ...
+516 AH: ah mira sí
+519 AH: ah mira
+521 AH: ay ¿a poco? 
+523 AH: este con ira 
+525 AH: este cuchillo está bien filoso
+527 AH: machu machuqué
+530 AH: machuqué
+532 AH: me machuqué
+534 AH: me corté me corté
+536 AH: me corté
+539 AH: me 
+541 AH: cuchillo 
+543 AH: ajá
+545 AH: me corté 
+547 AH: me corté
+550 AH: con el cuchillo
+552 AH: me corté con el cuchillo
+554 AH: el tamal el tamal
+556 AH: comimos tamal
+558 AH: comimos tamal
+560 AH: el café 
+562 AH: ajá sí cierto
+565 AH: sí
+567 AH: sí cierto
+571 AH: sí
+573 AH: se
+575 AH: sí sí
+577 AH: 
+579 AH: acción sí
+581 AH: sí
+583 AH: cepillar cepillar
+585 AH: aquí 
+587 AH: ¿cepillar?
+590 AH: 
+592 AH: sí ajá
+594 AH: los dientes aquí 
+596 AH: cosa
+598 AH: dientes
+600 AH: 
+603 AH: cepillar dientes
+605 AH: yo yo cepillé los dientes
+607 AH:  agua 
+609 AH: acción 
+612 AH: 
+614 AH: serville serv 
+616 AH: servir aquí 
+618 AH: 
+620 AH: servir
+622 AH: ser 
+624 AH: servir 
+626 AH: servir
+628 AH: agua
+630 AH: servir agua coca este cosa
+632 AH: cosa 
+634 AH: ah
+636 AH: ver ver
+638 AH: a ver 
+640 AH: acción 
+642 AH: ver
+644 AH: ver 
+646 AH: ver 
+648 AH: ¿tele?
+650 AH: coca cosa cosa cosa
+652 AH: 
+654 AH: 
+656 AH: sí
+658 AH: ayer ayer estaba en la televisión
+660 AH: sí sí
+662 AH: no hombre 
+664 AH: vien
+666 AH: viendo la televisión 
+670 AH: lápiz
+672 AH: escribir
+676 AH: escribir escribir es 
+678 AH: escribir es cri bir 
+681 AH: no
+683 AH: no
+686 AH: a ver 
+688 AH: sí
+690 AH: el lápiz
+692 AH: lápiz 
+695 AH: 
+697 AH: pis 
+699 AH: a ver 
+701 AH: 
+703 AH: lápiz
+705 AH: la goma la goma
+707 AH: ...
+709 AH: la punta
+712 AH: una pluma
+714 AH: aquí con la pluma 
+716 AH: no
+718 AH: con la mano con la mano
+720 AH: con la mano 
+722 AH: sí
+724 AH: escribir la mano la mano con la mano
+726 AH: escribir con la cap con la  escribir con 
+728 AH: o la o con lápiz

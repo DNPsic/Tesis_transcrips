@@ -1,0 +1,135 @@
+# Segmento: clasificación de cosas y acciones al dictado.
+# Material: pizarrón y marcador rojo. en el pizarrón se observan dos columnas, en la izquierda dice acción y en la derecha cosa.
+D: el papel de baño ¿qué es una cosa o una acción?
+AH: cosa
+D: a ver escriba ahí papel de baño
+AH: ¿pa?
+D: papel
+# Condicion: escritura.
+AH: pa # escribe «Pa». pa # escribe la letra P.
+D: pape
+AH: ¿ele?
+D: no no aquí leame qué dice # señala lo que AH acaba de escribir.
+AH: pa
+D: pap hasta acá dice pap, pape # hace énfasis en el sonido de la e
+AH: ¿ele?
+D: no, antes de la ele, falta un sonido pe /p-e/ # hace énfases en los dos sonidos.
+AH: ah pe
+D: pero la letra pe ya está aquí ¿cuál es siguiente sonido? /p/ es este sonido # señala la última letra P escrita. y el siguiente /ee/
+AH: ah ((enrique)) # escribe la letra E.
+D: ahora sí ¿qué nos falta?
+AH: ele
+D: ajá muy bien, ¿papel de?
+AH: higiénico
+D: de
+AH: de # escribe «de» con letra cursiva.
+D: muy bien, papel de baño
+AH: ba # escribe «va»
+D: con esa la podemos dejar de momento, baño
+AH: ¿eñe?
+D: sí muy bien
+AH: # escribe la letra Ñ
+D: ¿qué nos falta?
+AH: /o/ # escribe la letra o
+# Condicion: conversacion.
+DT: muy bien
+D: ahora por ejemplo, caminar ¿caminar es una cosa o una acción?
+AH: acción acción
+DT: muy bien
+D: sí muy bien, por ejemplo cuando caminamos hay movimiento, escriba caminar
+AH: caminar # escribe «camiNar» en la columa de acción, la escribe mientras dice en voz alta la palabra separando por sílabas ca-mi-nar.
+# Condicion: conversacion
+D: muy bien ahora por ejemplo licuar ¿licuar qué es una acción o es una cosa?
+AH: cosa
+D: ¿licuar?
+AH: acción
+D: sí pero a ver, le voy a dibujar una licuadora # dibuja una licuadora en el pizarrón con algunos ingredientes dentro. cuando usted licua hay movimiento ¿verdad?
+AH: sí
+D: cuando usted es quien lo hace, cuando usted prende la licadora, se mueve ¿verdad?
+AH: sí cierto
+D: pero sola no hace nada en sí misma ¿verdad?
+AH: no no
+D: la licuadora sí es una cosa, sólo la licuadora, esto # dibuja un círculo encerrando la licuadora. iría aquí en cosa, pero licuar, el que pueda usted llegar y tocar el botón y empeice a funcionar, esto que es un jitomate un chile y un ajo, se haga un caldo, todo eso ya es licuar pero todo el proceso ¿cierto?
+AH: sí
+D: entonces ¿para licuar qué hace usted? a ver cuénteme
+AH: este acción
+D: sí pero ¿qué hace primero?
+AH: una licuadora
+D: pero usted llega ¿y qué hace con la licuadora?
+AH: este licuando
+D: ajá usted licua pero
+AH: jitomates
+D: llega y presiona un botón ¿verdad?
+AH: sí cierto
+D: y luego cuando presiona el botón ¿qué pasa?
+AH: ...
+D: ¿qué pasa con el jitomate, en qué se convierte?
+AH: una licuadora licuadora
+D: pero se convierte en una salsa ¿verdad?
+AH: una salsa sí cierto
+D: entonces ¿licuar es una acción o es una cosa?
+AH: acción acción
+D: porque hay todo un proceso que usted hace ¿verdad?
+AH: sí sí
+D: ¿y la licuadora qué es?
+AH: cosa cosa
+D: muy bien muy bien, a ver entonces ¿licuar? # le da el marcador rojo para que escriba.
+# Condicion: escritura.
+AH: licuar # escribe «licur». 
+D: no ¿qué nos falta?
+AH: la a
+D: sí muy bien # borra la letra r.
+AH: /a/ # escribe «Ar» resultando en «licuAr»
+D: muy bien ¿y licuadora?
+AH: li # escribe «Lic». cua # escribe la letra u
+D: licua ¿qué sigue?
+AH: ¿a? /a/ # escribe la letra A
+D: do
+AH: do # escribe «Do» dora # escribe «ra» resultando en «LicuADora»
+# Condicion: conversacion
+D: ahora por ejemplo el teléfono ¿qué es una cosa o una acción?
+AH: acción acción
+D: no
+AH: cosa cosa
+D: pero para ser una acción ¿cómo se tendría que llamar?
+AH: el teléfono
+D: por ejemplo si usted se quiere comunicar con el señor R_ pero el señor R_ está en su trabajo ¿qué hace?
+AH: teléfono aquí # con su mano izquierda cierra parcialmente el puño y lo pone al lado de su oreja izquierda. teléfono aquí
+D: si usted quisiera comunicarse con él, agarra su teléfono, marca un número
+AH: sí
+D: ¿y cómo se le llama a eso?
+AH: R_ # menciona el nombre de la persona que se usó de ejemplo.
+D: lla
+AH: ¿qué?
+D: llamar
+AH: llamar ah cierto
+D: entonces llamar y teléfono ¿cuál es cuál, cuál es una cosa y cuál es la acción?
+AH: llamar
+D: ¿llamar cuál es acción o cosa?
+AH: acción acción
+D: ajá muy bien llamar
+AH: llamar lla ...
+D: ¿se acuerda de estas? # escribe «ll». o bueno en su defecto de esta # escribe la letra y.
+# Condicion: escritura.
+AH: sí # escribe «llaMar» en la columa de acción.
+D: y aquí teléfono # señala la columa de cosa.
+AH: te # escribe «TeL» le tele ¿ele?
+D: la ele ya la tiene, es esta ¿no? tele
+AH: sí ¿e?
+D: le /l/
+AH: ¿ele?
+D: la ele ya la tiene, esta es la ele # remarca con el marcador la letra L escrita por AH. a ver le serviría fingir que la escribe en su palma?
+AH: # aproxima el marcador a su palma izquierda.
+D: a ver si quiere con su dedito, te le # se muestra su palma derecha.
+AH: te # con su dedo índice derecho comienza a hacer movimientos sobre su palma izquierda dibujando «Te». le # finaliza el movimiento sobre su palma con «Le» dando como resulado «TeLe» ah
+D: ajá muy bien # le da el marcador rojo.
+AH: # completa el escrito en el pizarrón escribiendo la letra E resultando en «TeLE».
+D: telefo
+AH: fo # escribe «fo». ele fo
+D: ajá ¿qué sigue?
+AH: no # escribe la letra r.
+D: no no a ver léamelo
+AH: tele fo no # señala la letra r. pérame(espérame) # usa el borrador para borrar la letra r. tele fo /n/ ¿ene? # escribe la letra N.
+D: sí muy bien
+AH: fo # escribe la letra o resultando en «TeLEfoNo» pero vuelve a escribir abajo otra secuencia «NO».
+D: este ya no pero todo lo demás está bien

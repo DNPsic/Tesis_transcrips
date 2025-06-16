@@ -5,7 +5,7 @@ AH: cosa
 D: a ver escriba ahí papel de baño
 AH: ¿pa?
 D: papel
-# Condicion: escritura.
+# Condición: escritura.
 AH: pa # escribe «Pa». pa # escribe la letra P.
 D: pape
 AH: ¿ele?
@@ -31,14 +31,14 @@ D: sí muy bien
 AH: # escribe la letra Ñ
 D: ¿qué nos falta?
 AH: /o/ # escribe la letra o
-# Condicion: conversacion.
+# Condición: conversacion.
 DT: muy bien
 D: ahora por ejemplo, caminar ¿caminar es una cosa o una acción?
 AH: acción acción
 DT: muy bien
 D: sí muy bien, por ejemplo cuando caminamos hay movimiento, escriba caminar
 AH: caminar # escribe «camiNar» en la columa de acción, la escribe mientras dice en voz alta la palabra separando por sílabas ca-mi-nar.
-# Condicion: conversacion
+# Condición: conversacion
 D: muy bien ahora por ejemplo licuar ¿licuar qué es una acción o es una cosa?
 AH: cosa
 D: ¿licuar?
@@ -74,7 +74,7 @@ AH: sí sí
 D: ¿y la licuadora qué es?
 AH: cosa cosa
 D: muy bien muy bien, a ver entonces ¿licuar? # le da el marcador rojo para que escriba.
-# Condicion: escritura.
+# Condición: escritura.
 AH: licuar # escribe «licur». 
 D: no ¿qué nos falta?
 AH: la a
@@ -86,7 +86,7 @@ D: licua ¿qué sigue?
 AH: ¿a? /a/ # escribe la letra A
 D: do
 AH: do # escribe «Do» dora # escribe «ra» resultando en «LicuADora»
-# Condicion: conversacion
+# Condición: conversacion
 D: ahora por ejemplo el teléfono ¿qué es una cosa o una acción?
 AH: acción acción
 D: no
@@ -110,7 +110,7 @@ AH: acción acción
 D: ajá muy bien llamar
 AH: llamar lla ...
 D: ¿se acuerda de estas? # escribe «ll». o bueno en su defecto de esta # escribe la letra y.
-# Condicion: escritura.
+# Condición: escritura.
 AH: sí # escribe «llaMar» en la columa de acción.
 D: y aquí teléfono # señala la columa de cosa.
 AH: te # escribe «TeL» le tele ¿ele?

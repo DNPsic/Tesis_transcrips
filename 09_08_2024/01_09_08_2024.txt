@@ -1,0 +1,98 @@
+# Segmento: inicio de sesion
+# Condición: lectura.
+# Material: cuaderno de AH, pizarrón blanco y marcadores.
+# AH lee el contenido escrito en su cuaderno previamente
+AH: yo estaba en soriana a las doce y media con mi hija
+D: muy bien
+AH: en el refigrerador la ca la crema, pan español, yo yo, y aceite y dos leches y los atunes
+D: ahora explíqueme sus dibujos
+AH: leche atún crema aceite # sus dibujos son figuras simples con las palabras escritas dentro, señala cada y las lee.
+D: de acuerdo y ¿dibujó cuando estaba usted en soriana?
+AH: sí
+D: ¿dónde?
+AH: aquí # señala la oración que leyó al inicio.
+D: pero el dibujo
+AH: # ve a D sin dar respuesta.
+D: dibújeme un pez # le da el marcador rojo de pizarrón
+AH: ¿un pez?
+D: un pez
+AC: un pececito
+AH: un pez # dibujo un óvalo con una líea pequeña en la parte inferior
+D: ¿le falta algo a ese pez?
+AH: las # dibuja dos lineas más desde los lados del óvalo, una del lado izquierdo y otra en el derecho.
+D: sus aletitas ¿y su colita?
+AH: colita # dibuja dos puntos dentr del óvalo.
+D: muy bien a parte de esto me dijo que hizo más ¿no?
+AH: a ver
+D: ¿esta no? # le muestra otra hoja de su cuaderno
+AH: a ver
+# Escrito: la hoja muestra en la parte superior «8 de agosto fecha 2024», a continuación se lee (primer párrafo) «los regalos de los sicologos y las playeras del doctor alejandro» (segundo párrafo) «la doctora Daniela el doctor Guillermo», el uso de minúsculas y mayúsculas es inconsistente a diferencia de lo representadoa aquí.
+# Escrito: la hoja muestra en la parte superior «viernes 9  de Agosto 2024», a continuación (primer párrafo) «ayer fui a soriana a comprar sandia y tortillas», (segundo párrafo) «yo vi la televicion», finalmente se observan 3 dibujos y debajo de cada uno las palabras «television, sandia, tortillas», el primer dibujo es un rectángulo con 4 puntos en su parte superior, el segundo es una forma ovalada con 6 puntos en su interior, el trecero son 6 puntos alineados verticalmente y en dos columnas.
+D: muy bien, léame esta primera oración # señala la primera oración.
+# Condición: lectura.
+AH: fuia a soriana a comprar sandía y tortillas
+D: muy bien
+AH: yo yo va yo vi vi la televisión
+D: muy bien dígame aquí cuál es el verbo # señala la primera oración.
+AH: fui
+D: ¿qué otro verbo hay?
+AH: comprar
+D: ¿y en esta otra oración cuál es el verbo? # señala la segunda oración.
+AH: yo
+D: no, acuérdese que los verbos son acciones
+AH: yo vi, vi vi
+D: muy bien, por ejemplo en la primera oración usted ya me dijo que el verbo es fui
+AH: ajá sí
+D: y también comprar mientras que en la segunda es vi
+AH: ah sí
+D: pero por ejemplo dígame cosas que podemos encontrar en esa oración, cosas no verbos
+AH: fui
+D: no ese quedamos que era el verbo, quedamos que las cosas no sienten, por ejemplo si yo le pego a esto # da dos golpes al borrador del pizarrón. no siente
+AH: ajá
+D: sólo si alguien más los mueve, generalmente no tienen intenciones, o no se mueve solo
+AH: ajá
+D: por ejemplo si yo dibujo # dibuja una rebanada de una sandía en el pizarrón.
+AH: ah sandía
+D: ajá muy bien ¿esto qué es una cosa o es un verbo?
+AH: este cosa
+D: ¿la sandía siente?
+AH: no no
+D: muy bien y por ejemplo si yo dibujo # dibuja un rectangulo y unas figuras humanas dentro, al lado un óvalo con círculos de diferentes tamaños. imagínese que esto es una televisión ¿esto sería una cosa o una acción?
+AH: no, una acción
+D: ¿una acción? por qué
+AH: la televisión estaba bien
+D: pero usted el ver, que usted esté por ejemplo # dibuja una figura humana al lado del dibujo anterior. imagínese que aquí está usted, y está observando la televisión # dibuja una flecha desde la cabeza de la figura humana hasta el dibujo de la televisión. pero usted está viéndolo, usted experimenta usted sí siente
+AH: sí
+D: usted percibe las imágenes ¿de acuerdo?
+AH: cosa las cosas
+DT: ajá muy bien
+D: sí, usted percibe las cosas, usted por ejemplo puede ver las hojas
+AH: sí sí
+D: la bolsa, mis bibujos
+AH: sí
+D: pero quien siente es usted
+AH: ajá
+D: y usted lo que está haciendo es ver
+AH: ver
+D: ese sí es el verbo, que usted experimente todo eso es el verbo
+AH: ah
+D: pero esto # señala el dibujo de la televisión. sólo es una cosa sólo existe, y no hace nada más ni siente nada más
+AH: sí
+D: entonces la televisión ¿es una cosa o es un verbo?
+AH: una cosa
+D: muy bien, y por ejemplo ¿ese reloj? # señala el reloj de pared.
+AH: una cosa
+D: ¿y sus lentes?
+AH: mis lentes
+D: ¿son una cosa o son una acción?
+AH: una cosa una cosa
+D: y por ejemplo cuando sus niñas están jugando, jugando ¿jugar es una acción o es una cosa?
+AH: acción acción
+D: y por ejemplo cuando sus hijos están trabajando
+AH: acción
+D: ¿y la puerta, la puerta qué es?
+AH: cosa cosa
+D: muy bien a ver un último ejemplo, la silla ¿es una cosa o una acción?
+AH: cosa
+D: ahora yo le voy a decir unas palabras y usted las va a escribir
+AH: sí

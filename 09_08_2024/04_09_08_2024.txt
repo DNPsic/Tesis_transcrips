@@ -1,0 +1,60 @@
+# Segmento: reonocimiento de categorías de palabras, cosas y acciones.
+D: muy bien, ahora con rojo me va a dónde está la cosa, sólo la cosa
+AH: tele fono
+D: sólo el teléfono
+AH: teléfono # con el marcador rojo subraya la palabra teléfono.
+D: ajá esa es la cosa, y ahora con azul me va a señalar dónde está el verbo, la acción # le da el marcador azul.
+AH: a mi, a mi
+D: ¿cuál?
+AH: a mi
+D: no no la acción
+AH: esposo
+D: no a ver tranquila # toma el marcador azul. dígame de qué color es su cubrebocas
+AH: roja ra
+D: ro
+AH: rosa
+D: quedamos que las palabras eran llamar y teléfono, esta es la cosa # señala en el pizarrón la palabra teléfono.
+AH: sí
+D: ¿y entonces cuál será la acción?
+AH: llamé
+D: llamar bueno sí llamar o llamé
+AH: sí # subraya con el marcador azul la palabra «llame» escrita en la hoja blanca.
+D: muy bien, ahora ayer barrí mi casa # le da el lápiz para que escriba la oración.
+# Condición: escritura.
+AH: a # escribe la letra a, voltea a ver a D.
+D: ayer ¿se acuerda cual era el sonido /ll/ que acabamos de usar hace rato? en esta por ejemplo # señala la palabra «llame» escrita en la hoja blanca. /ll/ # hace énfasis en el sonido de la letra «y» en «ayer».
+AH: ¿elle? aquí aquí # escribe «ll»
+D: puede ser aquí
+AH: ayer # termina de escribir la palabra resultando en «aller»
+D: ayer barrí
+AH: ba ba # escribe «Ba». rri # escribe «ri» resultando en «Bari». ah no barrí # borra la letra i para sustituirla por «ri» resultando en «Barri».
+D: mi casa
+AH: mi casa, mi # escribe «mi» seguido. ca # escribe «ca» seguido de «sa» resultando en « mi casa». sa.
+D: ¿con qué barre, qué usa usted para barrer?
+AH: ah barre
+D: ¿pero qué usa?
+AH: # hace un gesto con ambas manos, mueve ambas de forma alternada hacia afuera y adentro de su torso en un eje horizontal (posible gesto de barrer).
+D: ¿cómo se le llama a eso?
+DT: la cosa
+D: ajá la cosa
+AH: la cosa
+D: ajá ¿cómo se llama la cosa con la que barre?
+AH: aquí # repite el gesto anterior con ambas manos.
+D: ¿pero cómo se le llama a esto? # dibuja en el pizarrón una escoba.
+AH: ...# se mantiene en silencio.
+D: ¿con esto barre?
+AH: ajá sí cierto
+D: ¿se acuerda cómo se llama?
+AH: no me acuerdo
+D: empieza con e
+AH: ...
+D: es # alarga el sonido de la /s/.
+AH: escoba escoba
+D: muy bien muy bien, ayer barrí mi casa con la escoba, con # señala la hoja para indicar a AH que continúe con la escritura de la oración.
+AH: # escribe «Con». con
+D: la
+AH: # escribe «La».
+D: escoba
+AH: es # escribe «Es». co # escribe «co». escoba
+D: /b/
+AH: esco # escribe la letra B. ba # escribe la letra a resultando en «EscoBa». escoba

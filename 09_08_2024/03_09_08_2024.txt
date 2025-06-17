@@ -1,0 +1,113 @@
+# Segmento: Dibujo de sustantivos al dictado.
+# Material: Hoja blanca tamaño carta en horizontal, lápiz y goma de borrar.
+D: a ver aquí me va a dibujar un teléfono # señala la hoja blanca. puede ser uno de casa o un teléfono celular
+# Condición: dibujo.
+# sobre la mesa se encuentra un teléfono celular con forma rectangular.
+AH: # dibuja un rectángulo comenzando por dos líneas paralelas rectas, una izquierda y otra derecha, dibuja una línea horizontal para conectar ambas líneas por la parte inferior y finaliza repitiendo esta acción en la parte superior. ¿tele, efe?
+D: no no no, pero dibujar
+AC: ((de dibujo)) un teléfono un celular, dibuja un celular
+D: ¿este qué es? # señala el rectángulo dibujado por AH.
+AH: el el
+D: ¿el teléfono?
+AH: teléfono
+D: okey ¿qué tienen los teléfonos, tienen botones?
+AH: los botones
+D: a ver dibújele los botones, por ejemplo este tiene un botón por aquí # le muestra el teléfono celular y los botones laterales.
+AH: ah sí # dibuja del lado superior izquierdo del rectángulo 2 líneas horizontales diminutas
+D: ¿y por ejemplo cuando usted llama a alguien qué hace con el teléfono?
+AH: ...
+D: y por ejemplo aquí # le muestra un teclado en la pantalla del celular. ¿qué puede teclear?
+AH: teclear uno dos tres
+D: ¿qué son todos estos? # señala la pantalla del teléfono.
+AH: el teléfono
+D: ajá ¿pero estos qué son?
+AH: dos
+AC: nu
+AH: números los números
+D: ajá muy bien
+AH: los números
+D: usted cuando le va a llamar a alguien teclea el número del teléfono ¿verdad?
+AH: sí sí cierto
+D: a ver dibújeme aquí los números # señala el dibujo de AH.
+AH: # dibuja dentro del rectángulo comenzando en la parte superior 9 puntos en filas de 3.
+# Condición: conversación.
+D: muy bien, esto solito así solito ¿qué es? # señala el dibujo
+AH: el teléfono
+D: ajá ¿y el teléfono qué es, una cosa o una acción?
+AH: una cosa
+D: muy bien, y por ejemplo si usted llega con el teléfono, marca por ejemplo y ya llama, a todo eso ¿cómo se le llama?
+AH: la cosa
+D: no no a todo eso se le llama llamarle ¿no? por ejemplo le voy a llamar a R_
+AH: ah sí llamar
+D: y todo eso que pasa en el tiempo que usted hace, a lo que se le llama llamar ¿qué es, es una acción o es una cosa?
+AH: una cosa
+D: no
+AH: una # voltea a ver el pizarrón. acción
+D: una acción # lo dice al mismo tiempo que AH. porque acuérdese que las acciones implican por ejemplo, generalmente pero no siempre, que haya una persona
+AH: ah pues sí cierto
+D: una persona que por ejemplo levante el borrador o que le llamé a alguien o que escriba en la libreta
+AH: sí
+D: bueno intentémoslo otra vez, llamar que es todo el proceso ¿ese proceso requiere tiempo? para que yo llamé, llegue, tome el teléfono
+AH: tres minutos
+D: sí puede tardar tres minutos
+AH: sí sí
+D: entonces si requiere tiempo ¿qué es?
+AH: acción
+D: entonces aquí # señala a un lado del dibujo de AH. dibújese usted usando el teléfono para llamarle a alguien
+# Condición: dibujo.
+AH: # dibuja un círculo y dentro de él tres puntos, 2 alineados de forma horizontal y un tercero en medio de ambos desplazado hacia abajo, agrega una línea curva abajo de este último, representando quizás ojos, nariz y boca respectivamente.
+D: okey muy bien
+AH: # dibuja tres formas curvas irregulares comenzando en el lado derecho externo del círculo, continuando hacia la parte superior  finalmente hacia la izquierda (posible representación de pelo y/o orejas), agrega dos líneas paralelas en la parte inferior externa del círculo (posible representación del cuello) y complementa cada una con trazos rectos para formar rectángulos pequeños (posible representación de los brazos), finalmente agrega otras dos líneas rectas paralelas de los vértices centrales inferiores de estos dos rectángulos (posible representación del torso o piernas). ¿las manos?
+D: por ejemplo ¿qué tiene que hacer con al menos una de las manos? agrrar el teléfono ¿verdad?
+AH: el teléfono sí
+D: entonces una de las manos tiene que agarrar el teléfono # señala el rectángulo izquierdo de la figura recién dibujada.
+AH: ah sí # bibuja cuatro líneas rectas horizontales a los lados externos de los dos rectángulos pequeños (posible representación de los dedos de las manos), se rie.
+DT: muy bien sí se acordó de la clase de dibujo
+AH: sí cierto ajá # agrega dos figuras circulares en los extremos inferiores de las dos lineas paralelas dibujadas anteriomente (posible representación de los pies).
+D: a ver escriba llamé a mi esposo con el teléfono
+# Condición: ecritura.
+AH: ¿lla?
+D: sí llamé
+AH: ¿llamé, lla?
+D: ¿qué sonido quedamos? # señala la palabra «llamar» escrita en el pizarrón.
+AH: ah sí # escribe «ll»
+D: ¿cómo suena ese sonido? /ll/
+AH: lla
+D: sí sí pero haga sólo el sonido /ll/
+AH: /ll/ # al mismo tiempo que D.
+D: ajá muy bien, llamé
+AH: lla ¿lla?
+D: lla
+AH: lla lla # escribe la letra a.
+D: llamé
+AH: me llamé # escribe la letra m.
+D: ¿qué nos falta?
+AH: llamé # escribe la letra e (en cursiva) resultando en «llame»
+D: a # señala debajo de lo que AH acaba de escribir.
+AH: a # escribe la letra a.
+D: mi
+AH: a /m/ # alarga el sonido /m/ y escribe la letra m. a mi # escribe la letra i resultando en «a mi»
+D: esposo
+AH: esposo a mi es # escribe la letra E. es es # escribe la letra s (en cursiva) seguida de «Po». po so # alarga el sonido de la /s/ y conluye escribiendo «so» resultando en «EsPoso»
+D: con mi teléfono # señala abajo de lo que acaba de escribir AH.
+AH: ¿con?
+D: con mi teléfono
+AH: con # escribe «Con» (en cursiva). /m/ mi # escribe la letra m. con mi # escribe la letra i resultando en «Con mi».
+D: teléfono
+AH: tel mi te # escribe la letra t. te # escribe la letra e. le #escribe la letra L. tele, te /l/ e # alarga el sonido de la /l/. ¿o?
+D: a ver lea qué dice
+AH: con mi te /l/ e
+D: pero aquí sólo dice tel ¿y qué queremos que diga? te /l/ e # hace énfasis en la separación del sonido /l/ y /e/.
+AH: ...
+D: a ver ¿se acuerda cuando dibujábamos las letras en el aire para hacer las palabras?
+AH: sí
+D: a ver dibújeme primero te
+AH: te # con su dedo índice traza sobre la hoja la letra t.
+D: ajá pero también con la siguiente letra, porque si no esta sólo sonaría ¿cómo suena esta? /t/
+AH: mi
+D: esta # señala la letra t. esta solita sólo suena /t/ pero ¿qué le tenemos que pegar para que diga te
+AH: te # traza en el aire con su dedo índice la letra e.
+D: muy bien, ahora usted con su dedito # cubre con las manos la frase escrita para evitar que AH lo copie.
+AH: te # traza con su dedo índice «te». le # traza la letra l. tele # finaliza con la letra e resultando en «tele».
+D: muy bien ahí ya sabe qué letra es la que sigue ¿no?
+AH: con mi te le # escribe la letra e. fo # escribe «fo» en cursiva. telefo /n/ # escribe la letra n. no # finaliza con la letra o resultando en «teLefono».

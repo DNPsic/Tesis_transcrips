@@ -1,4 +1,4 @@
-# Segmento: reonocimiento de categorías de palabras, cosas y acciones.
+# Segmento: reconocimiento de categorías de palabras: cosas y acciones.
 D: muy bien, ahora con rojo me va a dónde está la cosa, sólo la cosa
 AH: tele fono
 D: sólo el teléfono

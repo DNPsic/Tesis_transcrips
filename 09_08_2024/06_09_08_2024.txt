@@ -1,0 +1,94 @@
+# Segmento: escritura al dictado y continuación de reconocimiento.
+# Condición: conversación.
+D: ¿hoy cocinó?
+AH: no
+D: ¿usa mucho la licuadora para coinar?
+AH: sí
+D: ¿qué licua en la licuadora?
+AH: ayer estaba mole de olla, la del mole de olla, mole de olla
+D: ¿licuó qué chilitos?
+AH: mole de olla # interrumpe a D.
+D: ¿pasilla?
+AH: ma mole de olla
+D: ¿sí?
+AH: carne, con carne
+D: muy bien ¿usó su licuadora?
+AH: sí sí
+D: a ver escriba en la semana
+# Condición: escritura.
+AH: # escribe «EN». en la en la # escribe «La»
+D: semana
+AH: semana se ma na # escribe conforme dice las sílabas «SeMaNa».
+D: muy bien, licué
+AH: licué li
+D: licué
+AH: li li # sobre su palma izquierda hace un trazo con el lápiz (irreconocible) y después escribe en la hoja «fi» (en cursivas), más adelanté D nota el error de sustitución y se corrige. li
+D: cu
+AH: cu # escribe la letra c. licua, li
+D: ajá
+AH: cua
+D: licué, licué
+AH: ¿licué?
+D: ajá
+AH: licué, a ver licué, li # escribe la letra u. cué
+D: ¿qué nos falta?
+AH: licué, licué
+D: a ver hasta aquí ¿qué dice? # señala el incio de la palabra que AH escribe.
+AH: licué
+D: dice licu ¿qué nos falta, si aquí dice licu?
+AH: cua
+D: licu e # hace énfasis en la separación del sonido /e/
+AH: licue # escribe la letra E resultando en «ficuE»
+D: ¿qué licuó para hacer su mole de olla, qué metió a la licuadora?
+AH: este, una licua, una ¿qué? una
+D: ¿metió cebolla?
+AH: cebolla # asiete.
+D: ¿qué más metió?
+AH: cebolla, ajo o ajos, ajos
+D: ¿qué más?
+AH: y verdura, verdura verdura
+D: okey, licué las verduras
+AH: ¿las verduras? # escribe «Las». las ve, las ve # escribe «Be». ver # escribe la letra N. ver ver du # escribe «du». ras # escribe «ras» resultando en «BeNduras».
+D: para el caldo de olla # no nota el error de sustitución de r por N.
+AH: ¿cuándo?
+D: para el caldito de olla
+AH: ¿cómo?
+D: porque dijo que hizo de comer caldito de olla ¿no?
+AH: sí
+D: para
+AH: para # escribe la letra P. pa # escribe la letra a. para # escribe lo que parece ser la letra N.
+D: ¿qué letra es esta? # señala la letra que AH acaba de escribir.
+AH: erre
+D: si es erre está bien, para
+AH: pa
+D: para
+AH: ¿a?
+D: sí muy bien
+AH: # escribe la letra A resultando en «PaNA» (N reconocida como /rr/ por AH).
+D: el caldo de olla
+AH: e # escribe la letra E. el # finaliza con la letra L resultando en «EL».
+D: el caldo
+AH: caldo # escribe la letra c. el cal # escribe «aL». el cal
+D: do
+AH: el cal do # escribe «do» resultando en «caLdo»
+D: de
+AH: de olla, de # escribe «de». de de o # escribe la letra o. lla, o
+D: ¿qué sonido quedamos que # es interrunpida por AH.
+AH: o
+D: no no no, a ver, /o/ ya está, el siguiente sonido es /ll/ ¿cuál es? ya lo usamos varias veces hoy
+AH: ...
+D: # señala las letras «ll» escritas (no se aprecia donde exactamente).
+AH: ah sí # escribe «ll».
+D: ¿cómo suena? /ll/ e   
+AH: elle
+D: pero sólo este sonido ¿cómo suena? /ll/
+AH: lle # no se aprecia bien el sonido (falla de origen).
+D: oker, de olla
+AH: o, lla # finaliza escribiendo la letra a resultando en «olla».
+D: ajá # toma la hoja para leer la producción escrita de AH. el fin de semana licué las verduras para el caldo de olla # termina la lectura y dicta la parte faltante, le regres la hoja a AH. en la licuadora.
+AH: en la, en en # escribe «EN» en la li, en la # escribe «La». li, en la li li # escribe «Li». cua cua # escribe «cu». do li, li cuado do # escribe «do» ra, dora # finaliza con «ra» resultando en «Licudora».
+D: ¿qué nos falta aquí? leáme toda esta palabra # señala la última palabra escrita por AH.
+AH: en la li, a a # reconoce el error y escribe la letra A resultando en «LicuAdora».
+D: muy bien muy bien
+DT: muy bien
+D: a ver otra vez vamos a intentarlo, yo sé que es un poquito difícil

@@ -1,0 +1,87 @@
+# Segmento: reconocimiento de categorías de palabras: cosas y acciones.
+D: ¿cuál es la cosa? léame toda la oración primero, léame su oración # señala la oración previamente escrita por AH «en la semana licué las verduras ...» 
+# Condición: lectura.
+AH: en la, en la, en la semana las las verduras # omite por completo la última palabra.
+D: ¿y aquí qué dice? # señala la palabra escrita «ficuE».
+AH: fui, fui
+D: no a ver
+AH: en la semana fui
+D: no, esta no es una efe
+AH: fui # señala la letra f de «ficuE».
+D: ¿aquí qué dice?
+AH: fui
+D: si esta es una efe entonces hay que cambiarla por una ele, para que diga licué
+AH: li # escribe «Li». cue li ¿u?
+D: ajá
+AH: licué # escribe la letra u.
+D: licué # hace énfasis en el sonido de la /e/.
+AH: licué # finaliza con la letra E resultando en «LicuE»
+D: este lo vamos a tachar # raya con pluma la palabra errónea «ficuE».
+AH: sí
+D: bueno, ahora sí léame
+AH: en la semana licué las verduras, pa para el calso caldo de ollo de olla en la licuadora
+D: muy bien ¿la licuadora qué es, es una cosa o es una acción?
+AH: una cosa
+D: okey muy bien
+AH: una cosa
+D: muy bien, ahora dibújeme aquí una licuadora chiquita
+# Condición: dibujo.
+AH: # dibuja dos lineas rectas paralelas verticales que une con una curva en la parte superior, y por la parte inferior la une con otra línea recta.
+D: ¿dónde están los botones, o es de perillita su licuadora?
+AH: perillas
+D: ¿es de perilla?
+AH: las perillas
+D: ¿gira?
+AH: sí
+D: ah bueno dibuje su perilla.
+AH: # dentro de la figura en el costado izquerdo dibuja una columna de 3 puntos.
+D: okey ¿y dónde está el vaso de la licuadora?
+AH: aquí # del lado derecho dibuja una línea curva externa (posible representación del asa del vaso de la licuadora)
+DT: ah muy bien ¿el asa, no?
+AH: asa sí
+D: ah el asa
+AH: sí el asa
+D: dibújeme la tapa de la licuadora ¿dónde está su tapita?
+AH: # dibuja una línea recta en la parte superior dividiendo la primer línea curva que dibuja.
+D: bueno ahí está y dice que metió ¿verduras, no?
+AH: sí
+D: a ver dibújeme una poquitas verduras aquí dentro # señala el interior de la figura.
+AH: # dibuja dos líneas curvas paralelas horizontales y un círculo debajo.
+D: ¿y estas qué son?
+AH: este, la, el, tapa no ¿la qué? los chiles
+D: muy bien, esta es la licuadora ¿y qué me dijo que era, cosa o acción?
+# Condición: reconocimiento.
+AH: acción
+D: no
+AH: eh no, este, cosa cosa cosa
+D: ¿y el verbo o la acción? ahora sí, léamela otra vez y dígame dónde está el verbo o la acción
+AH: # lee en voz baja la oración «en la semana licué» licué # logra identificar correctamente la acción.
+D: muy bien ¿me subraya este mismo? # le señala la palabra «LicuE» y le da el marcador azul.
+AH: # hace lo indicado.
+D: muy bien, y ahora la cosa
+AH: las las
+D: no no, la cosa la cosa, usted ya me dijo cuál era la cosa ¿dónde está?
+AH: las verduras
+D: sí son una cosa, aunque no son la que estamos buscando, si quiere puede señalas las verduras, las verduras sí son una cosa
+AH: # subraya verduras con el marcador rojo.
+D: ¿qué otra cosa encuentra en su oración?
+AH: el caldo
+D: el caldo también es una cosa, muy bien
+DT: ajá muy bien
+AH: el caldo # subraya ambas palabras.
+D: ¿qué otra cosa hay?
+AH: licuadora
+D: muy bien muy bien
+AH: # subraya la palabra.
+# Condición: orientación temporal.
+D: muy bien, poquito a poquito, por cierto ni le pregunté la fecha ¿qué día es hoy?
+AH: este, nueve nueve
+D: ¿de qué mes?
+AH: de agosto
+D: ¿de qué año?
+AH: dos mil veinticuatro
+D: ¿y ayer?
+AH: ocho
+D: ¿y mañana?
+AH: diez
+D: muy bien muy bien

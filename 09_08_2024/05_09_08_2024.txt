@@ -1,0 +1,26 @@
+# Segmento: continuación de reconocimiento de categorías de palabras: cosas y acciones.
+D: ¿cuál es la acción aquí? # señala la oración «ayer barrí mi casa con la escoba».
+AH: ...
+D: léame la oración en voz alta
+AH: ayer barrió barrí mi casa con la escoba
+D: ¿cuál es la acción? acuérdese que generalmente la acción alguien la hace, por ejemplo usted o yo o su esposo ¿verdad?
+AH: sí
+D: y se acuerda que la acción se lleva a cabo en el tiempo ¿verdad? pasa tiempo mientras usted hace todas esas cosas
+AH: sí
+D: ¿cuál es la acción?
+AH: la escoba
+D: no, esa es la cosa
+AH: la cosa, ah ayer
+D: ayer es el día, ¿pero la acción?
+AH: barrí
+D: sí sí es esa, señale con este color barrí # le da el marcador azul.
+AH: # subraya con el marcador la palabra indicada.
+D: y ahora la cosa con la que usted barre
+AH: escoba
+D: muy bien, con este # le da el marcador rojo.
+AH: # subraya con rojo la palabra indicada
+D: ¿le está costando trabajo?
+AH: no no
+D: ¿segura?
+AH: sí
+D: entonces vamos a hacer uno más

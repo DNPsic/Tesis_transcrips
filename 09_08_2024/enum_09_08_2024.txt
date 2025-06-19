@@ -1,11 +1,3 @@
-Sesión del 09 de agosto de 2024.
-ID: AH-0908-2024.
-Participantes:
-AH: Mujer de 65 años, informante.
-D: Daniela Salinas, entrevistadora. 
-DT: Dante Nava, entrevistador.
-AC: Hombre, hijo de AH.
-
 001 # Segmento: inicio de sesion
 002 # Condición: lectura.
 003 # Material: cuaderno de AH, pizarrón blanco y marcadores.

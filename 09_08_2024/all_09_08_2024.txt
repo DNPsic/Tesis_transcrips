@@ -1,0 +1,619 @@
+# Segmento: inicio de sesion
+# Condición: lectura.
+# Material: cuaderno de AH, pizarrón blanco y marcadores.
+# AH lee el contenido escrito en su cuaderno previamente
+AH: yo estaba en soriana a las doce y media con mi hija
+D: muy bien
+AH: en el refigrerador la ca la crema, pan español, yo yo, y aceite y dos leches y los atunes
+D: ahora explíqueme sus dibujos
+AH: leche atún crema aceite # sus dibujos son figuras simples con las palabras escritas dentro, señala cada y las lee.
+D: de acuerdo y ¿dibujó cuando estaba usted en soriana?
+AH: sí
+D: ¿dónde?
+AH: aquí # señala la oración que leyó al inicio.
+D: pero el dibujo
+AH: # ve a D sin dar respuesta.
+D: dibújeme un pez # le da el marcador rojo de pizarrón
+AH: ¿un pez?
+D: un pez
+AC: un pececito
+AH: un pez # dibujo un óvalo con una líea pequeña en la parte inferior
+D: ¿le falta algo a ese pez?
+AH: las # dibuja dos lineas más desde los lados del óvalo, una del lado izquierdo y otra en el derecho.
+D: sus aletitas ¿y su colita?
+AH: colita # dibuja dos puntos dentr del óvalo.
+D: muy bien a parte de esto me dijo que hizo más ¿no?
+AH: a ver
+D: ¿esta no? # le muestra otra hoja de su cuaderno
+AH: a ver
+# Escrito: la hoja muestra en la parte superior «8 de agosto fecha 2024», a continuación se lee (primer párrafo) «los regalos de los sicologos y las playeras del doctor alejandro» (segundo párrafo) «la doctora Daniela el doctor Guillermo», el uso de minúsculas y mayúsculas es inconsistente a diferencia de lo representadoa aquí.
+# Escrito: la hoja muestra en la parte superior «viernes 9  de Agosto 2024», a continuación (primer párrafo) «ayer fui a soriana a comprar sandia y tortillas», (segundo párrafo) «yo vi la televicion», finalmente se observan 3 dibujos y debajo de cada uno las palabras «television, sandia, tortillas», el primer dibujo es un rectángulo con 4 puntos en su parte superior, el segundo es una forma ovalada con 6 puntos en su interior, el trecero son 6 puntos alineados verticalmente y en dos columnas.
+D: muy bien, léame esta primera oración # señala la primera oración.
+# Condición: lectura.
+AH: fuia a soriana a comprar sandía y tortillas
+D: muy bien
+AH: yo yo va yo vi vi la televisión
+D: muy bien dígame aquí cuál es el verbo # señala la primera oración.
+AH: fui
+D: ¿qué otro verbo hay?
+AH: comprar
+D: ¿y en esta otra oración cuál es el verbo? # señala la segunda oración.
+AH: yo
+D: no, acuérdese que los verbos son acciones
+AH: yo vi, vi vi
+D: muy bien, por ejemplo en la primera oración usted ya me dijo que el verbo es fui
+AH: ajá sí
+D: y también comprar mientras que en la segunda es vi
+AH: ah sí
+D: pero por ejemplo dígame cosas que podemos encontrar en esa oración, cosas no verbos
+AH: fui
+D: no ese quedamos que era el verbo, quedamos que las cosas no sienten, por ejemplo si yo le pego a esto # da dos golpes al borrador del pizarrón. no siente
+AH: ajá
+D: sólo si alguien más los mueve, generalmente no tienen intenciones, o no se mueve solo
+AH: ajá
+D: por ejemplo si yo dibujo # dibuja una rebanada de una sandía en el pizarrón.
+AH: ah sandía
+D: ajá muy bien ¿esto qué es una cosa o es un verbo?
+AH: este cosa
+D: ¿la sandía siente?
+AH: no no
+D: muy bien y por ejemplo si yo dibujo # dibuja un rectangulo y unas figuras humanas dentro, al lado un óvalo con círculos de diferentes tamaños. imagínese que esto es una televisión ¿esto sería una cosa o una acción?
+AH: no, una acción
+D: ¿una acción? por qué
+AH: la televisión estaba bien
+D: pero usted el ver, que usted esté por ejemplo # dibuja una figura humana al lado del dibujo anterior. imagínese que aquí está usted, y está observando la televisión # dibuja una flecha desde la cabeza de la figura humana hasta el dibujo de la televisión. pero usted está viéndolo, usted experimenta usted sí siente
+AH: sí
+D: usted percibe las imágenes ¿de acuerdo?
+AH: cosa las cosas
+DT: ajá muy bien
+D: sí, usted percibe las cosas, usted por ejemplo puede ver las hojas
+AH: sí sí
+D: la bolsa, mis bibujos
+AH: sí
+D: pero quien siente es usted
+AH: ajá
+D: y usted lo que está haciendo es ver
+AH: ver
+D: ese sí es el verbo, que usted experimente todo eso es el verbo
+AH: ah
+D: pero esto # señala el dibujo de la televisión. sólo es una cosa sólo existe, y no hace nada más ni siente nada más
+AH: sí
+D: entonces la televisión ¿es una cosa o es un verbo?
+AH: una cosa
+D: muy bien, y por ejemplo ¿ese reloj? # señala el reloj de pared.
+AH: una cosa
+D: ¿y sus lentes?
+AH: mis lentes
+D: ¿son una cosa o son una acción?
+AH: una cosa una cosa
+D: y por ejemplo cuando sus niñas están jugando, jugando ¿jugar es una acción o es una cosa?
+AH: acción acción
+D: y por ejemplo cuando sus hijos están trabajando
+AH: acción
+D: ¿y la puerta, la puerta qué es?
+AH: cosa cosa
+D: muy bien a ver un último ejemplo, la silla ¿es una cosa o una acción?
+AH: cosa
+D: ahora yo le voy a decir unas palabras y usted las va a escribir
+AH: sí
+
+# Segmento: clasificación de cosas y acciones al dictado.
+# Material: pizarrón y marcador rojo. en el pizarrón se observan dos columnas, en la izquierda dice acción y en la derecha cosa.
+D: el papel de baño ¿qué es una cosa o una acción?
+AH: cosa
+D: a ver escriba ahí papel de baño
+AH: ¿pa?
+D: papel
+# Condición: escritura.
+AH: pa # escribe «Pa». pa # escribe la letra P.
+D: pape
+AH: ¿ele?
+D: no no aquí leame qué dice # señala lo que AH acaba de escribir.
+AH: pa
+D: pap hasta acá dice pap, pape # hace énfasis en el sonido de la e
+AH: ¿ele?
+D: no, antes de la ele, falta un sonido pe /p-e/ # hace énfases en los dos sonidos.
+AH: ah pe
+D: pero la letra pe ya está aquí ¿cuál es siguiente sonido? /p/ es este sonido # señala la última letra P escrita. y el siguiente /ee/
+AH: ah ((enrique)) # escribe la letra E.
+D: ahora sí ¿qué nos falta?
+AH: ele
+D: ajá muy bien, ¿papel de?
+AH: higiénico
+D: de
+AH: de # escribe «de» con letra cursiva.
+D: muy bien, papel de baño
+AH: ba # escribe «va»
+D: con esa la podemos dejar de momento, baño
+AH: ¿eñe?
+D: sí muy bien
+AH: # escribe la letra Ñ
+D: ¿qué nos falta?
+AH: /o/ # escribe la letra o
+# Condición: conversacion.
+DT: muy bien
+D: ahora por ejemplo, caminar ¿caminar es una cosa o una acción?
+AH: acción acción
+DT: muy bien
+D: sí muy bien, por ejemplo cuando caminamos hay movimiento, escriba caminar
+AH: caminar # escribe «camiNar» en la columa de acción, la escribe mientras dice en voz alta la palabra separando por sílabas ca-mi-nar.
+# Condición: conversacion
+D: muy bien ahora por ejemplo licuar ¿licuar qué es una acción o es una cosa?
+AH: cosa
+D: ¿licuar?
+AH: acción
+D: sí pero a ver, le voy a dibujar una licuadora # dibuja una licuadora en el pizarrón con algunos ingredientes dentro. cuando usted licua hay movimiento ¿verdad?
+AH: sí
+D: cuando usted es quien lo hace, cuando usted prende la licadora, se mueve ¿verdad?
+AH: sí cierto
+D: pero sola no hace nada en sí misma ¿verdad?
+AH: no no
+D: la licuadora sí es una cosa, sólo la licuadora, esto # dibuja un círculo encerrando la licuadora. iría aquí en cosa, pero licuar, el que pueda usted llegar y tocar el botón y empeice a funcionar, esto que es un jitomate un chile y un ajo, se haga un caldo, todo eso ya es licuar pero todo el proceso ¿cierto?
+AH: sí
+D: entonces ¿para licuar qué hace usted? a ver cuénteme
+AH: este acción
+D: sí pero ¿qué hace primero?
+AH: una licuadora
+D: pero usted llega ¿y qué hace con la licuadora?
+AH: este licuando
+D: ajá usted licua pero
+AH: jitomates
+D: llega y presiona un botón ¿verdad?
+AH: sí cierto
+D: y luego cuando presiona el botón ¿qué pasa?
+AH: ...
+D: ¿qué pasa con el jitomate, en qué se convierte?
+AH: una licuadora licuadora
+D: pero se convierte en una salsa ¿verdad?
+AH: una salsa sí cierto
+D: entonces ¿licuar es una acción o es una cosa?
+AH: acción acción
+D: porque hay todo un proceso que usted hace ¿verdad?
+AH: sí sí
+D: ¿y la licuadora qué es?
+AH: cosa cosa
+D: muy bien muy bien, a ver entonces ¿licuar? # le da el marcador rojo para que escriba.
+# Condición: escritura.
+AH: licuar # escribe «licur». 
+D: no ¿qué nos falta?
+AH: la a
+D: sí muy bien # borra la letra r.
+AH: /a/ # escribe «Ar» resultando en «licuAr»
+D: muy bien ¿y licuadora?
+AH: li # escribe «Lic». cua # escribe la letra u
+D: licua ¿qué sigue?
+AH: ¿a? /a/ # escribe la letra A
+D: do
+AH: do # escribe «Do» dora # escribe «ra» resultando en «LicuADora»
+# Condición: conversacion
+D: ahora por ejemplo el teléfono ¿qué es una cosa o una acción?
+AH: acción acción
+D: no
+AH: cosa cosa
+D: pero para ser una acción ¿cómo se tendría que llamar?
+AH: el teléfono
+D: por ejemplo si usted se quiere comunicar con el señor R_ pero el señor R_ está en su trabajo ¿qué hace?
+AH: teléfono aquí # con su mano izquierda cierra parcialmente el puño y lo pone al lado de su oreja izquierda. teléfono aquí
+D: si usted quisiera comunicarse con él, agarra su teléfono, marca un número
+AH: sí
+D: ¿y cómo se le llama a eso?
+AH: R_ # menciona el nombre de la persona que se usó de ejemplo.
+D: lla
+AH: ¿qué?
+D: llamar
+AH: llamar ah cierto
+D: entonces llamar y teléfono ¿cuál es cuál, cuál es una cosa y cuál es la acción?
+AH: llamar
+D: ¿llamar cuál es acción o cosa?
+AH: acción acción
+D: ajá muy bien llamar
+AH: llamar lla ...
+D: ¿se acuerda de estas? # escribe «ll». o bueno en su defecto de esta # escribe la letra y.
+# Condición: escritura.
+AH: sí # escribe «llaMar» en la columa de acción.
+D: y aquí teléfono # señala la columa de cosa.
+AH: te # escribe «TeL» le tele ¿ele?
+D: la ele ya la tiene, es esta ¿no? tele
+AH: sí ¿e?
+D: le /l/
+AH: ¿ele?
+D: la ele ya la tiene, esta es la ele # remarca con el marcador la letra L escrita por AH. a ver le serviría fingir que la escribe en su palma?
+AH: # aproxima el marcador a su palma izquierda.
+D: a ver si quiere con su dedito, te le # se muestra su palma derecha.
+AH: te # con su dedo índice derecho comienza a hacer movimientos sobre su palma izquierda dibujando «Te». le # finaliza el movimiento sobre su palma con «Le» dando como resulado «TeLe» ah
+D: ajá muy bien # le da el marcador rojo.
+AH: # completa el escrito en el pizarrón escribiendo la letra E resultando en «TeLE».
+D: telefo
+AH: fo # escribe «fo». ele fo
+D: ajá ¿qué sigue?
+AH: no # escribe la letra r.
+D: no no a ver léamelo
+AH: tele fo no # señala la letra r. pérame(espérame) # usa el borrador para borrar la letra r. tele fo /n/ ¿ene? # escribe la letra N.
+D: sí muy bien
+AH: fo # escribe la letra o resultando en «TeLEfoNo» pero vuelve a escribir abajo otra secuencia «NO».
+D: este ya no pero todo lo demás está bien
+
+# Segmento: Dibujo de sustantivos al dictado.
+# Material: Hoja blanca tamaño carta en horizontal, lápiz y goma de borrar.
+D: a ver aquí me va a dibujar un teléfono # señala la hoja blanca. puede ser uno de casa o un teléfono celular
+# Condición: dibujo.
+# sobre la mesa se encuentra un teléfono celular con forma rectangular.
+AH: # dibuja un rectángulo comenzando por dos líneas paralelas rectas, una izquierda y otra derecha, dibuja una línea horizontal para conectar ambas líneas por la parte inferior y finaliza repitiendo esta acción en la parte superior. ¿tele, efe?
+D: no no no, pero dibujar
+AC: ((de dibujo)) un teléfono un celular, dibuja un celular
+D: ¿este qué es? # señala el rectángulo dibujado por AH.
+AH: el el
+D: ¿el teléfono?
+AH: teléfono
+D: okey ¿qué tienen los teléfonos, tienen botones?
+AH: los botones
+D: a ver dibújele los botones, por ejemplo este tiene un botón por aquí # le muestra el teléfono celular y los botones laterales.
+AH: ah sí # dibuja del lado superior izquierdo del rectángulo 2 líneas horizontales diminutas
+D: ¿y por ejemplo cuando usted llama a alguien qué hace con el teléfono?
+AH: ...
+D: y por ejemplo aquí # le muestra un teclado en la pantalla del celular. ¿qué puede teclear?
+AH: teclear uno dos tres
+D: ¿qué son todos estos? # señala la pantalla del teléfono.
+AH: el teléfono
+D: ajá ¿pero estos qué son?
+AH: dos
+AC: nu
+AH: números los números
+D: ajá muy bien
+AH: los números
+D: usted cuando le va a llamar a alguien teclea el número del teléfono ¿verdad?
+AH: sí sí cierto
+D: a ver dibújeme aquí los números # señala el dibujo de AH.
+AH: # dibuja dentro del rectángulo comenzando en la parte superior 9 puntos en filas de 3.
+# Condición: conversación.
+D: muy bien, esto solito así solito ¿qué es? # señala el dibujo
+AH: el teléfono
+D: ajá ¿y el teléfono qué es, una cosa o una acción?
+AH: una cosa
+D: muy bien, y por ejemplo si usted llega con el teléfono, marca por ejemplo y ya llama, a todo eso ¿cómo se le llama?
+AH: la cosa
+D: no no a todo eso se le llama llamarle ¿no? por ejemplo le voy a llamar a R_
+AH: ah sí llamar
+D: y todo eso que pasa en el tiempo que usted hace, a lo que se le llama llamar ¿qué es, es una acción o es una cosa?
+AH: una cosa
+D: no
+AH: una # voltea a ver el pizarrón. acción
+D: una acción # lo dice al mismo tiempo que AH. porque acuérdese que las acciones implican por ejemplo, generalmente pero no siempre, que haya una persona
+AH: ah pues sí cierto
+D: una persona que por ejemplo levante el borrador o que le llamé a alguien o que escriba en la libreta
+AH: sí
+D: bueno intentémoslo otra vez, llamar que es todo el proceso ¿ese proceso requiere tiempo? para que yo llamé, llegue, tome el teléfono
+AH: tres minutos
+D: sí puede tardar tres minutos
+AH: sí sí
+D: entonces si requiere tiempo ¿qué es?
+AH: acción
+D: entonces aquí # señala a un lado del dibujo de AH. dibújese usted usando el teléfono para llamarle a alguien
+# Condición: dibujo.
+AH: # dibuja un círculo y dentro de él tres puntos, 2 alineados de forma horizontal y un tercero en medio de ambos desplazado hacia abajo, agrega una línea curva abajo de este último, representando quizás ojos, nariz y boca respectivamente.
+D: okey muy bien
+AH: # dibuja tres formas curvas irregulares comenzando en el lado derecho externo del círculo, continuando hacia la parte superior  finalmente hacia la izquierda (posible representación de pelo y/o orejas), agrega dos líneas paralelas en la parte inferior externa del círculo (posible representación del cuello) y complementa cada una con trazos rectos para formar rectángulos pequeños (posible representación de los brazos), finalmente agrega otras dos líneas rectas paralelas de los vértices centrales inferiores de estos dos rectángulos (posible representación del torso o piernas). ¿las manos?
+D: por ejemplo ¿qué tiene que hacer con al menos una de las manos? agrrar el teléfono ¿verdad?
+AH: el teléfono sí
+D: entonces una de las manos tiene que agarrar el teléfono # señala el rectángulo izquierdo de la figura recién dibujada.
+AH: ah sí # bibuja cuatro líneas rectas horizontales a los lados externos de los dos rectángulos pequeños (posible representación de los dedos de las manos), se rie.
+DT: muy bien sí se acordó de la clase de dibujo
+AH: sí cierto ajá # agrega dos figuras circulares en los extremos inferiores de las dos lineas paralelas dibujadas anteriomente (posible representación de los pies).
+D: a ver escriba llamé a mi esposo con el teléfono
+# Condición: ecritura.
+AH: ¿lla?
+D: sí llamé
+AH: ¿llamé, lla?
+D: ¿qué sonido quedamos? # señala la palabra «llamar» escrita en el pizarrón.
+AH: ah sí # escribe «ll»
+D: ¿cómo suena ese sonido? /ll/
+AH: lla
+D: sí sí pero haga sólo el sonido /ll/
+AH: /ll/ # al mismo tiempo que D.
+D: ajá muy bien, llamé
+AH: lla ¿lla?
+D: lla
+AH: lla lla # escribe la letra a.
+D: llamé
+AH: me llamé # escribe la letra m.
+D: ¿qué nos falta?
+AH: llamé # escribe la letra e (en cursiva) resultando en «llame»
+D: a # señala debajo de lo que AH acaba de escribir.
+AH: a # escribe la letra a.
+D: mi
+AH: a /m/ # alarga el sonido /m/ y escribe la letra m. a mi # escribe la letra i resultando en «a mi»
+D: esposo
+AH: esposo a mi es # escribe la letra E. es es # escribe la letra s (en cursiva) seguida de «Po». po so # alarga el sonido de la /s/ y conluye escribiendo «so» resultando en «EsPoso»
+D: con mi teléfono # señala abajo de lo que acaba de escribir AH.
+AH: ¿con?
+D: con mi teléfono
+AH: con # escribe «Con» (en cursiva). /m/ mi # escribe la letra m. con mi # escribe la letra i resultando en «Con mi».
+D: teléfono
+AH: tel mi te # escribe la letra t. te # escribe la letra e. le #escribe la letra L. tele, te /l/ e # alarga el sonido de la /l/. ¿o?
+D: a ver lea qué dice
+AH: con mi te /l/ e
+D: pero aquí sólo dice tel ¿y qué queremos que diga? te /l/ e # hace énfasis en la separación del sonido /l/ y /e/.
+AH: ...
+D: a ver ¿se acuerda cuando dibujábamos las letras en el aire para hacer las palabras?
+AH: sí
+D: a ver dibújeme primero te
+AH: te # con su dedo índice traza sobre la hoja la letra t.
+D: ajá pero también con la siguiente letra, porque si no esta sólo sonaría ¿cómo suena esta? /t/
+AH: mi
+D: esta # señala la letra t. esta solita sólo suena /t/ pero ¿qué le tenemos que pegar para que diga te
+AH: te # traza en el aire con su dedo índice la letra e.
+D: muy bien, ahora usted con su dedito # cubre con las manos la frase escrita para evitar que AH lo copie.
+AH: te # traza con su dedo índice «te». le # traza la letra l. tele # finaliza con la letra e resultando en «tele».
+D: muy bien ahí ya sabe qué letra es la que sigue ¿no?
+AH: con mi te le # escribe la letra e. fo # escribe «fo» en cursiva. telefo /n/ # escribe la letra n. no # finaliza con la letra o resultando en «teLefono».
+
+# Segmento: reconocimiento de categorías de palabras: cosas y acciones.
+D: muy bien, ahora con rojo me va a dónde está la cosa, sólo la cosa
+AH: tele fono
+D: sólo el teléfono
+AH: teléfono # con el marcador rojo subraya la palabra teléfono.
+D: ajá esa es la cosa, y ahora con azul me va a señalar dónde está el verbo, la acción # le da el marcador azul.
+AH: a mi, a mi
+D: ¿cuál?
+AH: a mi
+D: no no la acción
+AH: esposo
+D: no a ver tranquila # toma el marcador azul. dígame de qué color es su cubrebocas
+AH: roja ra
+D: ro
+AH: rosa
+D: quedamos que las palabras eran llamar y teléfono, esta es la cosa # señala en el pizarrón la palabra teléfono.
+AH: sí
+D: ¿y entonces cuál será la acción?
+AH: llamé
+D: llamar bueno sí llamar o llamé
+AH: sí # subraya con el marcador azul la palabra «llame» escrita en la hoja blanca.
+D: muy bien, ahora ayer barrí mi casa # le da el lápiz para que escriba la oración.
+# Condición: escritura.
+AH: a # escribe la letra a, voltea a ver a D.
+D: ayer ¿se acuerda cual era el sonido /ll/ que acabamos de usar hace rato? en esta por ejemplo # señala la palabra «llame» escrita en la hoja blanca. /ll/ # hace énfasis en el sonido de la letra «y» en «ayer».
+AH: ¿elle? aquí aquí # escribe «ll»
+D: puede ser aquí
+AH: ayer # termina de escribir la palabra resultando en «aller»
+D: ayer barrí
+AH: ba ba # escribe «Ba». rri # escribe «ri» resultando en «Bari». ah no barrí # borra la letra i para sustituirla por «ri» resultando en «Barri».
+D: mi casa
+AH: mi casa, mi # escribe «mi» seguido. ca # escribe «ca» seguido de «sa» resultando en « mi casa». sa.
+D: ¿con qué barre, qué usa usted para barrer?
+AH: ah barre
+D: ¿pero qué usa?
+AH: # hace un gesto con ambas manos, mueve ambas de forma alternada hacia afuera y adentro de su torso en un eje horizontal (posible gesto de barrer).
+D: ¿cómo se le llama a eso?
+DT: la cosa
+D: ajá la cosa
+AH: la cosa
+D: ajá ¿cómo se llama la cosa con la que barre?
+AH: aquí # repite el gesto anterior con ambas manos.
+D: ¿pero cómo se le llama a esto? # dibuja en el pizarrón una escoba.
+AH: ...# se mantiene en silencio.
+D: ¿con esto barre?
+AH: ajá sí cierto
+D: ¿se acuerda cómo se llama?
+AH: no me acuerdo
+D: empieza con e
+AH: ...
+D: es # alarga el sonido de la /s/.
+AH: escoba escoba
+D: muy bien muy bien, ayer barrí mi casa con la escoba, con # señala la hoja para indicar a AH que continúe con la escritura de la oración.
+AH: # escribe «Con». con
+D: la
+AH: # escribe «La».
+D: escoba
+AH: es # escribe «Es». co # escribe «co». escoba
+D: /b/
+AH: esco # escribe la letra B. ba # escribe la letra a resultando en «EscoBa». escoba
+
+# Segmento: continuación de reconocimiento de categorías de palabras: cosas y acciones.
+D: ¿cuál es la acción aquí? # señala la oración «ayer barrí mi casa con la escoba».
+AH: ...
+D: léame la oración en voz alta
+AH: ayer barrió barrí mi casa con la escoba
+D: ¿cuál es la acción? acuérdese que generalmente la acción alguien la hace, por ejemplo usted o yo o su esposo ¿verdad?
+AH: sí
+D: y se acuerda que la acción se lleva a cabo en el tiempo ¿verdad? pasa tiempo mientras usted hace todas esas cosas
+AH: sí
+D: ¿cuál es la acción?
+AH: la escoba
+D: no, esa es la cosa
+AH: la cosa, ah ayer
+D: ayer es el día, ¿pero la acción?
+AH: barrí
+D: sí sí es esa, señale con este color barrí # le da el marcador azul.
+AH: # subraya con el marcador la palabra indicada.
+D: y ahora la cosa con la que usted barre
+AH: escoba
+D: muy bien, con este # le da el marcador rojo.
+AH: # subraya con rojo la palabra indicada
+D: ¿le está costando trabajo?
+AH: no no
+D: ¿segura?
+AH: sí
+D: entonces vamos a hacer uno más
+
+# Segmento: escritura al dictado y continuación de reconocimiento.
+# Condición: conversación.
+D: ¿hoy cocinó?
+AH: no
+D: ¿usa mucho la licuadora para coinar?
+AH: sí
+D: ¿qué licua en la licuadora?
+AH: ayer estaba mole de olla, la del mole de olla, mole de olla
+D: ¿licuó qué chilitos?
+AH: mole de olla # interrumpe a D.
+D: ¿pasilla?
+AH: ma mole de olla
+D: ¿sí?
+AH: carne, con carne
+D: muy bien ¿usó su licuadora?
+AH: sí sí
+D: a ver escriba en la semana
+# Condición: escritura.
+AH: # escribe «EN». en la en la # escribe «La»
+D: semana
+AH: semana se ma na # escribe conforme dice las sílabas «SeMaNa».
+D: muy bien, licué
+AH: licué li
+D: licué
+AH: li li # sobre su palma izquierda hace un trazo con el lápiz (irreconocible) y después escribe en la hoja «fi» (en cursivas), más adelanté D nota el error de sustitución y se corrige. li
+D: cu
+AH: cu # escribe la letra c. licua, li
+D: ajá
+AH: cua
+D: licué, licué
+AH: ¿licué?
+D: ajá
+AH: licué, a ver licué, li # escribe la letra u. cué
+D: ¿qué nos falta?
+AH: licué, licué
+D: a ver hasta aquí ¿qué dice? # señala el incio de la palabra que AH escribe.
+AH: licué
+D: dice licu ¿qué nos falta, si aquí dice licu?
+AH: cua
+D: licu e # hace énfasis en la separación del sonido /e/
+AH: licue # escribe la letra E resultando en «ficuE»
+D: ¿qué licuó para hacer su mole de olla, qué metió a la licuadora?
+AH: este, una licua, una ¿qué? una
+D: ¿metió cebolla?
+AH: cebolla # asiete.
+D: ¿qué más metió?
+AH: cebolla, ajo o ajos, ajos
+D: ¿qué más?
+AH: y verdura, verdura verdura
+D: okey, licué las verduras
+AH: ¿las verduras? # escribe «Las». las ve, las ve # escribe «Be». ver # escribe la letra N. ver ver du # escribe «du». ras # escribe «ras» resultando en «BeNduras».
+D: para el caldo de olla # no nota el error de sustitución de r por N.
+AH: ¿cuándo?
+D: para el caldito de olla
+AH: ¿cómo?
+D: porque dijo que hizo de comer caldito de olla ¿no?
+AH: sí
+D: para
+AH: para # escribe la letra P. pa # escribe la letra a. para # escribe lo que parece ser la letra N.
+D: ¿qué letra es esta? # señala la letra que AH acaba de escribir.
+AH: erre
+D: si es erre está bien, para
+AH: pa
+D: para
+AH: ¿a?
+D: sí muy bien
+AH: # escribe la letra A resultando en «PaNA» (N reconocida como /rr/ por AH).
+D: el caldo de olla
+AH: e # escribe la letra E. el # finaliza con la letra L resultando en «EL».
+D: el caldo
+AH: caldo # escribe la letra c. el cal # escribe «aL». el cal
+D: do
+AH: el cal do # escribe «do» resultando en «caLdo»
+D: de
+AH: de olla, de # escribe «de». de de o # escribe la letra o. lla, o
+D: ¿qué sonido quedamos que # es interrunpida por AH.
+AH: o
+D: no no no, a ver, /o/ ya está, el siguiente sonido es /ll/ ¿cuál es? ya lo usamos varias veces hoy
+AH: ...
+D: # señala las letras «ll» escritas (no se aprecia donde exactamente).
+AH: ah sí # escribe «ll».
+D: ¿cómo suena? /ll/ e   
+AH: elle
+D: pero sólo este sonido ¿cómo suena? /ll/
+AH: lle # no se aprecia bien el sonido (falla de origen).
+D: oker, de olla
+AH: o, lla # finaliza escribiendo la letra a resultando en «olla».
+D: ajá # toma la hoja para leer la producción escrita de AH. el fin de semana licué las verduras para el caldo de olla # termina la lectura y dicta la parte faltante, le regres la hoja a AH. en la licuadora.
+AH: en la, en en # escribe «EN» en la li, en la # escribe «La». li, en la li li # escribe «Li». cua cua # escribe «cu». do li, li cuado do # escribe «do» ra, dora # finaliza con «ra» resultando en «Licudora».
+D: ¿qué nos falta aquí? leáme toda esta palabra # señala la última palabra escrita por AH.
+AH: en la li, a a # reconoce el error y escribe la letra A resultando en «LicuAdora».
+D: muy bien muy bien
+DT: muy bien
+D: a ver otra vez vamos a intentarlo, yo sé que es un poquito difícil
+
+# Segmento: reconocimiento de categorías de palabras: cosas y acciones.
+D: ¿cuál es la cosa? léame toda la oración primero, léame su oración # señala la oración previamente escrita por AH «en la semana licué las verduras ...» 
+# Condición: lectura.
+AH: en la, en la, en la semana las las verduras # omite por completo la última palabra.
+D: ¿y aquí qué dice? # señala la palabra escrita «ficuE».
+AH: fui, fui
+D: no a ver
+AH: en la semana fui
+D: no, esta no es una efe
+AH: fui # señala la letra f de «ficuE».
+D: ¿aquí qué dice?
+AH: fui
+D: si esta es una efe entonces hay que cambiarla por una ele, para que diga licué
+AH: li # escribe «Li». cue li ¿u?
+D: ajá
+AH: licué # escribe la letra u.
+D: licué # hace énfasis en el sonido de la /e/.
+AH: licué # finaliza con la letra E resultando en «LicuE»
+D: este lo vamos a tachar # raya con pluma la palabra errónea «ficuE».
+AH: sí
+D: bueno, ahora sí léame
+AH: en la semana licué las verduras, pa para el calso caldo de ollo de olla en la licuadora
+D: muy bien ¿la licuadora qué es, es una cosa o es una acción?
+AH: una cosa
+D: okey muy bien
+AH: una cosa
+D: muy bien, ahora dibújeme aquí una licuadora chiquita
+# Condición: dibujo.
+AH: # dibuja dos lineas rectas paralelas verticales que une con una curva en la parte superior, y por la parte inferior la une con otra línea recta.
+D: ¿dónde están los botones, o es de perillita su licuadora?
+AH: perillas
+D: ¿es de perilla?
+AH: las perillas
+D: ¿gira?
+AH: sí
+D: ah bueno dibuje su perilla.
+AH: # dentro de la figura en el costado izquerdo dibuja una columna de 3 puntos.
+D: okey ¿y dónde está el vaso de la licuadora?
+AH: aquí # del lado derecho dibuja una línea curva externa (posible representación del asa del vaso de la licuadora)
+DT: ah muy bien ¿el asa, no?
+AH: asa sí
+D: ah el asa
+AH: sí el asa
+D: dibújeme la tapa de la licuadora ¿dónde está su tapita?
+AH: # dibuja una línea recta en la parte superior dividiendo la primer línea curva que dibuja.
+D: bueno ahí está y dice que metió ¿verduras, no?
+AH: sí
+D: a ver dibújeme una poquitas verduras aquí dentro # señala el interior de la figura.
+AH: # dibuja dos líneas curvas paralelas horizontales y un círculo debajo.
+D: ¿y estas qué son?
+AH: este, la, el, tapa no ¿la qué? los chiles
+D: muy bien, esta es la licuadora ¿y qué me dijo que era, cosa o acción?
+# Condición: reconocimiento.
+AH: acción
+D: no
+AH: eh no, este, cosa cosa cosa
+D: ¿y el verbo o la acción? ahora sí, léamela otra vez y dígame dónde está el verbo o la acción
+AH: # lee en voz baja la oración «en la semana licué» licué # logra identificar correctamente la acción.
+D: muy bien ¿me subraya este mismo? # le señala la palabra «LicuE» y le da el marcador azul.
+AH: # hace lo indicado.
+D: muy bien, y ahora la cosa
+AH: las las
+D: no no, la cosa la cosa, usted ya me dijo cuál era la cosa ¿dónde está?
+AH: las verduras
+D: sí son una cosa, aunque no son la que estamos buscando, si quiere puede señalas las verduras, las verduras sí son una cosa
+AH: # subraya verduras con el marcador rojo.
+D: ¿qué otra cosa encuentra en su oración?
+AH: el caldo
+D: el caldo también es una cosa, muy bien
+DT: ajá muy bien
+AH: el caldo # subraya ambas palabras.
+D: ¿qué otra cosa hay?
+AH: licuadora
+D: muy bien muy bien
+AH: # subraya la palabra.
+# Condición: orientación temporal.
+D: muy bien, poquito a poquito, por cierto ni le pregunté la fecha ¿qué día es hoy?
+AH: este, nueve nueve
+D: ¿de qué mes?
+AH: de agosto
+D: ¿de qué año?
+AH: dos mil veinticuatro
+D: ¿y ayer?
+AH: ocho
+D: ¿y mañana?
+AH: diez
+D: muy bien muy bien

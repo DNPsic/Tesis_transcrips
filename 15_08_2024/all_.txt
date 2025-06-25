@@ -55,7 +55,7 @@ AH: no porque ya no ya luego está muy feo muy feo
 D: ¿a porque es peligroso?
 AH: pus(pues) sí
 # Segmento: actividad con ilustraciones de objetos.
-# Material: tarjetas de imágenes y las preguntas en el pizarrón ¿qué es? ¿qué se hace?, marcadores azul y rojo. 
+# Material: tarjetas de imágenes y las preguntas en el pizarrón ¿qué es? ¿qué se hace?.
 ...
 DT: con este de arriba ya no vamos a trabajar, ya no es la cosa, ya lo tachamos, ahora con ¿qué se hace? ¿lo puede leer otra vez?
 AH: ¿qué se hace?

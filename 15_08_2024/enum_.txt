@@ -55,7 +55,7 @@
 055 D: ¿a porque es peligroso?
 056 AH: pus(pues) sí
 057 # Segmento: actividad con ilustraciones de objetos.
-058 # Material: tarjetas de imágenes y las preguntas en el pizarrón ¿qué es? ¿qué se hace?, marcadores azul y rojo. 
+058 # Material: tarjetas de imágenes y las preguntas en el pizarrón ¿qué es? ¿qué se hace?.
 059 ...
 060 DT: con este de arriba ya no vamos a trabajar, ya no es la cosa, ya lo tachamos, ahora con ¿qué se hace? ¿lo puede leer otra vez?
 061 AH: ¿qué se hace?

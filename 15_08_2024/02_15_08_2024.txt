@@ -46,7 +46,7 @@ DT: ahora vamos con este ¿qué dijimos que era?
 # se le muestra una ilustración de un teléfono fijo, no celular
 AH: el teléfono
 DT: ¿y qué se hace?
-AH: ¿qué hace? # el teléfono señala la tarjeta con la imagen del teléfono. /rr/ # intenta imitar el sonido de un teléfono.
+AH: ¿qué hace? el teléfono # señala la tarjeta con la imagen del teléfono. /rr/ # intenta imitar el sonido de un teléfono.
 DT: ¿y eso cómo se llama? sí está bien
 AH: el teléfono estaba bien /. rue ru ./ # se ríe.
 DT: muy bien pero tiene otra forma de decirlo, hace

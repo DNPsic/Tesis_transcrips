@@ -4,7 +4,7 @@ D: ¿hoy cocinó?
 AH: no
 D: ¿usa mucho la licuadora para coinar?
 AH: sí
-D: ¿qué licua en la licuadora?
+D: ¿qué licúa en la licuadora?
 AH: ayer estaba mole de olla, la del mole de olla, mole de olla
 D: ¿licuó qué chilitos?
 AH: mole de olla # interrumpe a D.

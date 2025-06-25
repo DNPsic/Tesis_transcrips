@@ -43,7 +43,7 @@ D: muy bien ahora por ejemplo licuar ¿licuar qué es una acción o es una cosa?
 AH: cosa
 D: ¿licuar?
 AH: acción
-D: sí pero a ver, le voy a dibujar una licuadora # dibuja una licuadora en el pizarrón con algunos ingredientes dentro. cuando usted licua hay movimiento ¿verdad?
+D: sí pero a ver, le voy a dibujar una licuadora # dibuja una licuadora en el pizarrón con algunos ingredientes dentro. cuando usted licúa hay movimiento ¿verdad?
 AH: sí
 D: cuando usted es quien lo hace, cuando usted prende la licadora, se mueve ¿verdad?
 AH: sí cierto
@@ -57,7 +57,7 @@ D: sí pero ¿qué hace primero?
 AH: una licuadora
 D: pero usted llega ¿y qué hace con la licuadora?
 AH: este licuando
-D: ajá usted licua pero
+D: ajá usted licúa pero
 AH: jitomates
 D: llega y presiona un botón ¿verdad?
 AH: sí cierto
@@ -82,7 +82,7 @@ D: sí muy bien # borra la letra r.
 AH: /a/ # escribe «Ar» resultando en «licuAr»
 D: muy bien ¿y licuadora?
 AH: li # escribe «Lic». cua # escribe la letra u
-D: licua ¿qué sigue?
+D: licúa ¿qué sigue?
 AH: ¿a? /a/ # escribe la letra A
 D: do
 AH: do # escribe «Do» dora # escribe «ra» resultando en «LicuADora»

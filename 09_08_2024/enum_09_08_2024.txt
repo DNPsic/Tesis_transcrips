@@ -142,7 +142,7 @@
 142 AH: cosa
 143 D: ¿licuar?
 144 AH: acción
-145 D: sí pero a ver, le voy a dibujar una licuadora # dibuja una licuadora en el pizarrón con algunos ingredientes dentro. cuando usted licua hay movimiento ¿verdad?
+145 D: sí pero a ver, le voy a dibujar una licuadora # dibuja una licuadora en el pizarrón con algunos ingredientes dentro. cuando usted licúa hay movimiento ¿verdad?
 146 AH: sí
 147 D: cuando usted es quien lo hace, cuando usted prende la licadora, se mueve ¿verdad?
 148 AH: sí cierto
@@ -156,7 +156,7 @@
 156 AH: una licuadora
 157 D: pero usted llega ¿y qué hace con la licuadora?
 158 AH: este licuando
-159 D: ajá usted licua pero
+159 D: ajá usted licúa pero
 160 AH: jitomates
 161 D: llega y presiona un botón ¿verdad?
 162 AH: sí cierto
@@ -181,7 +181,7 @@
 181 AH: /a/ # escribe «Ar» resultando en «licuAr»
 182 D: muy bien ¿y licuadora?
 183 AH: li # escribe «Lic». cua # escribe la letra u
-184 D: licua ¿qué sigue?
+184 D: licúa ¿qué sigue?
 185 AH: ¿a? /a/ # escribe la letra A
 186 D: do
 187 AH: do # escribe «Do» dora # escribe «ra» resultando en «LicuADora»
@@ -441,7 +441,7 @@
 441 AH: no
 442 D: ¿usa mucho la licuadora para coinar?
 443 AH: sí
-444 D: ¿qué licua en la licuadora?
+444 D: ¿qué licúa en la licuadora?
 445 AH: ayer estaba mole de olla, la del mole de olla, mole de olla
 446 D: ¿licuó qué chilitos?
 447 AH: mole de olla # interrumpe a D.

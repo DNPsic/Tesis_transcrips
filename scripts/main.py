@@ -7,8 +7,15 @@ transcripciones que se encuentren en x directorio.
 
 import append_txts
 import numerador
+import txt_to_latex as ttl
 
-if __name__ == "__main__":
+
+def main():
     dir_input = input("Ruta del directorio: ")
     append_txts.combinar_archivos_txt(dir_input)
     numerador.numerador()
+    ttl.txt_to_latex()
+
+
+if __name__ == "__main__":
+    main()

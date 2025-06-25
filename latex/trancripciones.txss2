@@ -1,0 +1,48 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": false,
+        "File": ""
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "main.tex",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 1,
+                "EditorGroup": 0,
+                "FileName": "../../../Documents/06-Personales/01ProyectosTex/Recetas/Recetario.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 2
+            },
+            {
+                "Col": 17,
+                "EditorGroup": 0,
+                "FileName": "main.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 5
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "OK_09_08_2024.tex",
+                "FirstLine": 411,
+                "FoldedLines": "",
+                "Line": 9
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "_2024.tex",
+                "FirstLine": 0,
+                "FoldedLines": "",
+                "Line": 0
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": false
+    }
+}

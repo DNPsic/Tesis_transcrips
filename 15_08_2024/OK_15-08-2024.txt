@@ -110,7 +110,7 @@ AC: Hombre, esposo de AH.
 102 # se le muestra una ilustración de un teléfono fijo, no celular
 103 AH: el teléfono
 104 DT: ¿y qué se hace?
-105 AH: ¿qué hace? # el teléfono señala la tarjeta con la imagen del teléfono. /rr/ # intenta imitar el sonido de un teléfono.
+105 AH: ¿qué hace? # el teléfono # señala la tarjeta con la imagen del teléfono. /rr/ # intenta imitar el sonido de un teléfono.
 106 DT: ¿y eso cómo se llama? sí está bien
 107 AH: el teléfono estaba bien /. rue ru ./ # se ríe.
 108 DT: muy bien pero tiene otra forma de decirlo, hace

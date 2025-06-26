@@ -1,0 +1,128 @@
+# Segmento: reporte de actividades.
+# Condición: conversación.
+DT: platíqueme qué hizo, ¿qué le dejamos de tarea?
+AH: este, las palabras
+DT: a ver ¿podemos verlo?
+AH: acción, cosa
+DT: a ver ¿qué puso en acción? a ver si se acuerda
+AH: este, cama
+DT: a ver # le devuelve la libreta a AH donde realiza sus actividades en casa. a ver, acción, acá estamos # señala la columna que tiene escritas varias acciones en la libreta.
+# Condición: lectura.
+# Escrito: En la libreta de AH se aprecia una cabecera con la fecha: «fecha MiERoLeS 21 de agosto de 2024». Posteriormente se observan dos columnas, la de la izquierda se titulo «accion» y la derecha «Cosa». Debajo de la primera comlumna se observan las palabras: «TraPEAr, Comer, NadAr, Barer, PiNTar, Cocer, Hacer, ReMEMENdAR, PEiNar». Debajo de la segunda: «sala, tostadas, tocador, silla, Mesa, PoLLO, CoMida, ROPa, MUÑecA»
+AH: acción
+DT: a ver ¿qué puso?
+AH: comer
+DT: ajá
+AH: nadar, ay pérame(espérame)
+DT: ah sus lentes
+AH: ajá cierto
+DT: a ver ¿en acción qué puso?
+AH: ¿acción?
+DT: ajá
+AH: a an, este, a a trapear, comer nadar, ba barrer, pintar, cocer, hice hacer, remendar re rei re reinar ¿cómo?
+DT: a ver ¿este qué es?
+AH: pei nar ah peinar, tocar, servir
+DT: muy bien, a ver ¿qué es remendar, cómo se hace?
+# Condición: mímica de acciones.
+AH: así # con ambas manos toca su playera y la mueve ligeramente de arriba hacia abajo.
+DT: sí muy bien, y por ejemplo  ¿peinar?
+AH: pues ((así)) # con ambas manos toca su pelo suavemente.
+DT: eso y ¿servir?
+AH: ah pos(pues) la sopa # con ambas manos cerradas en puños, alterna una y otra adelante y atrás.
+DT: la sopa muy bien
+AH: sí
+DT: a ver ahora ¿de cosas? a ver si se acuerda qué escribió
+AH: a ver
+DT: estas que me dijo son acciones
+AH: sí sí
+DT: y a ver ahora cosas
+AH: este, cosas, leer
+DT: no, esa es acción
+AH: ajá
+DT: a ver # le muestra el escrito en su libreta.
+AH: sala, ah
+DT: cosas, estas, las cosas usted no las hace
+AH: no no no
+DT: ¿ya vio?
+AH: sí cierto
+DT: a ver, vamos a hacer otro ejercicio, a ver ¿una acción?
+# Condición: reconocimiento de categorías de palabras: acciones y cosas.
+AH: trapear
+DT: muy bien ¿y una cosa?
+AH: este, leer
+DT: esa es una acción
+AH: sí sí sí
+DT: ¿y una cosa?
+AH: ¿cosa?
+DT: sí
+AH: este ...
+DT: esto # le muestra un libro pequeño.
+AH: ...
+DT: ¿qué es esto?
+AH: lib la libreta
+DT: ¿cómo se llama esto?
+AH: ¿libreta libreta? # se ríe.
+DT: libro
+AH: libro ajá sí sí
+DT: ¿sí?
+AH: sí sí
+DT: ¿qué hace con un libro?
+AH: este
+DT: la acción
+AH: acción
+DT: ¿qué acción hace con el libro?
+AH: este ...
+DT: a ver, yo lo voy a hacer y usted me va a decir qué es # comienza a hojear el libro pequeño.
+AH: sí
+DT: ¿qué estoy haciendo? a ver dígame
+AH: leer, leer
+DT: muy bien ¿y qué más hizo de tarea?
+AH: este, aquí estaba en soriana(centro comercial)
+DT: ¿fue al soriana?
+AH: sola sola # susurrando
+DT: ¿sola? 
+AH: sola
+DT: ¿ya la dejaron ir sola?
+AH: sola # señala a AC.
+AC: sola
+DT: órale
+AC: no muy seguido pero de vez en cuando pues va
+AH: pero # ace un gesto con la mano derecha de «negación» en repetidas ocasiones.
+DT: no sabe
+AH: no no
+DT: ¿quién sabe entonces?
+AH: # señala a AC.
+DT: ¿nada más?
+AH: sí sí
+D: ah ¿es secreto?
+AH: sí verdad
+D: está bien pero con mucho cuidado
+DT: sí con mucho cuidado, por los coches y todo eso
+AH: ah sí
+DT: ¿y qué sintió de que fue al soriana?
+AH: ay bien bonito hombre, bien bonito hombre
+DT: ¿ya solita?
+AH: sí
+DT: ¿qué hizo ahí en soriana?
+AH: este, crema, un bolillo
+D: ¿eso compró?
+AH: sí
+D: muy bien ¿qué más compró?
+AH: a un esprai(«spray» para el cabello) # con la mano derecha se toca el pelo suavemente.
+DT: ah para el cabellito
+AH: sí sí
+D: usted que siempre anda guapa
+AH: sí ay no hombre, bien feo bien fea
+DT: no cómo cree
+D: para nada
+DT: bueno pues nada más con mucho cuidado cuando vaya
+AH: sí
+DT: ¿y no le dan miedo los coches?
+AH: no no
+DT: ¿sí puede sola?
+AH: sí cierto
+DT: ¿y no se tropieza?
+AH: no no, por mis pies, también bien feos, mi pies están bien bonitos # se ríe.
+DT: ¿y qué más hizo?
+AH: trapié la sala, el pasillo
+D: muy bien

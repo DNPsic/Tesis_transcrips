@@ -1,0 +1,23 @@
+# Segmento: preparación de los materiales.
+# Condición: conversación.
+# la grabación inicia en medio de una conversación entre AH y D.
+...
+D: ¿nada?
+AH: no
+D: ¿entonces a dónde le gustaba salir?
+AH: con mi esposo
+D: ¿pero a dónde?
+AH: a nadar
+D: ¿a dónde sí le gustaba?
+AH: pero este, nadar nada
+D: nadar nada, ¿pero a dónde sí?
+AH: este, bailado bailando también
+D: ¿iban a bailar?
+AH: sí sí, en Acapulco también
+D: ahí sí le gustaba
+AH: sí
+D: le gustaba la fiesta
+AH: con Veracruz también, Veracruz también sí con Veracruz
+DT: ¿qué le gusta más Veracruz o Acapulco?
+AH: Acapulco
+DT: muy bien

@@ -1,0 +1,90 @@
+# Segmento: habla espontánea en conversación.
+# Material: pizarrón blanco y marcador.
+# la conversación incia con D preguntando a AH qué más acciones realizó.
+AH: este, sopa también
+D: no pero la sopa no es una acción ¿cuál es la acción?
+AH: este, trapié
+D: ¿qué otra cosa?
+AH: trapié # susurrando. la sala
+D: trapeó la sala
+DT: a ver, la otra vez nos contó que en su cocina tiene muchas cosas
+AH: ah sí
+DT: ¿sí se acuerda?
+AH: sí sí
+DT: ¿a ver qué tiene en su cocina?
+AH: en la casa # niega con la cabeza. en mi com ¿en qué?
+DT: la cocina
+AH: la cocina
+DT: ¿qué hay ahí?
+AH: la estufa, la sala # niega con la cabeza
+DT: ¿la? a ver acuérdese
+AH: el espérame, el (?), la estufa, el ¿qué?
+DT: ajá la estufa
+AH: el el ay hombre
+DT: ahorita se acuerda
+AH: ajá a ver, la estifa y ¿qué es? # voltea a ver a AC.
+DT: a ver acuérde no haga trampas
+AH: la estufa, ay muchas tra mu/sh/ trastes
+DT: trastes
+AH: muchos trastes, muchos trest trestes
+DT: ¿qué más, dónde guarda la comida?
+AH: en el refrigerador
+DT: en el refrigerador ¿y dónde guarda el aceite y las latas?
+AH: el aceite # extiende su brazo izquierdo señalando al aire. en la, en la ¿qué es?
+DT: ahí está ya sabe qué es
+AH: en la, ay dios bendito ...
+D: ¿cómo es?
+AH: aquí en la # extiende ambos brazos con los dedos índices levantados, mueve ambos brazos hacia arriba ligeramente.
+DT: ¿y cómo, se abre así? # junta ambas manos con los puños cerrados para posteriormente abrirlos con un movimiento.
+AH: sí sí aquí # hace el mismo movimiento que DT. ajá ay dios bendito
+DT: ¿empieza con /a/? # alarga ligeramente el sonido.
+AH: alacera alacena alacena
+DT: muy bien ¿y qué hace usted en la cocina?
+AH: este, la sopa
+DT: ¿qué acciones?
+AH: la sopa, pi pi piscadilla pec picadilla picadillo, ayer, picadillo
+DT: ¿pero qué hizo con el picadillo?
+AH: este, estaba bien sabrosa, pero bien sabroso, bien sabroso
+DT: ¿y qué hizo con el picadillo, lo aventó?
+AH: no no, en la en la # junta y separa los puños tres veces.
+DT: ¿lo vendió?
+AH: no hombre no # se ríe.
+DT: ¿qué hizo entonces? a ver platíqueme
+AH: en la /s/ en las # junta y separa los puños ligeramente. en la, las cucharas y la cuchara, este la cuch ...
+DT: a ver si hacemos esto # baja la mano derecha con el puño cerrado para lentamente aproximarlo a su boca, haciendo el gesto de «comer con cuchara».
+AH: la sopa
+DT: pero qué esto haciendo, a ver usted hágalo así # juntando las puntas de los dedos de la mano derecha, la aproxima a su boca, haciendo el gesto de «comer».
+AH: # junta las puntas de los dedos de la mano derecha, los coloca sobre su labio inferior, abre la boca, aleja rápidamente la mano y cierra la boca para inmediatamente acerca la mano de nuevoa.
+DT: así # repite el gesto de «comer». con la tortillita
+AH: comiendo, comiendo
+DT: muy bien, esa es la acción
+AH: ajá comiendo
+DT: ¿qué más?
+AH: y sopa
+DT: ¿pero qué otra acción?
+AH: comiendo
+DT: ya me dijo comiendo, muy bien, vamos a anotarlo acá # escribe «comiendo» en el pizarrón blanco.
+D: ya dijo comer, trapear
+AH: ajá
+DT: comiendo, trapear # sigue escribiendo las palabras en el pizarrón.
+AH: ah mira # se ríe
+DT: ya nos dijo dos ¿qué más hizo? acciones
+AH: ¿acciones? estaba en la tarea, la tarea, la tarea
+DT: a ver, ahora ya dejamos la cocina, ahora la sala ¿qué hay en la sala, en su sala qué tiene?
+AH: la mus la música, la música
+DT: ¿y qué hace con la música?
+AH: # con su dedo índice izquierdo señala su oreja izquierda.
+DT: ¿qué es, cómo se llama eso?
+AH: la música estaba bien /s/ ((fuera)) bien fuerte bien fuerte
+DT: ¿pero usted qué estaba haciendo?
+AH: ...
+DT: ¿se come la música?
+AH: no hombre
+DT: ¿entonces qué se hace?
+AH: bai bailando, bailando
+DT: ah muy bien
+AH: bailando sí
+DT: otra acción, ya nos dijo tres # escribe «bailando» en el pizarrón. una y ya
+AH: ah bueno
+
+

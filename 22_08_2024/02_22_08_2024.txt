@@ -1,0 +1,45 @@
+# Segmento: orientación temporal.
+# Condición: conversación.
+DT: ¿qué fecha es hoy?
+AH: veintidos 
+D: ¿veintidos de qué mes?
+AH: de octubre
+DT: no
+D: ¿segura?
+AH: veintidos de pérame(espérame) veintidos de agosto, veinte de agosto veinte de agosto
+DT: ¿de qué año?
+AH: dos mil veinticuatro
+DT: ¿y qué día de la semana es?
+AH: jueves jueves
+DT: ¿y cómo que hora será?
+AH: pus(pues) no sé hombre
+D: ¿aproximadamente?
+DT: a ver más o menos
+AH: a las once y dia oa a las diez y media, diez y veinte, diez y veinte
+DT: casi casi
+D: muy bien
+AH: diez y veinte
+D: diez y cuarto
+AH: ah mira
+DT: por cinco minutos
+AH: sí cierto
+# Segmento: series automatizadas e inversas.
+DT: muy bien, a ver dígame los meses del año
+AH: enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre
+DT: ahora al revés
+AH: diciembre, noviembre, este noviembre # repite en voz baja y cerrando los ojos. /s/ agosto ah no septiembre ago septiembre, pérame(espérame)
+DT: sí sí
+AH: septiembre agosto, di, este agosto, y agosto # repite en voz baja con los ojos cerrados. no no
+DT: está bien no pasa nada, a ver, ahora cuente del quince al treinta
+AH: # se aproxima a DT con duda.
+DT: del quince
+AH: del quince
+DT: al treinta
+AH: eh ¿cuánto?
+DT: a ver, quince
+AH: quince
+DT: dieciséis
+AH: dieciséis diecisiete, dieciocho diecinueve, # los siguientes números los dice con mayor velocidad y omite los número entre 26 y 30. veinte veintiuno veintidos veintitrés veinticuatro veinticinco treinta # se ríe.
+DT: bueno ahí se salto unos
+AH: sí cierto
+D: bueno está bien, muy bien

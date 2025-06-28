@@ -1,0 +1,38 @@
+# Segmento: lectura de un párrafo de un libro infantil, comprensión y recuerdo de la lectura.
+# Material: libro infantil.
+# Condición: lectura.
+# Lectura: «El rey Tulio se sentía muy enfermo y muy triste. Y tenía razón de sentir tanta tristeza. Sus médicos le habían dicho que la única forma en que podría mejorar su salud era que dejara de ser rey»
+DT: por favor léanos los que dice ahí
+AH: el rey, el rey (?) el rey /.cu tusio./ el rey Tulio Tulio, /.sen se sienta./ muy enfermo, muy tristeza muy tre muy triste y tenía razón de sentir tanta tristeza por sus /.meca medidi./ médicos, médicos /.de habla abiar de abi de abiar./ dicho que la /.uni unidad confor conforme en una./ en que podría mejorar su salud, era /s/ que dejara de rey, de de, re reinar.
+# Lectura: «-Yo no puedo dejar de ser rey- decía Tulio. Así nací. pero sus médicos insistían»
+AH: yo no puede no pude dejar de ser rey decir /.jud jutu ju ju./ ¿Julio, tudio?
+DT: a ver ¿dónde vamos, acá?
+AH: ajá este, Julio
+DT: a ver vea bien la letra
+AH: decía tu Julio
+DT: a ver la había dicho bien
+AH: Tulio, Tulio
+DT: muy bien
+AH: así así /.nada nada para./ pero sus médicos /.esta en estaban médicos instan instante instiante./
+# Condición: preguntas sobre la lectura.
+DT: bueno hasta ahí está bien, y bueno, para terminar estar partecita ¿cómo se llamaba el rey?
+AH: el rey chulo # comienza a reírse. ¿Tulio, el Tulio?
+DT: eso muy bien
+AH: Tulio
+DT: ¿y cómo se sentía?
+AH: bien enfermo, bien enfermo
+DT: ¿y qué carita era la de él? # señala los dibujos en el pizarrón.
+AH: bien enfermo
+DT: ¿la feliz?
+AH: feliz
+DT: ¿o la triste?
+AH: bien triste, ((pero)) bien triste
+DT: ¿y habló con alguien, el rey habló con alguien?
+AH: no
+DT: ¿alguien le había dicho algo?
+AH: no
+DT: ¿había médicos?
+AH: sí, los médicos los médicos
+DT: ¿le dijeron algo los médicos al rey?
+AH: estaba bien enfermo
+DT: muy bien muy bien

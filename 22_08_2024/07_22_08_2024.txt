@@ -1,6 +1,7 @@
 # Segmento: acciones como procesos.
-# Materiales: láminas con acciones segmentadas: «inflar un globo» y «»
+# Materiales: láminas con dibujos que representan acciones.
 D: a ver primero dígame en esta qué es lo que observa, en esta primera
+# Material: lámina de un aniña inflando un globo: 1) el globo está desinflado, 2) el globo está ligeramente inflando, 3) el globo está completamente inflado.
 AH: el cabello
 D: ¿es una niña o es un niño?
 AH: una niña una niña
@@ -101,7 +102,9 @@ D: esa suena /rr/ y nosotros queremos /b/
 AH: ¿be?
 D: como en barco, a ver escríbame aquí barco
 AH: a mira # Escitura: v. globo # Escitura final: «glovo»
-D: okey con esa la vamos a dejar porque suenan igual, ahora el siguiente es este # le muestra otra lámina con el proceso de crecimiento de un árbol. este es otro verbo, todo esto es un verbo ¿qué está haciendo el niño?
+D: okey con esa la vamos a dejar porque suenan igual, ahora el siguiente es este 
+# Material: lámina de crecimiento de un árbol 1) un niño coloca semillas en un agujero, 2) un árbol pequeño, 3) un árbol grande.
+D: este es otro verbo, todo esto es un verbo ¿qué está haciendo el niño?
 AH: el árbol estaba, plantiando plantando plantando
 D: muy bien, de aquí podemos sacar dos verbos, uno es este que ya me dijo, plantar ¿si es un verbo qué es, una acción o una cosa?
 AH: cosa, acción acción
@@ -169,8 +172,37 @@ D: ¿qué está mal aquí?
 AH: pe
 D: esa la puede convertir ¿no? # señala la letra P.
 AH: ah con be # Escritura: cambia la P por la B.
-D: 
-AH: 
-D: 
-AH: 
-
+# Material: lámina con dibujos que representan el proceso de ponerse un calcetín: 1) pie sin nada puesto, 2) pie con un calcetín a la mitad, 3) pie cubierto por el calcetín.
+D: ¿aquí cuál será el verbo, qué vemos aquí?
+AH: el pie
+D: ¿y ahora qué tiene aquí el pie?
+AH: la sal este, la, los calcetines
+D: ¿y cuál es la diferencia de esta imagen a esta? # señala primero la imagen donde el calcetín está a la mitad del pie y después señala la imagen en la que el calcetín está puesto en el pie completamente.
+AH: los calcetines están bien feos # se ríe.
+D: sí puede que estén feos pero ¿cuál es la diferencia, dónde está aquí el calcetín y dónde esta aquí el calcetín? # señala las imágenes en el mismo orden.
+AH: en el ¿quién? en este, en el calcetín el calcetín, estaban bien feos # señala la imagen con el calcetín completamente puesto en el pie.
+D: ¿pero el calcetín dónde está todavía mal puesto?
+AH: ah, ¿bien qué?
+D: ¿dónde está mal puesto?
+AH: mal puesto, aquí # señala la imagen con el calcetin a medio poner.
+D: ¿y dónde está bien puesto?
+AH: bien feo bien benito bien bonito bien bonito # señala la imagen con el calcetín completamente puesto.
+D: muy bien ya está bien puesto aquí ¿verdad?
+AH: sí
+D: ¿y cómo se le llama a la acción meter el piesito en el calcetín, cómo le llamos a eso?
+AH: los calcetines están bien bien
+D: sí pero los calcetines los /p/
+AH: ¿calcetines?
+D: ¿los po?
+AH: pone, me pone me pon
+D: ajá ¿usted se qué?
+AH: me poné el tel el caltes el calcetín
+D: ¿pero alguien se los pone o usted se los pone?
+AH: yo yo
+D: ¿entonces, yo me?
+AH: yo me
+DT: a ver todo completo dígalo ¿qué hace usted con los calcetines?
+AH: yo me yo me yo me voy
+D: yo me ¿po?
+AH: me pongo el calcetín
+D: muy bien muy bien ¿ya vio?

@@ -1,0 +1,74 @@
+# Segmento: reconocimiento de categorías de palabras: cosas y acciones.
+# Materiales: láminas que representan acciones (misma que en el segmento previo).
+D: ¿aquí la cosa qué quedamos que era? # señala la lámina con las imágenes del árbol. ¿el qué?
+AH: el árbol
+D: ¿aquí cuál es la cosa? # señala la imagen con el globo siendo inflado.
+AH: el globo el globo
+D: y esas son las cosas no lo verbos ¿aquí cuál es la cosa? si aquí era el globo ¿aquí cuál es la cosa? # le muestra la lámina con las imágenes del calcetín.
+AH: la
+D: la cosa
+AH: acción
+D: no no pero la cosa
+AH: ...
+D: ¿qué es esto?
+AH: el calcetín
+D: esa es la cosa ¿entonces la acción cuál es?
+AH: calcetín
+D: la acción
+AH: acción acción acción
+D: sí pero en estas imágenes ¿cuál es la acción? # señala la lámina con el proceso de «ponerse un calcetín».
+AH: acción acción
+D: ¿pero cuál es?
+AH: acción
+D: a ver vea esta ¿y cuál es la acción?
+AH: calcetín
+D: no esa es la cosa ¿cuál quedamos que era la acción
+AH: calcetín
+D: a ver ¿qué dice aquí?
+AH: ponerse
+D: esa es la acción
+AH: ponerse
+D: a ver aquí escríbalo # señala la zona del pizarrón de acciones. o poner, como usted quiera
+# Condición: escritura.
+AH: poner poner /s/ se, ponerse # Escritura: «PoNERce»
+D: ¿y entonces qué nos ponemos? # señala la zona del pizarrón de cosas.
+AH: cosas
+D: ¿y en este caso cuál era la cosa, el?
+AH: no ya no, este acción
+D: ajá pero aquí en las cosas ¿qué nos ponemos un qué?
+AH: acción
+D: era un ¿cal?
+AH: calcetín, calcetín
+D: sí esa era la cosa, a ver escríbalo aquí # señala la zona del pizarrón de cosas.
+AH: cal, cal ce, cal ce, ti, calcetines # Escritura: «CaLcETiN»
+D: así está bien
+AH: ajá
+# Condición: conversación.
+D: ¿le sigue costando mucho trabajo?
+AH: no no
+D: ¿crees que ya pude diferenciar las acciones de las cosas?
+AH: sí hombre sí
+D: ¿qué tienen las acciones que las cosas no?
+AH: este cosas aquí # señala la zonas del pizarrón donde se escribieron cosas en las actividades anteriores.
+D: a ver dígame un ejemplo de una cosa, dígame algo que usted veo o se acuerde que sea una cosa
+AH: aquí en la puerta ¿cómo? la puerta
+D: la puerta es una cosa, muy bien
+AH: sí la puerta
+D: hora déme un ejemplo de una acción, una acción, una cosa no, acuérde que las acciones tienen cambios ¿verdad?
+AH: la silla la silla
+D: la silla no, es una cosa, estas están más difíciles ¿verdad? # señala la zona del pizarrón donde se escribieron acciones.
+AH: ah pues sí hombre
+D: ¿pero qué podemos hacer con la silla? por ejemplo ¿cómo se le llama a pasar de esta posición a esta? # se levanta de la silla y vuelve a sentarse.
+DT: ¿qué hizo?
+D: ¿yo me?
+AH: ...
+D: ¿cómo se le llama a pasar de esta posición a esta otra? # se levanta y vuelve a sentarse en su asiento.
+DT: ¿qué hizo?
+D: ¿cómo se le llama a eso? yo me se
+AH: yo me me ca me me ¿qué?
+D: yo me se
+AH: me senté me senté
+D: muy bien esa sí es la acción porque vio que me moví y vio que hubo un cambio
+AH: me senté me senté
+D: pasé de estar parada a estar sentada ¿verdad?
+AH: me senté me senté

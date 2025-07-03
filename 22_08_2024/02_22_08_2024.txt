@@ -15,7 +15,7 @@ DT: ¿y cómo que hora será?
 AH: pus(pues) no sé hombre
 D: ¿aproximadamente?
 DT: a ver más o menos
-AH: a las once y dia oa a las diez y media, diez y veinte, diez y veinte
+AH: a las once y media o las diez y media, diez y veinte, diez y veinte
 DT: casi casi
 D: muy bien
 AH: diez y veinte
@@ -29,7 +29,7 @@ AH: enero febrero marzo abril mayo junio julio agosto septiembre octubre noviemb
 DT: ahora al revés
 AH: diciembre, noviembre, este noviembre # repite en voz baja y cerrando los ojos. /s/ agosto ah no septiembre ago septiembre, pérame(espérame)
 DT: sí sí
-AH: septiembre agosto, di, este agosto, y agosto # repite en voz baja con los ojos cerrados. no no
+AH: septiembre agosto, di este agosto, y agosto # repite en voz baja con los ojos cerrados. no no
 DT: está bien no pasa nada, a ver, ahora cuente del quince al treinta
 AH: # se aproxima a DT con duda.
 DT: del quince

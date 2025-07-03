@@ -22,11 +22,11 @@ AH: el espérame, el (?), la estufa, el ¿qué?
 DT: ajá la estufa
 AH: el el ay hombre
 DT: ahorita se acuerda
-AH: ajá a ver, la estifa y ¿qué es? # voltea a ver a AC.
+AH: ajá a ver, la estufa y ¿qué es? # voltea a ver a AC.
 DT: a ver acuérde no haga trampas
 AH: la estufa, ay muchas tra mu/sh/ trastes
 DT: trastes
-AH: muchos trastes, muchos trest trestes
+AH: muchos trastes, muchos /.trest trestes./
 DT: ¿qué más, dónde guarda la comida?
 AH: en el refrigerador
 DT: en el refrigerador ¿y dónde guarda el aceite y las latas?
@@ -38,11 +38,11 @@ AH: aquí en la # extiende ambos brazos con los dedos índices levantados, mueve
 DT: ¿y cómo, se abre así? # junta ambas manos con los puños cerrados para posteriormente abrirlos con un movimiento.
 AH: sí sí aquí # hace el mismo movimiento que DT. ajá ay dios bendito
 DT: ¿empieza con /a/? # alarga ligeramente el sonido.
-AH: alacera alacena alacena
+AH: /.alacera./ alacena alacena
 DT: muy bien ¿y qué hace usted en la cocina?
 AH: este, la sopa
 DT: ¿qué acciones?
-AH: la sopa, pi pi piscadilla pec picadilla picadillo, ayer, picadillo
+AH: la sopa, /.pi pi piscadilla pec picadilla./ picadillo, ayer, picadillo
 DT: ¿pero qué hizo con el picadillo?
 AH: este, estaba bien sabrosa, pero bien sabroso, bien sabroso
 DT: ¿y qué hizo con el picadillo, lo aventó?
@@ -67,7 +67,7 @@ DT: ya me dijo comiendo, muy bien, vamos a anotarlo acá # escribe «comiendo» 
 D: ya dijo comer, trapear
 AH: ajá
 DT: comiendo, trapear # sigue escribiendo las palabras en el pizarrón.
-AH: ah mira # se ríe
+AH: ah mira # se ríe.
 DT: ya nos dijo dos ¿qué más hizo? acciones
 AH: ¿acciones? estaba en la tarea, la tarea, la tarea
 DT: a ver, ahora ya dejamos la cocina, ahora la sala ¿qué hay en la sala, en su sala qué tiene?
@@ -93,11 +93,11 @@ AH: estaba en el tocar, estaba en la televisión, en la televisión
 DT: ¿pero qué hace con la televisión?
 AH: estaba bien, bien, la televisión estaba, las noticias, las noticias
 DT: pero usted ¿qué estaba haciendo?
-AH: en la, aquí en la m, en la
+AH: en la, aquí en la /m/, en la
 DT: ¿estaba bailando con la televisión?
 AH: no no no
 DT: ¿entonces qué hizo?
-AH: # comeinza a reír. espérame, estaba, ay dios bendito
+AH: # comienza a reír. espérame, estaba, ay dios bendito
 DT: estaba ¿cocinando la televisión?
 AH: no no hombre
 DT: no se cocina la televisión ¿entonces qué se hace con la televisión?
@@ -105,7 +105,7 @@ AH: estaba en la, ay dios bendito, en las noticias en las noticias
 DT: ¿qué estaba haciendo usted?
 AH: las noticias
 DT: ¿con los ojos?
-AH: no, los los # se lleva la mano a los labios, con las puntas de los dedos juntas, haciendo el mismo gesto usado previamente para «comer». los oídos, los opidos, con los oídos
+AH: no, los los # se lleva la mano a los labios, con las puntas de los dedos juntas, haciendo el mismo gesto usado previamente para «comer». los oídos, los oídos, con los oídos
 DT: ¿estaba oyendo?
 AH: sí con los oídos
 DT: a ver diga, oyendo

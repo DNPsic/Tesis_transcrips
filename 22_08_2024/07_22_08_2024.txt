@@ -1,7 +1,7 @@
 # Segmento: acciones como procesos.
 # Materiales: láminas con dibujos que representan acciones.
 D: a ver primero dígame en esta qué es lo que observa, en esta primera
-# Material: lámina de un aniña inflando un globo: 1) el globo está desinflado, 2) el globo está ligeramente inflando, 3) el globo está completamente inflado.
+# Material: lámina de una niña inflando un globo: 1) el globo está desinflado, 2) el globo está ligeramente inflando, 3) el globo está completamente inflado.
 AH: el cabello
 D: ¿es una niña o es un niño?
 AH: una niña una niña
@@ -43,7 +43,7 @@ D: no
 AH: cosa
 D: le vamos a escribir aquí hasta arriba a todo
 AH: ah inflar
-D: # escribe en la parte superior de la lámina «inflar»
+D: # escribe en la parte superior de la lámina «inflar».
 AH: ah mira
 D: donde todo esto es inflar, todos estos tres
 AH: ah sí cierto
@@ -51,12 +51,12 @@ D: y si bien se hace la acción con una cosa, que en este caso es el globo, el g
 AH: no no, cosa
 D: entonces el globo ¿cosa o acción?
 AH: cosa cosa
-D: entonces aquí escríbame globo # señala la zona del pizarrón donde está escrito «cosa»
+D: entonces aquí escríbame globo # señala la zona del pizarrón donde está escrito «cosa».
 # Condición: escritura.
 AH: ¿globo?
 D: sí acá
 AH: glo, glo # Escitura: g.
-D: /g/ /l/ 
+D: /g/ /l/
 AH: ¿glo?
 D: ¿este cómo suena? # señala la letra g.
 AH: ga
@@ -87,7 +87,7 @@ AH: ¿bo?
 D: /b/
 AH: ¿be?
 D: sí
-AH: be, glo, bo, glo, bo 
+AH: be, glo, bo, glo, bo
 D: ahora léame qué dice
 AH: globo
 D: no, léalo con cuidado, hay un error y quiero que usted lo identifique
@@ -97,7 +97,7 @@ AH: be
 D: ¿dónde está nuestra be?
 AH: # borra un elemento pero no se aprecia en el video.
 D: /b/
-AH: ¿R_? # menciona el nombre de un familiar, compensación que usa para hallar fonemas y letras.
+AH: ¿R_? # menciona el nombre de un familiar, compensación que usa para hallar fonemas y grafías.
 D: esa suena /rr/ y nosotros queremos /b/
 AH: ¿be?
 D: como en barco, a ver escríbame aquí barco
@@ -112,7 +112,7 @@ D: entonces ese lo vamos a poner porque usted lo dijo, plantar # señala debajo 
 AH: plantar, pla, plan # Escitura: «PLaN».
 D: /t/
 AH: ¿te?
-D: sí 
+D: sí
 AH: ah te, plan tar ¿erre? # Escitura: «Ta».
 D: muy bien
 AH: ah cierto # Escitura final: «PLaNTar».
@@ -196,7 +196,7 @@ AH: ¿calcetines?
 D: ¿los po?
 AH: pone, me pone me pon
 D: ajá ¿usted se qué?
-AH: me poné el tel el caltes el calcetín
+AH: me /.poné el tel el caltes./ el calcetín
 D: ¿pero alguien se los pone o usted se los pone?
 AH: yo yo
 D: ¿entonces, yo me?

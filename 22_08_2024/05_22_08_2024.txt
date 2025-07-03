@@ -4,7 +4,7 @@ AH: bien gracias, gracias a dios
 DT: ¿ya mejor?
 AH: uy sí, sí
 DT: porque la semana pasada la veíamos
-AH: no pero también con mi nieta # señala a AC (no es su nieta)
+AH: no pero también con mi nieta # señala a AC (no es su nieta).
 DT: ¿sí?
 AH: ay sí qué bonita, qué bonita qué bonito, qué bonito
 DT: a ver ¿por qué? cuéntenos
@@ -49,7 +49,7 @@ DT: sí pero ¿¿cuál es la emoción?
 AH: emoción, aquí mira, bien feliz
 DT: bien feliz ¿y acá? # señala la cara «triste» en el pizarrón.
 AH: bien gra, bien este, bien ay bien qué
-DT: esta es feiz ¿y esta? # señala de nuevo la cara «triste»
+DT: esta es feiz ¿y esta? # señala de nuevo la cara «triste».
 AH: bien bien ¿qué? bien apachur bien pachurrada, bien apachurrada, bien apachurrada
 DT: ¿triste?
 AH: bien triste, bien triste
@@ -67,8 +67,8 @@ AH: fe, fe /l/ liz, feliz # Escritura: «FeLis».
 DT: muy bien ¿y cuál nos falta?
 AH: bien
 DT: a ver ahora dibúje esta por favor # señala la cara «triste».
-AH: # comeinza a copiar el dibujo, al llegar a la boca se detiene. ay no bien fea # finaliza dibujando una línea curva.
-D: le salió bien 
+AH: # comienza a copiar el dibujo, al llegar a la boca se detiene. ay no bien fea # finaliza dibujando una línea curva.
+D: le salió bien
 DT: muy bien
 AH: feliz triste, feliz triste
 DT: ah faltó escribir
@@ -82,7 +82,7 @@ AH: tris
 DT: ¿dónde está la /i/ por ejemplo?
 AH: ¿i?
 DT: ajá
-AH: ah, tri, tris # Escritura: agrega la letra i: «TrisTE»
+AH: ah, tri, tris # Escritura: agrega la letra i: «TrisTE».
 DT: ah muy bien muy bien
 D: muy bien
 AH: ah mira

@@ -19,7 +19,7 @@ AH: ajá cierto
 DT: a ver ¿en acción qué puso?
 AH: ¿acción?
 DT: ajá
-AH: a an, este, a a trapear, comer nadar, ba barrer, pintar, cocer, hice hacer, remendar re rei re reinar ¿cómo?
+AH: a an, este, a a trapear, comer nadar, ba barrer, pintar, cocer, hice hacer, remendar /.re rei re./ reinar ¿cómo?
 DT: a ver ¿este qué es?
 AH: pei nar ah peinar, tocar, servir
 DT: muy bien, a ver ¿qué es remendar, cómo se hace?
@@ -80,14 +80,14 @@ DT: muy bien ¿y qué más hizo de tarea?
 AH: este, aquí estaba en soriana(centro comercial)
 DT: ¿fue al soriana?
 AH: sola sola # susurrando
-DT: ¿sola? 
+DT: ¿sola?
 AH: sola
 DT: ¿ya la dejaron ir sola?
 AH: sola # señala a AC.
 AC: sola
 DT: órale
 AC: no muy seguido pero de vez en cuando pues va
-AH: pero # ace un gesto con la mano derecha de «negación» en repetidas ocasiones.
+AH: pero # hace un gesto con la mano derecha de «negación» en repetidas ocasiones.
 DT: no sabe
 AH: no no
 DT: ¿quién sabe entonces?

@@ -1,0 +1,183 @@
+# Segmento:  reconocimiento de imágenes que representan acciones y cosas.
+# Material: imágenes mostradas en un teléfono celular.
+# Condición: conversación.
+D: ¿esto qué es, acción o cosa? # imagen de un pantalón.
+AH: un pantalón
+D: ¿acción o cosa?
+AH: cosa cosa
+D: muy bien muy bien, ¿qué tal esto, acción o cosa? # imágen de un salero.
+AH: ¿este? # señala la imagen--- este, cosa
+D: ¿qué es?
+AH: sal, sal
+D: muy bien ¿esto qué es cosa o acción? # imagen de un jugador de futbol a punto de patear un balón.
+AH: este, futbol, cosa
+D: ¿cosa?
+AH: no, este ... # niega con la cabeza.
+D: ¿qué está haciendo?
+AH: con el futbol
+D: a ver ¿y esta, qué observa? # imagen de un niño escribiendo.
+AH: el niñito, la niña el niño
+D: ¿qué hace?
+AH: este, estaba, la tarea, la tarea
+D: ¿cómo se le dice a lo que está haciendo?
+AH: trabajando, trabajando
+D: está bien ¿eso qué es?
+AH: el niño estaba trabajando
+D: sí, pero ¿qué es, cosa o acción?
+AH: acción, acción
+D: muy bien, también podemos decir que está leyndo y eso también es una acción
+AH: sí cierto
+D: # le muestra la siguiente imagen una bolsa de mano.
+AH: una bolsa
+D: muy bien ¿y qué es?
+AH: acción
+D: ¿por qué?
+AH: una bolsa, este, cosa cosa
+D: sí es una cosa, acuérdese si nada más está ahí es una cosa
+AH: cosa, cosa
+D: ¿qué es? # imagen de una olla de cocina.
+AH: cacerolas, una cacerola
+D: muy bien ¿qué es?
+AH: cosa, cosa
+D: muy bien muy bien, ¿qué ve? # imagen de una mujer cocinando.
+AH: una cacerola
+D: ¿qué más?
+AH: una cacerola y fuego, fuegos
+D: ¿qué más?
+AH: este, jitomates
+D: ¿hay alguna persona?
+AH: la señora
+D: ¿y qué está haciendo?
+AH: este, en el /.escola en la esc en es, es./ en la estufa, en la estufa
+D: ¿pero qué hace?
+AH: en la estufa estaba, estaba, estufa estaba, la sal con sal, la sal
+D: ajá ¿a todo eso cómo se le llama, usted lo hace en su casa, no?
+AH: sí
+D: ¿cómo se le llama a eso, yo estoy?
+AH: yo estoy, yo estoy /. /s/ desullando estoy desua desullando desollunando./ yo comí comieron # se ríe.
+D: pero todavía no está comiendo ¿o sí? todavía no, esto viene antes # señala la imagen.
+AH: ajá
+D: antes de comerlo ¿usted qué hace?
+AH: ...
+D: haga de cuenta que este es mi sartén, y tengo por aquí salecita, le echo las papitas que piqué # toma una hoja blanca, con la mano izquierda finge colocar cosas encima y manipularlas--- ¿todo eso cómo se llama, estoy /k/?
+AH: ...
+D: estoy co
+AH: comiendo
+D: no
+AH: estoy
+D: antes, antes de comer ¿qué se le hace a la comida, usted la co?
+AH: ...
+D: la cocina
+AH: la si, la cosida, cosida cosida, cosida
+D: ajá pero usted la cocina
+AH: sí
+D: okey ¿qué es eso?
+AH: cocinando
+D: sí muy bien
+AH: cocinando
+D: muy bien ¿eso qué es?
+AH: este, cosas
+D: ¿cosas?
+AH: cosas, cosas
+D: cocinar no es una cosa, es una acción
+AH: sí
+D: pero usted sí cocina con cosas ¿qué usa para cocinar?
+AH: aceite
+D: muy bien, eso es una cosa ¿qué más usa para cocinar?
+AH: este, chiles
+D: eso es una cosa ¿qué más?
+AH: este, huevos
+D: eso también es una cosa, pero cocinar, todo eso es una
+AH: acción # interrumpe a D.
+D: ajá
+AH: acción sí cierto
+D: muy bien muy bien ¿esto qué es? # imagen de una cebolla siendo cortada con un cuchillo.
+AH: cebolla
+D: bueno sí pero lo que se está haciendo
+AH: cebolla el /.cucha el cucha./ el cuchillo, el cuchillo, el cuchillo
+D: sí ¿pero cómo se le llama a eso, que la persona está?
+AH: ...
+D: ¿cómo se le llama a esto? # toma el marcador azul y finge usarlo como cuchillo.
+AH: estaba, estaba, estaba, ay # accidentalmente toca el teléfono celular y quita la imagen--- ay hombre # se rie.
+D: no se preocupe # vuelve a abrir la imagen.
+AH: estaba, estaba
+D: estaba ¿pi?
+AH: picando, picando el cebo la cebolla
+D: ajá
+AH: picando cebolla
+D: ¿picar qué es?
+AH: este, picar, acción acción
+D: muy bien, ¿cómo se le llama a esto? # imagen de un sartén con aceite donde se fríe un alimento.
+AH: ...
+D: también se hace en la cocina, cierto?
+AH: (?)
+D: por ejemplo, cuando usted tiene un sartén y le pone mucho aceite para meter su comida ¿cómo se le llama a eso?
+AH: ...
+D: ¿al meter comida en el aceite?
+AH: frío, frío
+D: freír
+AH: freír freír
+D: muy muy bien muy bien
+AH: freír freír
+D: ¿eso qué es?
+AH: este, freír, cosa
+D: no
+AH: acción acción
+D: a ver, acuérdese, lo que usted fríe, lo que mete al aceite son cosas, pero todo eso es freír
+AH: ah cierto
+D: a ver ¿qué observa? # imagen de unas manos que sostienen una zanahorias bajo el chorro de agua.
+AH: lavando
+D: sí ¿qué está lavando?
+AH: este. lavando las, lavando la los, las, lavando los, lavando un zanahoria, las zanahorias
+D: muy bine muy bien
+AH: zanahorias
+D: de momento sólo céntrese en lavar
+AH: sí sí
+D: ¿lavar qué es?
+AH: lavar, las zanahorias, a ver, este un cosa
+D: las zanahorias son cosa, pero lavar no es una cosa
+AH: cosa, las cosas, una cosa
+D: ¿pero qué es la cosa aquí, cuál es la cosa?
+AH: acción acción 
+D: sí sí es una acción lavar, aquí sí hay cosas ¿cuáles son las cosas?
+AH: esto
+D: ¿cómo se llama?
+AH: las zanahorias
+D: sí, eso es una cosa, a ver póngamelo aquí en cosas # pone sobre la mesa el pizarrón blanco usado previamente.
+# Condición: escritura.
+AH: cosas # escritura: «co» en la columna de cosas.
+D: ah, zanahorias ¿no?
+AH: ah zanahorias # borra lo que acaba de escribir--- /s/ sa # voltea a ver a D con duda.
+D: sa /s/
+AH: sa ¿a? # escritura: A.
+D: antes de la /a/ nos falta algo
+AH: se, sa, na o, sana, o, oria, zanahoria # escritura: agrega la letra S antes de la A y concluye la escritura resultando en «SANAoria».
+# Condición: conversación.
+D: muy bien ¿y cuál es la acción?
+AH: cosas
+D: no no, aquí # señala la imagen de las zanahorias siendo lavadas. ¿cuál es la acción, qué se está haciendo con las zanahorias?
+AH: zanahoria, lavando la zanahoria
+D: ¿cuál es la acción?
+AH: acción aquí # señala la coluumna de acciones en el pizarrón.
+D: ¿pero cuál es? usted ya me lo dijo
+AH: zanahoria
+D: ¿cuál es la acción? ya me lo dijo
+AH: zanaho
+D: y no es zanahoria
+AH: ¿no?
+D: zanahoria no es ¿cuál es la acción? la acción
+AH: agua, el agua
+D: no eso también es una cosa
+AH: # se ríe.
+D: ya me lo dijo ¿cuál era?
+AH: zanahoria
+D: no, no es ni zanahoria ni agua ¿qué es?
+AH: acción
+D: ajá ¿cuál es la acción? 
+AH: lavando
+D: sí muy bien, esa es la acción
+AH: lavando lavando
+D: a ver escríba lavar # señala la columna de acciones en el pizarrín blanco.
+# Condición: escritura.
+AH: lavando, la, van, lavan, do # escritura: «LaVANdo».
+D: okey muy bien

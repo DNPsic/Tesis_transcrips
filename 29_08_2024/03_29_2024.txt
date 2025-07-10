@@ -1,0 +1,205 @@
+# Segmento: reconocimiento de categorías de palabras: acciones y cosas.
+# Material: pizarrón blanco, borrador y marcadores azul y rojo; el pizarrón se encuentra dividido en dos columnas, la de la derecha dice cosas y la de la izquierda dice acciones.
+# Condición: conversación.
+D: a ver vamos a empezar ¿cortar es una acción o es una cosa?
+AH: este...
+D: a ver enséñeme cómo corta, por ejemplo si esta fuera una tabla de cortar y este su cuchillo # le señala el pizarrón y le aproxima el borrador.
+AH: # antes de que D termine la explicación, usa ambas manos de forma alternada, con las palmas de las manos extendidas, golpea suavemente la mesa con los costados de las manos, toma el borrador y lo usa para golpear suavemente en repetidas ocasiones el borrador.
+D: ajá, por ejemplo si este fuera una zanahoria ¿cómo la agarraría? # le da el marcador.
+AH: # toma el marcador en posición de escritura.
+D: una zanahoria
+AH: # hace varios trazos cortos verticales en el pizarrón.
+D: sí pero imagínese que esta es la zanahoria
+AH: sí
+D: tiene aquí una puntita y un rabito ¿verdad?
+AH: sí
+D: a ver agárrelo como agarraría una zanahoria para cortarla
+AH: # de nuevo toma el marcador en posición de escritura, realiza un trazo vertical y posteriormente lo divide con tres trazos horizontales.
+D: ¿no la agarraría así para cortarla? por ejemplo con el cuchillo # toma el marcador y lo coloca sobre la mesa de forma horizontal, con el borrador le da pequeños golpes a lo largo, buscando representar la acción de «cortar con un cuchillo».
+AH: sí # se ríe.
+D: eso qué es ¿es una acción o es una cosa?
+AH: una acción.
+D: muy bien, a ver escríbame cortar
+# Condición: escritura.
+AH: co, cor, tar # escritura: «corTAR» en la columna de acciones.
+D: muy bien, y por ejemplo ¿la silla qué es una acción o una cosa?
+AH: cosa, la cosa, cosa cosa
+D: muy bien muy
+AH: si, lla # escritura: «ciLLA» en la columna de cosas.
+# Condición: conversación.
+D: ahora si usted leyera ¿le gusta leer la biblia?
+AH: sí sí
+D: ¿le gusta leer las oraciones?
+AH: sí sí
+D: imagínese que esta es su biblia # hojea el cuaderno de AH.
+AH: sí
+D: ¿cómo la lee? haga como que lee # lee da el cuaderno a AH.
+AH: leer # toma el cuaderno y hojea un par de veces--- leer
+D: ajá muy bien ¿eso qué es, o es una?
+AH: acción acción # interrumpe a D.
+D: muy bien # le da el marcador azul.
+AH: ¿a?
+D: sí pero ¿cuál es la acción?
+AH: la ...
+D: # toma el cuaderno de AH y comienza a hojear.
+AH: libro
+D: no no, la acción, o sea esto # continua hojeando el cueaderno.
+AH: ...
+D: leer ¿no?
+# Condición: escritura.
+AH: leer sí leer, le, le, er, leer # escritura: «LeeER» en la columna de acciones.
+D: a ver lea lo que usted escribió
+AH: le, er # señala la palabra escrita.
+D: ¿cuántas es lleva leer?
+AH: ¿e?
+D: ¿cuántas de estas lleva leer? # señala las letras «eeE» que escribió AH.
+AH: le, e, ah, leer # escritura: borra «eER» y agrega E, resultando en «LeE»--- le, er, e, e # escritura: «LeErr»--- no # borra la última y con la parte trasera del marcador realiza un trazo al final de la palabra--- ¿e?
+D: no
+AH: le, er
+D: a ver léala
+AH: le, er # alarga el sonido del fragmento «er», voltea a ver a D.
+D: ya está ¿no?
+AH: ah cierto
+D: por ejemplo, su chamarrita ¿qué es, una acción o es una cosa?
+AH: una cosa, una cosa
+D: muy bien, muy bien
+AH: chamarra, cha # escritura: «cha»--- ma, ma
+D: ma
+AH: ¿ma?
+D: sí ¿qué sonido sigue?
+AH: ah, cha, ma, marra, chamarra # escritura: «chamar»--- chamarra
+D: faltan algunas cositas
+AH: # borra la letra r.
+D: no, no está mal, pero faltan cosas
+AH: chama
+D: marra # hace énfasis en el sonido de la doble erre.
+AH: chamarra # pronuncia con mayor fuerza la doble erre. # escritura: «chamara»--- ¿sí?
+D: ¿falta algo aquí? # señala la letra r.
+AH: chama, rra # pronuncia con fuerza el sonido de la doble erre--- erre
+D: ajá ese está bien, pero aquí nos faltaría algo para que sea /rr/ y no /r/
+AH: ¿R_? # menciona el nombre de un familiar como apoyo para reconocer el sonido de /rr/.
+D: ajá nos falta una
+AH: ¿erre?
+D: voy a borrar esta # borra la letra a.
+AH: # escritura final: agrega las dos letras faltantes resultando en «chamarRa».
+# Condición: conversación.
+D: muy bien muy bien, por ejemplo si yo salto, imagínese que esta soy yo # con la mano sobre la mesa usa los dedos índice y medio, sube y baja la mano en repetidas ocasiones tocando la superfici de la mesa únicamente con las puntas de los dedos.
+AH: sí
+D: y estoy saltando por ejemplo, no sé, la cuerda ¿eso es una acción o es una cosa?
+AH: sal, cosa
+D: estoy saltando
+AH: ajá, acción # lee la columna escita en el pizarrón que dice «acciones».
+D: aí muy bien
+AH: acción
+D: muy bien
+# Condición: escritura.
+AH: acción
+D: saltar
+AH: saltar, sa # escritura: c, en la columna de acciones.
+D: /s/ ¿cómo es? /s/
+AH: sa, sal # escritura: «SAL».
+D: pero hay que borrar la primera ¿no?
+AH: ah cierto # borra la letra c.
+D: saltar
+AH: sal ¿e?
+D: /t/, /t/
+AH: sal, tar, saltar # escritura: «SALTAr»--- saltar
+D: muy bien muy bien, gracias, y por ejemplo ¿caminar?
+AH: caminar
+D: ¿esto qué es? # con los dedos índice y medio, de forma alternada los deplaza por la mesa, simulando la acción de «caminar».
+AH: acción
+D: sí muy bien
+AH: acción, caminar # escritura: c, en la columna de cosas.
+D: ah pero este es el de la acciones # señala la columna de acciones.
+AH: ah sí, ca, mi, nar # escritura: «camiNAr» en la columna de acciones.
+D: a ver por ejemplo, ese espejo ¿es una acción o es una cosa?
+AH: cosa, cosa
+D: muy bien
+AH: espejo, es, pe, jo # escritura: «ESPego» en la columna de cosas.
+D: ¿cómo quedamos que sonaba esta? # señala la letra g.
+AH: ah # comienza a borrar la letra g.
+D: ¿esta cómo suena? # señala la letra g--- antes de que la borre
+AH: eh, ga ga
+D: y si la dejamos aquí diría espego ¿verdad?
+AH: ah sí cierto
+D: ¿por cuál la tenemos que cambiar?
+AH: # sustituye la letra g por la j.
+D: muy bien, ahora por ejemplo, un bote de la crema, como este # le muestra un bote de plástico--- ¿qué es, es una cosa o es una acción?
+AH: cosa, cosa
+D: muy bien, bote # le da el marcador azul.
+AH: bo, bo # escritura: «BOTe»
+D: muy bien y por ejemplo, el bote de basura ¿qué es?
+AH: acción
+D: ¿si segura?
+AH: acción
+D: ¿por qué?
+AH: eh, acción, bote # señala el bote de basura.
+D: pero acuérdese que las acciones se llevan a cabo en el tiempo, generalmente alguien las realiza
+AH: cosas, cosas, cosas
+D: si nadie le hace nada al bote, si está nada más ahí, es una cosa
+AH: ah sí
+D: okey # le aproxima el marcador azul.
+AH: el bote ya # señala la palabra «BOTe» que escribió recientemente.
+# Condición: conversación.
+D: bueno está bien, ese es otro bote
+AH: sí # se ríe.
+D: a ver ¿qué tal la computadora?
+AH: computadora, acción
+D: ¿por qué?
+AH: acción
+D: ¿por qué?
+AH: computadora, computadora
+D: no, es una cosa
+AH: ah
+D: si nada más existe así, es una cosa
+AH: ah bueno
+D: ¿qué tal el reloj?
+AH: el reloj, acción
+D: no
+AH: ¿no? cosa
+D: es una cosa, si sólo está ahí, sólo es una cosa
+AH: sí
+D: y por ejemplo ¿escribir? si yo agarro una hoja y hago esto # comienza a escribir en una hoja blanca.
+AH: escribir # susurrando.
+D: ¿esto qué es, es una acción o es una cosa?
+AH: acción, no, cosa cosa
+D: no
+AH: acción
+D: es una acción
+AH: ajá
+D: ¿le cuesta trabajo?
+AH: no # se ríe.
+D: ¿segura?
+AH: sí
+D: bueno a ver, escibir sí es una acción # le da el marcador azul.
+# Condición: escritura.
+AH: es, cri, ah no # escritura: «ESL»
+D: escri
+AH: escri
+D: cri
+AH: bi ¿bi?
+D: sí pero nos faltan muchas cosas antes, escri, cri /k/
+AH: ¿i?
+D: /k/ ¿sabe qué sonido es este? /k/
+AH: es, cri
+D: como en casa
+AH: ah, es, cri # escritura: «ESci».
+D: ah ah, aquí nos falta algo # señala lo que Ah acaba de escribir.
+AH: es # borra la letra i.
+D: cri
+AH: cri, escri, escribir # escritura: «EScridir»--- escibir
+D: a ver lea lo que dice
+AH: escri, bi # borra la letra r--- escribir, bir, escibir, escribir # escritura: agrega la letra N al final resultando en «EScridiN»--- no, escribir
+D: ¿esta qué letra es? # señala la letra N.
+AH: ene
+D: ¿y cuál es la última que queremos?
+AH: ¿erre?
+D: ajá
+AH: # escritura: sustituye la letra N por la r.
+D: ajá, hau otro error ¿cuál es?
+AH: es, cri, bir, ¿sí? # no se percata del error.
+D: no
+AH: es, cri # brevemente posiciona el marcador azul sobre la palma de su mano izquierda--- ah, be
+D: ajá muy bien
+AH: be, be # escritura: sustituye la letra d por la B, resultando en «EScriBir».
+D: muy bien muy bien

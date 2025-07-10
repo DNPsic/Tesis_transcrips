@@ -1,0 +1,76 @@
+# Segmento: habla espontánea.
+# Condición: conversación.
+D: cuénteme ¿qué hizo el lunes?
+AH: el lunes trapié las escaleras
+D: ¿de su casa?
+AH: sí sí, trapié y duerme y duerme también
+D: duerme mucho
+AH: sí sí
+D: ¿y qué más  hizo?
+AH: y la tarea la tarea
+D: sí la tarea ¿y qué más?
+AH: este, cené, ay hombre no # niega con la cabeza.
+D: ¿por qué?
+AH: cené café con leche
+D: ay qué rico
+AH: sí
+D: ¿qué más hizo?
+AH: y pes, y, sopa sopes, y fideo, de fideo
+D: ¿eso lo cenó o lo comió?
+AH: comimos cenamos y merendamos
+D: muy bien ¿y en la tarde qué hizo?
+AH: siempre durmiendo, las noticias por las noticias, duerme y duerme
+D: ¿pone las noticias para dormirse?
+AH: sí sí
+D: ¿la arrullan?
+AH: sí ajá cierto
+D: ah muy bien ¿en dónde se duerme en su cuarto o en la sala?
+AH: en mi cuarto, en mi cuarto
+D: muy bien ¿hizo algo más ese día?
+AH: este, ah, estaba durmiendo y, no sé no sé
+D: ¿no se acuerda?
+AH: no no
+D: ¿usted sabe si todo eso es verdad? # pregunta a AC.
+AC: sí trapea, barre
+AH: sí sí
+D: ¿pero específicamente el lunes?
+AC: pues prácticamente diario
+AH: sí sí
+AC: diario
+D: ¿qué le gusta hacer a usted?
+AH: este, pues no sé
+D: le gustaría por ejemplo
+AH: /.berdar./ bordar bordar # interrumpe a D.
+D: ah
+AH: bordar bordar bordar
+D: ah tejer, muy bien
+AH: bordar siempre bordar, bordé, siempre bordé
+D: qué bonito así con ganchitos
+AH: sí sí
+AC: (?) en aquel tiempo nuestros papás, bueno mi mamá ella acostumbraba a
+AH: /.berdar./ bordar sí
+AC: hacer sus sábanas pero de puro remiendo
+D: de retazitos
+AC: puros retazitos, y ella a puro coser y coser
+AH: sí yo también, sí sí
+D: ¿y eso le gusta?
+AH: uy sí
+D: un montón
+AH: sí
+D: sería muy bueno que tuviera una actividad que la mantenga ocupada a parte de las actividades de la casa
+AH: ah mira
+D: aun sí le cuesta trabajo moverse, caminar todos los días un poquito siempre es bueno
+AH: ah pus (pues) sí
+D: ¿camina?
+AH: sí sí # dirije discretamente la mirada a AC con la intensión de que este no lo note.
+D: muy bien # se ríe.
+AC: sí pues anda de aquí para allá y de allá para acá dentro de la casa, y luego la bajamos que a soriana, que a la tienda
+D: claro
+AC: y tiene que bajarse cinco
+AH: escaleras, escaleras
+AC: pisos
+D: ah vive hasta arriba
+AH: sí sí
+D: órale
+AC: pero es que ((luego le digo)) vamos allá, no ya no
+D: ya se cansa, sí aunque sea un poquito, una media horita que camine diario, con eso

@@ -1,0 +1,179 @@
+REF:011 
+CASO: ajá, con elevadores estaban aquí en, en, estaba en ((el)) Chapultepec
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:029 
+CASO: sí sí, trapié y duerme y duerme también
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:041 
+CASO: y pes, y, sopa sopes, y fideo, de fideo
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:043 
+CASO: comimos cenamos y merendamos
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:045 
+CASO: siempre durmiendo, las noticias por las noticias, duerme y duerme
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:070 
+CASO: bordar siempre bordar, bordé, siempre bordé
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:323 
+CASO: con el futbol
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:327 
+CASO: este, estaba, la tarea, la tarea
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:359 
+CASO: en la estufa estaba, estaba, estufa estaba, la sal con sal, la sal
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:363 
+CASO: yo estoy, yo estoy /. /s/ desullando estoy desua desullando desollunando./ yo comí comieron # se ríe.
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:403 
+CASO: cebolla el /.cucha el cucha./ el cuchillo, el cuchillo, el cuchillo
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:405 
+CASO: ...
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:447 
+CASO: acción acción 
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:463 
+CASO: cosas
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:475 
+CASO: agua, el agua
+PRODUCCIÓN: 
+EXP: 
+ALT: 
+PR: 
+TR: ESP: PROD: 
+RT: ESP: PROD: 
+ESTR: 
+GRAM: 
+PS: 

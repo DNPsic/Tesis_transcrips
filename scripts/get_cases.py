@@ -31,7 +31,7 @@ def get_lines(archivo: str, casos: list) -> list:
 
 def add_labels(casos: list) -> list:
     etiquetado = [
-        f"REF:{caso[:4].rstrip("\n")}\nCASO: {caso[8:].rstrip("\n")}\nPRODUCCIÓN: \nESP: \nALT: \nPR: \nTR: \nRT: \nESTR: \nGRAM: \nPS: \n\n"
+        f"REF:{caso[:4].rstrip("\n")}\nCASO: {caso[8:].rstrip("\n")}\nPRODUCCIÓN: \nEXP: \nALT: \nPR: \nTR: ESP: PROD: \nRT: ESP: PROD: \nESTR: \nGRAM: \nPS: \n\n"
         for caso in casos
     ]
     # print(etiquetado)
@@ -44,10 +44,15 @@ def make_file(casos: list):
         salida.writelines(casos)
 
 
-if __name__ == "__main__":
+def main():
     entrada = get_input()
+    #! Cambiar la ruta del archivo del que se van a extraer las líneas o casos.
     casos = get_lines(
-        "/home/dante/DATA/Tesis/Transcripciones/15_08_2024/OK_15-08-2024.txt", entrada
+        "/home/dante/DATA/Tesis/Transcripciones/scripts/enum_.txt", entrada
     )
     formateados = add_labels(casos)
     make_file(formateados)
+
+
+if __name__ == "__main__":
+    main()

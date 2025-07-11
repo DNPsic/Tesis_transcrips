@@ -1,0 +1,96 @@
+REF:005 
+CASO: yo estaba en soriana a las doce y media con mi hija
+PRODUCCIÓN: 
+ESP: 
+ALT: 
+PR: 
+TR: 
+RT: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:007 
+CASO: en el refigrerador la ca la crema, pan español, yo yo, y aceite y dos leches y los atunes
+PRODUCCIÓN: 
+ESP: 
+ALT: 
+PR: 
+TR: 
+RT: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:033 
+CASO: fuia a soriana a comprar sandía y tortillas
+PRODUCCIÓN: 
+ESP: 
+ALT: 
+PR: 
+TR: 
+RT: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:035 
+CASO: yo yo va yo vi vi la televisión
+PRODUCCIÓN: 
+ESP: 
+ALT: 
+PR: 
+TR: 
+RT: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:159 
+CASO: este licuando
+PRODUCCIÓN: 
+ESP: 
+ALT: 
+PR: 
+TR: 
+RT: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:161 
+CASO: jitomates
+PRODUCCIÓN: 
+ESP: 
+ALT: 
+PR: 
+TR: 
+RT: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:197 
+CASO: teléfono aquí # con su mano izquierda cierra parcialmente el puño y lo pone al lado de su oreja izquierda. teléfono aquí
+PRODUCCIÓN: 
+ESP: 
+ALT: 
+PR: 
+TR: 
+RT: 
+ESTR: 
+GRAM: 
+PS: 
+
+REF:555 
+CASO: en la semana licué las verduras, pa para el calso caldo de ollo de olla en la licuadora
+PRODUCCIÓN: 
+ESP: 
+ALT: 
+PR: 
+TR: 
+RT: 
+ESTR: 
+GRAM: 
+PS: 
+

@@ -1,0 +1,158 @@
+# Segmento: inducción de verbos mediante oraciones simples incompletas escritas.
+# Material: pizarrón blanco, marcadores azul y rojo.
+# Condición: conversación.
+DT: ¿qué dice aquí? # le muestra el pizarrón blanco,
+# Escrito: (en el pizarrón) se muestra una línea horizontal seguida de la palabra «sopa».
+AH: sopa
+DT: sí muy bien, aquí falta algo # señala la línea horizontal--- aquí arriba va algo que falta
+AH: en la estufa # se ríe.
+DT: no
+AH: ¿no?
+DT: aquí falta un verbo ¿qué hacemos con la sopa?
+AH: sopa ...
+DT: ¿la lavamos, se lava la sopa?
+AH: sí, no no no
+DT: ¿qué se hace con la sopa?
+AH: este, en la estufa, en la estufa
+DT: ¿pero qué se hace? el verbo queremos
+AH: ...
+DT: a ver hágale así # con los dedos juntos de la mano derecha, los aproxima a la boca.
+AH: # hace el mismo movimiento con la mano izquierda.
+DT: ¿qué es esto? # repite el mismo movimiento.
+AH: este, /.camiar./ comiendo comiendo
+DT: a ver escríba aquí # le da el marcador azul y señala la línea horizontal en el pizarrón.
+# Condición: escitura.
+AH: comiendo, co, mi, comien # escritura: «comiE», observa a DT con duda.
+DT: va bien va bien
+AH: comien, do, comiendo, do # escitura final: «comiEbo».
+DT: bueno aquí tenemos un error # borra «bo».
+AH: ajá
+DT: # le acerca el pizarrón.
+AH: ¿e?
+DT: ya está la /e/, comien, /n/ # alarga un poco el sonido de /n/.
+AH: ¿ene? ene
+DT: sí
+AH: comien, do # escritura: agrega «Nbo» resultando en «comiENbo».
+DT: ¿esta cómo suena? # señala la letra b.
+AH: be
+DT: a ver ¿entonces qué dice aquí?
+AH: do do
+DT: a ver, esa estaba mal # borra «bo»--- es la /d/
+AH: ¿de?
+DT: sí
+AH: ¿de?
+DT: ¿cómo es?
+AH: ¿de? ah, comien, do # escritura: agrega «Po» resultando en «comiENPo».
+# Condición: conversación.
+DT: ¿esta cómo suena? # señala la letra P.
+AH: ¿de?
+DT: a ver véala bien
+AH: de
+DT: esta que usted escribió es esta # escribe la letra P en el pizarrón.
+AH: ah sí cierto
+DT: ¿cómo suena?
+AH: de
+DT: y entonces ¿esta cómo suena? # escribe la letra d al lado de la P.
+AH: ah pos (pues) sí mira
+DT: ¿cómo suena esta? # señala la letra d.
+AH: de
+DT: ¿y esta? # señala la letra P.
+AH: pe # sonríe.
+DT: ajá muy bien ¿ya vio qué pasó ahí?
+AH: ajá
+# Condición: escritura.
+DT: mire # borra la letra P en «comiENPo».
+AH: # escritura: agrega la letra b resultando en «comiENbo».
+DT: a pero mire # señala de forma alternada la letra b que Ah recién escribió y la letra d usada de modelo.
+AH: ah sí ya
+DT: está al revés
+AH: sí cierto # comienza a reírse.
+DT: sí
+AH: ah cierto # escritura: cambia la b por la d resultando en «comiENdo».
+DT: muy bien, entonces mire, esto es el verbo # con el marcador azul encierra en un óvalo la palabra «comiendo» que AH escribió--- es lo que hacemos, ¿ya vio? lo que podemos hacer
+# Condición: conversación.
+AH: ah sí
+DT: ¿a ver qué otra cosa le gusta comer?
+AH: café con leche, no pues ya mucho café no ya no
+D: ¿le hace daño?
+AH: ¿mande? uy sí
+DT: por la presión ¿verdad?
+AH: ay sí, ciento diez ciento veinte, ciento diez
+D: ¿y el tesito no le gustará mejor? en lugar del café
+AH: sí este, atole nada más
+D: pero sin mucha azúcar
+AH: no ya no nada, nada de azúcar
+D: muy bien muy bien
+AH: nada de azúcar, ay sí ya está bien feo
+D: uno se acostumbra
+AH: un bolillo hombre, también
+D: pero uno se acostumbra
+AH: ¿sí?
+DT: ¿no le gusta las verduras?
+AH: sí sí
+DT: como la sopa, sopa de verduras, eso es muy bueno que coma
+AH: sí
+DT: y carne
+AH: ajá cierto
+DT: pollo y pescado principalmente
+AH: ¿a poco?
+DT: es lo más saludable
+AH: ¿a poco?
+DT: como atún
+AH: ¿a poco, atún? atún, ahí esta bien
+DT: ¿no le gusta?
+AH: no
+DT: ¿el atún no le gusta?
+AH: sí sí
+DT: a ver, vamos a hacer otro ejercicio ¿aquí qué dice? # le muestra el pizarrón blanco con la palabra «atole» escrita al lado de una línea horizontal.
+AH: atole
+DT: ajá, aquí nos falta el verbo # señala la línea horizontal a la izquierda de la palabra «atole».
+AH: ajá
+DT: ¿qué se hace con el atole?
+AH: ...
+DT: a ver el atole nos lo # se lleva los dedos de la mano izquierda lentamente hacia la boca--- a ver usted hágale así
+AH: # imita el gesto de DT.
+DT: ¿se come?
+AH: no
+DT: ¿qué se hace?
+AH: bebí, bebí, bebiendo
+DT: eso # le da el marcador azul.
+# Condición: escritura.
+AH: bebiendo, be, be, bi, bie, bie, bien, do, bebiendo # escritura: «BeBiNto»
+# Condición: conversación.
+DT: bueno ¿ya vio que acá siempre nos falta el verbo? # señala la palabra que AH acaba de escribir.
+AH: ajá
+DT: siempre el verbo va a acompañar a la cosa
+AH: ajá # observa la palabra que acaba de escibir.
+DT: el verbo es lo que hacemos nosotros
+AH: # no presta atención y contiúa viendo su escritura.
+DT: aquí ya se dio cuenta de algo ¿verdad?
+AH: sí sí
+DT: a ver usted borre # le da el borrador.
+# Condición: escritura.
+AH: # escritura: borra la letra t cambiándola por d, resultando en «BeBiNdo».
+DT: aquí nos falta otra cosa # señala «iN» en la palabra escrita.
+AH: be ¿i?
+DT: aquí está la i, falta algo aquí # vuelve a señalar la misma parte de la palabra.
+AH: bebien
+DT: bebiendo
+AH: bebien
+DT: aquí en medio falta algo
+AH: bebien, do, bebien, do # escritura: hace unn trazo irreconocible en la zona indicada de la palabra.
+DT: okey, a ver vamos a repetir esta parte de aquí # borra a partir de la letra N resultando en «BeBi».
+AH: ah sí
+DT: no pasa nada, lo que nos interesa es que vea que va el verbo y luego la cosa, a ver, bebi ¿qué sigue?
+AH: bebien, do
+DT: en
+AH: en
+DT: en # alarga el sonido de la /e/.
+AH: bebiendo # escritura: «BeBiNdo».
+D: a ver léalo
+AH: bebiendo
+DT: vamos poco a poquito
+D: léalo, acuérdese, lentito
+AH: bebien, ah /e/
+D: ajá muy bien, siempre cuando lo lee se da cuenta de qué errores tiene ¿verdad?
+AH: ah cierto
+D: así que cuendo tenga duda, lea lo que escibrió, porque a lo mejor se da cuenta de que le falta algo, o que puso algo que no
+AH: ah, bebien # escritura final: «BEBiENdo».

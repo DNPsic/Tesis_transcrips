@@ -1,0 +1,300 @@
+# Segmento: inducción de verbos hablados.
+# Material: pizarrón blanco, marcador azul y rojo.
+# Condición: conversación.
+DT: a ver, díganos qué hace usted
+AH: trapiando (trapeando) la sala
+DT: vamos a anotar ese # escribe en el pizarrón «trapeando»--- trapeando, muy bien ya nos dijo uno
+AH: sí, ah
+DT: ahí va uno # pone una paloma (marcador de verificación) al lado--- ¿qué más cosas hace?
+AH: este, los trastes
+DT: ajá
+AH: los trastes
+DT: ¿qué hace con los trastes?
+AH: este, lavando los trastes
+DT: muy bien
+D: muy bien
+AH: lavando los trastes
+DT: muy bien vamos a anotarlo aquí # escribe «lavando»--- lavando ¿qué más hace?
+AH: lavando los trastes, en la est, en la estufa
+DT: ¿qué hace en la estufa?
+AH: en la estufa estaba bien /.cochambras./ cochambrosa
+DT: ¿cochambrosa?
+AH: sí cochambroso cochambrosa
+DT: ¿y qué hace en la estufa? a ver le voy a dar una pista, co
+AH: ...
+DT: en la estufa co
+AH: co
+DT: ¿coci?
+AH: cocinando, cocinando
+DT: muy bien
+D: ajá muy bien
+AH: cocinando
+D: y también respecto a lo de que estaba cochambroso se puede sacar otro ¿no?
+AH: pues sí
+D: estaba ¿qué haciendo con la estufa, cuando estaba sucia?
+AH: bien /.cha./ bien sucio bien sucia
+D: ajá pero ¿usted qué estaba haciendo?
+AH: cochambrosa, cochambrosa
+DT: a ver si algo está sucio
+AH: cochambrosa
+DT: ajá ¿qué hacemos para que ya no esté así?
+AH: este, lavándola lavándola
+DT: ahí está
+D: muy bien
+AH: lavándola
+DT: muy bien, otro verbo ¿qué otro se le ocurre? va muy bien
+AH: ¿sí?
+DT: sí ya lleva cuatro
+AH: ah mira
+DT: ¿qué hace en la sala?
+AH: en la sala esta, en la sala trapeando
+DT: eso ¿qué más?
+AH: trapiando la ma, la el baño
+DT: ajá ¿en el baño?
+AH: el baño estaba sucio
+DT: ¿y qué hacemos cuando algo está sucio?
+AH: durm, este, soña # comienza a reír.
+DT: está sucio y le da sueño
+AH: no, estaba trapiando, estaba trapiando
+DT: ajá muy bien
+AH: estaba trapiando, trapiando la /s/ la
+DT: bueno muy bien, ese ya lo había dicho, a ver vamos a ver, en el comedor ¿qué se hace en el comedor?
+AH: este, comiendo
+DT: ah mire, muy bien
+AH: comiendo
+DT: bueno está más fácil ¿verdad?
+AH: sí cierto
+DT: ¿y en la cocina?
+AH: estaba, este, en ...
+D: ¿generalmente qué se hace en la cocina?
+AH: la cocina, este, la cocina ...
+DT: de hecho ahí en el nombre ya lo dice, cocina
+AH: cocina
+DT: ¿qué hacemos en la cocina?
+AH: en la cocina, esta
+DT: ¿coci?
+AH: en la coina estaba, estaba
+DT: de hecho ya me lo dijo, a ver ¿qué hace en la cocina de todo esto? # le muestra el pizarrón.
+AH: cocinando
+DT: ajá muy bien
+AH: cocinando
+DT: todos estos verbos nos los dijo ahorita
+AH: cocinando
+DT: a ver, uno más y ya ¿qué hace en su cuaderno?
+AH: la tarea
+DT: sí sí hace la tarea pero ¿cuál es la acción?
+AH: ...
+DT: sí es la tarea, muy bien pero ¿qué hacemos? a ver
+AH: este
+DT: ¿usted también le hace así no? # hace un garabato sobre el pizarrón.
+AH: sí
+DT: ¿qué es esto?
+
+AH: espérame
+DT: sí
+AH: la tarea
+DT: ¿qué hacemos?
+AH: la tarea estaba # con su dedo índice derecho traza sobre su palma derecha lo que parece ser un par de letras--- bien difícil # se ríe.
+DT: a ver para ayudarle vamos a hacer toda la oración desde cero
+AH: sí sí
+DT: a ver, dígame yo estaba
+AH: yo estaba, yo estaba
+DT: ¿qué es esto? # hace trazos en el aire con el marcador rojo.
+AH:yo, yo # hace trazos con su dedo índice derecho sobre su palma izquierda.
+DT: yo estaba, a ver dígalo
+AH: yo estaba
+DT: ¿qué estaba haciendo? # hace trazos en el aire con el marcador.
+AH: estaba
+DT: es # alarga el sonido de la /s/.
+AH: estaba ...
+DT: a ver, vamos a escribirlo acá, es más usted me va a ayudar a escribirlo # pone el pizarrón al alcance de AH y le da el marcador azul--- a ver, yo estaba
+AH: ¿yo?
+DT: ¿se acuerda cómo es?
+# Condición: escritura.
+AH: yo # escritura: «yo».
+DT: eso, estaba
+AH: es, es, estaba, estaba # escritura: «EStABa»--- yo estaba
+DT: muy bien, a ver ponga una línea, ahí nos falta algo # señala al lado de la palabra que AH acaba de escribir.
+AH: # traza una línea horizontal en el lugar indicado.
+DT: aquí nos va a faltar algo # señala la línea que AH acaba de trazar.
+AH: yo estaba
+DT: y vamos a poner acá # señala debajo de las palabras previas--- en el cuaderno
+AH: en el, en el # escritura: «EN Le».
+DT: cuaderno
+AH: en el cua, cua, cua, der, cua, der, cuaderno, cuaderno # escritura: «CUAPor»
+DT: a ver, vamos a ir leyendo poco a poquito, yo le voy a ir marcando con el azul, a ver ¿aquí qué dice? # subraya «EN».
+# Condición: lectura.
+AH: en
+DT: ¿aquí qué dice? # subraya «Le».
+AH: le, en el
+DT: aquí pasó algo ¿ya vio?
+AH: ha, cua
+DT: está al revés # señala «Le».
+AH: ah # se ríe.
+DT: ¿qué dice?
+AH: u
+DT: ¿aquí qué dice? en esta partecita # señala con el marcador «Le».
+AH: en el, en el
+DT: aquí solito # con el borrador y la mano cubre el resto de elementos para que sólo sea visible «Le».
+AH: el, el
+DT: a ver fíjese
+AH: ah, el
+DT: a ver vamos otra vez # borra «Le»--- el
+# Condición: escritura.
+AH: ¿el? e, el # escritura: A--- e
+DT: no, a ver, acá abajito # señala la parte inferior del pizarrón--- el
+AH: en el # escritura: «EN Le».
+DT: a ver, otra vez pasó algo, este este, aquí nos pasó algo # encierra con el marcador azul «Le».
+AH: a ver, en el, ele
+DT: a ver ¿cuál es el primer sonido?
+AH: ele
+DT: /e/
+AH: ele
+DT: /e/, /l/ ¿cuál es el primer sonido?
+AH: /e/ # repite el sonido de la /e/ varias veces.
+DT: /e/ ajá
+AH: ah # escritura: cambia la L por E resultando en «Ee».
+DT: exacto ¿ya vio? entonces esta no va acá # borra la e--- ¿cuál va entonces ahí?
+AH: en el
+DT: el
+AH: ah # escritura final: «EL».
+DT: ahí está, eso es lo que nos faltaba acá, vamos a borrar esto # borra «EN Le CUAPor»--- muy bien entonces llevamos en el
+AH: # escritura: «EL».
+DT: entonce ya podemos borrar esto # borra «EN EL» que se encontraba en la parte inferior--- cuaderno
+AH: cua, cua, cua, de, ¿de?
+DT: de
+AH: cuade, cuader, cuader # escritura: «CUAPEN»--- no no # niega con al cabeza.
+DT: a ver # le acerca el borrador--- ¿le ayudo o usted puede?
+AH: a ver
+DT: vamos a leer lento, porque eso nos ayuda a darnos cuenta
+AH: ah sí
+DT: vamos a ir poco a poquito, a ver ¿aquí qué dice?
+# Condición: lectura.
+AH: erre erre # interrumpe a DT.
+DT: a ver ¿aquí qué dice? # subraya «cua».
+AH: en el cua
+DT: # señala la letra P.
+AH: de ¿de?
+DT: mire # señala la letra P--- esta ¿cómo suena?
+AH: de
+DT: nos pasó hace rato igual, esta es la que usted escibió # escribe la letra P en la parte inferior del pizarrón.
+AH: ¿R_? # menciona el nombre de un familiar que usa como apoyo--- con R_ # se ríe.
+DT: # escribe al lado P la letra d--- ¿cuál suena cuaderno?
+AH: este # señala la letra d.
+DT: ¿esta o esta? # señala de forma alternada la letra P y luego la d.
+AH: esta # señala la letra d.
+DT: ¿sí?
+AH: esta # señala la letra d.
+DT: a ver, vamos a escribirlo otra vez # borra las últimas letras para mantener «CUA»--- esto está bien, cua
+AH: cua
+DT: ahí está, falta derno
+AH: es este # señala la letra d.
+DT: ajá
+AH: # intenta tomar el marcador de DT.
+DT: a ver con su plumón.
+# Condición: escritura.
+AH: ajá # escritura: D.
+DT: a ver
+AH: cua, der, cuader # escritura: «DEN».
+DT: a ver, aquí nos faltó algo # borra la letra N--- cuader
+AH: ¿erre?
+DT: erre
+AH: ah sí, cuader, no, ¿no? # escritura: «rl» hace un trazo recto que aquí representamos como la letra l.
+DT: no
+AH: no, ¿uno? # rapidamente traza en el aire sobre su palma izquierda una línea recta.
+DT: a ver # borra la letra l.
+AH: cuader
+DT: no
+AH: no # escritura: «A» en la parte inferior del pizarrón--- ¿no?
+DT: no, esa es la /a/
+AH: cuaderno # traza lo que parece ser la letra A sin le línea horizontal.
+DT: así como si estuviera diciendo no
+AH: ah, cuaderno # escritura: «N» completa el trazo anterior para formar la letra.
+DT: exacto muy bien
+AH: cuader, no # escritura final: «CUADErNO»
+DT: bueno, estuvo un poco difícil
+AH: sí ((verdad)) ahora sí
+DT: ahora vamos a leerlo todo completo, a ver ¿puede leerlo todo completo?
+AH: yo estaba en el cuaderno
+# Condición: conversación.
+DT: okey, aquí nos falta algo como en las actividades de hace rato # señala la línea horizontal.
+AH: yo estaba, yo estaba ¿en el parque? # se ríe.
+DT: aquí falta qué estaba haciendo en el cuaderno
+AH: ah, en el cuaderno
+DT: ¿qué hace?
+AH: estaba, estaba desayunando, desayunando # se ríe.
+DT: desayunando en el cuaderno
+AH: # continua riendo.
+DT: pero sí es un verbo
+AH: ¿qué es hijo?
+DT: a ver ¿qué estaba haciendo en el cuaderno?
+AH: este la tarea, la tare
+DT: sí pero cómo se le dice a, yo agarrao el plumón y me pongo ¿a? # finge escribir en el aire sobre el pizarrón.
+AH: ¿a?
+DT: ¿qué estoy haciendo cuando me pongo a?
+AH: tarea
+DT: pero ese no es el verbo
+AH: ajá
+DT: ¿estaba comiendo en el cuaderno?
+AH: no no hombre
+DT: ¿limpiando en el cuaderno?
+AH: no no no
+DT: ¿viajando?
+AH: no hombre
+DT: ¿entonces qué?
+AH: estaba, el cuaderno
+DT: a ver, yo voy a hacer la acción # toma la libreta de AH y comienza a escribir con la pluma negra--- a ver ¿qué estoy haciendo, cómo se llama esto que estoy haciendo?
+AH: ¿los verbos?
+DT: no, estoy # mueve la pluma en el aire.
+AH: ...
+DT: usted también lo hace, cuando agarra aquí su lápiz y se pone ¿a?
+AH: ajá, ay no me acuerdo
+DT: empieza con es
+AH: ¿escribiendo?
+DT: sí
+AH: escribiendo
+DT: muy bien, ese es el verbo que queremos
+AH: escribiendo
+DT: ¿sí escribe en el cuaderno?
+AH: sí hombre
+DT: ah pues ahí está
+# Condición: escritura.
+AH: escribiendo, es, es, cri, escri, escri, biendo, biendo, escribiendo, escribiendo, escri # escritura: «ESrBindo».
+DT: a ver le ayudo, vamos a empezar otra vez # borra para dejar «ES» únicamente--- a ver otra vez, esto esta bien, ¿cri?
+AH: cri # escritura: «ESc» agrega la letra c.
+DT: ¿qué sigue?
+AH: cri, bien # escritura: «ESci» agrega la letra i.
+DT: a ver ya se saltó varios sonidos # borra las dos letras que acaba de escribir AH--- a ver, vamos a hacelo acá abajo # señala la parte inferior del pizarrón--- escribiendo
+AH: es, cri # escritura: «ESC».
+DT: ahí falta una /rr/
+AH: ¿erre?
+DT: sí
+AH: ah pues sí # intenta alcanzar el borrador.
+DT: a ver pero sí va bien, aquí va # señala el espacio vacío después de la letra C.
+AH: escri, bie bi
+DT: /b/
+AH: bi, bie, escribie, bi bie, ndo # escritura: «ESCriBiNdo».
+DT: ahora sí la hizo bien esta, pero nos falta algo
+AH: sí, ene
+DT: está bien pero nos falta algo, vamos poco a poquito otra vez
+AH: escri
+DT: a ver vamos a empezar desde acá # subraya «es»--- a ver aquí ¿qué dice?
+AH: es
+DT: # subraya «cri».
+AH: cri
+DT: # subraya «bi».
+AH: ende, /e/ # reconoce la letra faltante.
+DT: eso
+AH: ha cierto # escritura final: «ESCriBiENdo».
+DT: ¿ya vio que si vamos poquito a poco se da cuenta?
+AH: ah sí cierto
+DT: así vamos a estarle haciendo
+AH: ah cierto
+DT: muy bien eso es lo que nos faltaba ¿entonces qué dice todo completo?
+# Condición: lectura.
+AH: yo estaba escribiendo en el cueaderno
+DT: eso, así es como queremos que ya empiece a escribir
+AH: ah cierto
+DT: es medio redundante ¿no?
+AH: ay sí hombre, bien difícil hombre
+DT: sí está difícil, pero cuando empiece a escribir así, va a ver que se le va a facilitar un montón

@@ -1,0 +1,42 @@
+# Segmento: reporte de actividades.
+# Condición: conversación.
+DT: a ver platíquenos qué hizo en su casa de tarea
+AH: ah la tarea # busca su libreta.
+DT: a ver ¿pero qué le dejamos, se acuerda?
+AH: este, palbras
+DT: ¿qué palabras le dejamos?
+# Condición: lectura.
+AH: yo trapié la cocina, la recámara, en la mañana estaba desayunando con, estaba /.deso deseyuando./ sopa y huevo, yo aquí /.ye ya./ aquí sopa y pechuga, atole y agua, yo comí tre, verdura, verdura, chi chile chile pasilla, y agua, atole con queso, yo cené atole y pan tostado y ce cero # lee rápidamente varias hojas de su cuaderno.
+# Condición: conversación.
+DT: órale
+AH: ajá, a por el azúcar, por la azúcar, ayer estaba bien feo, este ¿cuánto? doscientos cincuenta, doscientos veinte
+DT: ¿de azúcar?
+AH: sí
+DT: ¿de usted?
+AH: sí, y ya al ratito ya
+DT: ¿bajó?
+AH: sí, este, ciento veinte
+DT: hay que cuidarse eh
+D: con más razón, las cocas prohibidas, ya no, ni de las chiquitas
+# Condición: lectura.
+AH: estaba durmiendo, me /.vo./ me levanté a las /.senco seis sin tres sei./ seis treinta
+DT: ¿de la mañana?
+AH: con R_
+# Escrito: 30 de agosto del 2024- mi diario- estaba dormida  y- me levanté a las 6:30- despues desayune con R.
+# Condición: conversación.
+DT: ¿también se levanta temprano es señor R_?
+AH: Sí por los, televisión, por la tele
+DT: ¿le televisión?
+AH: no por las
+DT: ¿por?
+AH: por la tarea, por ay no hombre # comienza a reírse.
+DT: ¿se levanta a hacer tarea a las seis de la mañana?
+AH: no, voy con R_ con R_
+DT: ¿él se va a trabajar?
+AH: sí, ajá
+DT: ah ya es un cuaderno nuevo
+AH: sí hombre
+DT: ¿ya se acabó el otro?
+AH: no ya, este R_ me lo compró
+DT: ¿se lo compró?
+AH: me lo compró

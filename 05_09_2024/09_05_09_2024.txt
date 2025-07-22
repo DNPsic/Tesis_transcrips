@@ -1,0 +1,146 @@
+# Segmento: escritura de diario.
+# Material: libreta de AH, pluma negra, pizarrón blanco y marcadores azul y rojo.
+# Condición: escritura.
+# Escrito: Fecha____- Nombre____- Lugar____- 1 ¿Qué hice hoy?.
+DT: es lo que hemos hecho en otras ocasiones
+AH: fecha
+DT: fecha, empezamos
+AH: cinco, de, septiembre, de octubre, septiembre
+DT: septiembre
+AH: de septiembre, sep, se, de se
+DT: sep /p/ # hace énfasis en el sonido de /p/.
+AH: ¿pe, pe?
+DT: sí
+AH: ti ¿ti? tiem
+DT: a ver siga, como usted pueda hacerlo
+AH: bre, no # niega con la cabeza.
+DT: está bien, no pasa nada ¿de qué año?
+AH: dos mil veinticuatro, dos mil, veinticuatro # escritura: «5 de sepime».
+DT: a ver su nombre, si quiere no completo
+AH: A_ # escibe su nombre con letra cursiva.
+DT: que simpre le queda bien bonito
+AH: ay hombre ¿sí?
+DT: sí pues sí escribe bien bonito
+AH: ajá
+DT: y el lugar ¿se acuerda dónde estamos?
+AH: aquí con los sicólogos
+DT: sí pero la otra vez esbribimos otra cosa, la escuela ¿cómo se llama?
+AH: la escuela
+DT: ¿cómo se llama?
+AH: en la escuela, en la escuela /.lo e sie si el sico sicol./ no # se ríe.
+DT: ¿cómo se llama la avenida? esta grandota que está aquí
+AH: no me acuerdo
+DT: /s/ ¿sa?
+AH: (?)
+DT: sara
+AH: Zaragoza, ah Zaragoza, ¿za?
+DT: sí
+AH: za, zara, go
+DT: a ver ahí vamos zara
+AH: zarago
+DT: go
+AH: ¿el gato?
+DT: sí
+AH: zarago, zarago
+DT: ahí sí va
+AH: /s/ a # alarga el sonido de la /s/--- Zaragoza # escritura: «Caragosa».
+# Condición: conversación.
+DT: a ver ¿y qué sigue?
+AH: ¿qué hice hoy? # lee la libreta.
+DT: ¿a ver qué hizo hoy? con todos los verbos que aprendimos hoy, bueno no que aprendimos, que dijo ahorita
+AH: ¿qué hice hoy? el parque, en el parque
+DT: ¿qué hizo en el parque, se acuerda que usamos algo con futbol?
+AH: sí
+DT: a ver ¿cómo era?
+AH: en el parque
+DT: ¿pero qué hizo en el parque?
+AH: en el parque ...
+DT: ¿comió en el parque?
+AH: no, en el parque, en el futbol, en el futbol
+DT: ¿qué hacíamos con el futbol?
+AH: en el futbol
+DT: ¿se acuerda qué era?
+AH: no
+DT: ¿comemos futbol?
+AH: no no
+DT: ¿jugamos?
+AH: sí jugamos, jugamos
+DT: ¿cómo respondería?
+AH: jugamos
+DT: usted usted ¿qué hizo hoy?
+AH: jugamos
+DT: ¿nosotros?
+AH: yo
+DT: usted
+AH: yo
+DT: a ver póngalo
+AH: ju
+DT: yo
+# Condición: escritura.
+AH: yo # escritura: «yo».
+# Condición: conversación.
+DT: ajá ¿qué dijimos?
+AH: yo en el parque
+DT: ¿pero qué era el verbo? ju
+AH: /.fulba./ en el futbol
+DT: pero ¿ju?
+AH: jugamos, jugamos
+DT: a ver
+AH: yo jugamos
+DT: a ver pero cómo
+AH: yo jugamo jugara jugase jugamos
+DT: a ver ahí va ahí va
+AH: yo /j/
+DT: usted, ajá, va bien va bien
+AH: yo est
+DT: ¿ju?
+AH: jugando ¿jugamos? jugando jugamos
+D: ¿yo jugamos?
+AH: jugamos
+DT: a ver vamos ahí a hacer una ayuda
+AH: sí, ajá
+DT: eso está difícil porque ya tiene tiempo que no lo trabajamos
+AH: sí
+DT: mire # escribe en el pizarrón «Yo jugamos» la primera palbra en azul y la segunda en rojo--- si lo pongo así, léalo
+AH: ah # intenta copiar el la hoja blanca.
+DT: léalo léalo, no lo copie
+AH: yo jugamos
+DT: ¿a poco así está bien?
+AH: no no
+DT: ¿cómo sería entonces?
+AH: yo jugaré
+DT: a ver
+# Condición: escritura.
+AH: ju ju, jugaré # no se aprecia la escritura.
+# Condición: conversación.
+DT: sí está bien ¿pero qué cree? fíjese qué nos preguntó # señala el escrito en el cuaderno de AH--- ¿qué hice hoy?
+AH: ah
+DT: ¿qué hice hoy, hoy jugaré, suena bien?
+AH: no
+DT: vamos a intentarlo otra vez
+AH: sí
+DT: pero está bien, ya me dijo bien el verbo, a ver acá abajo vamos a poner otra vez, yo
+# Condición: escritura.
+AH: yo # escritura: «yo».
+DT: ¿de qué otra forma puede decir jugaré?
+D: bueno, jugar
+AH: jugaré, jugar
+DT: a ver otra forma
+AH: jugaré
+DT: otra
+AH: jugaré
+DT: mire ya me dijo jugaré # lo escibe en el pizarrón--- este ya esta bien, le vamos a poner su palomita
+AH: yo jugaré
+DT: ese está bien
+D: ¿y si lo hubiera hecho? jugar, ayer
+DT: ¿si fuera ayer?
+AH: jugaré, jugaré
+D: no no, pero ¿si hubiera sido ayer? porque si usted jugará, todavía no lo ha hecho
+AH: no
+D: ¿verdad?
+AH: sí
+DT: es para otro día
+D: pero si usted ya hubiera jugado, cómo se diría?
+DT: ayer
+D: por ejemplo ayer
+AH: yo jugaría, jugará, jugaría jugaría, jugaría

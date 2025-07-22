@@ -1,0 +1,133 @@
+# Segmento: continuación de inducción de verbos mediante oraciones simples incompletas escritas.
+# Materiales: hoja blanca, plumas de colores negro y azul.
+# Condición: conversación.
+DT: a ver ¿qué hace usted en el parque?
+AH: este, ¿en el parque? este, futbol futbol
+DT: ¿usted juega?
+AH: sí
+DT: ¿a poco sí?
+AH: sí
+DT: órale
+D: ¿en serio?
+AH: sí sí
+D: ¿con quién juega?
+AH: con R_
+D: ah qué bonito, qué padre
+AH: sí sí
+D: ¿desde cuándo?
+AH: este, dos años
+DT: muy bien
+AH: dos años
+D: ¿le gusta jugar?
+AH: sí
+DT: a ver vamos a intentar con estos
+# Escrito: _____futbol- _____pollo- _____televisión.
+DT: vamos a hacer lo mismo que estábamos haciendo aquí # señala el pizarrón.
+AH: ajá
+DT: ¿trae sus lentes?
+AH: sí # busca en su bolsa y saca unos lentes.
+DT: muy bien, ¿son nuevos?
+AH: sí, en el tianguis, cuatro cu, catorce quince pesos
+DT: ¿y sí ve bien?
+AH: sí
+DT: ah bueno, a ver
+AH: veinte pesos
+DT: ¿veinte pesos?
+AH: ajá # comienza a reírse.
+DT: órale, bien baratos
+AH: sí
+DT: muy bien # le da la pluma azul--- a ver vamos con el primero ¿qué dice aquí? # señala la primera línea de la hoja.
+AH: futbol
+DT: ¿qué hace?
+AH: este, estaba en el futbol
+DT: sí ¿pero cuál es el verbo?
+D: la acción
+AH: este, ay no me acuerdo
+DT: ¿qué hace? a ver, acuérdese cuando esta ahí en el parque ¿qué hace usted?
+AH: aquí está # mueve ambos brazos de forma alternada hacia adelante y hacia atrás a la altura del rostro.
+DT: ajá ¿qué eso, cómo se llama eso?
+AH: este, en el futbol, en la/.mar el perca merca./ no el mercado no # se ríe--- en la, en el
+DT: a ver ¿comemos futbol?
+AH: no hombre no, este, en el, el /.mer percado merc./ no pérame (espérame)
+DT: sí no se preocupe
+AH: este en el parque, en el parque
+DT: muy bien, pero queremos la acción
+AH: el parque, en el parque, estaba el futbol
+DT: sí pero falta ahí algo
+AH: ¿qué?
+D: ¿estaba qué?
+AH: sí estaba, estaba
+DT: estaba
+AH: estaba # aproxima la mano con la pluma a la hoja.
+DT: a ver no, falta aquí algo, estaba # señala la línea horizontal en «_____futbol».
+AH: es
+DT: estaba
+AH: estaba
+DT: falta algo, futbol
+AH: estaba # aproxima la mano con la pluma a la hoja. ¿e?
+DT: ¿qué estaba haciendo con el futbol?
+AH: estaba en el parque
+DT: ¿estaba comiendo futbol?
+AH: no no no
+DT: ¿estaba limpiando?
+AH: no no no
+DT: ¿entonces qué estaba haciendo en el parque?
+AH: ...
+DT: es algo que hacen los niños también
+AH: ah sí
+DT: con sus juguetes
+AH: en el parque
+DT: ajá ¿qué estaba haciendo?
+AH: eh, ah # mueve ambos brazos de forma alternada hacia adelante y hacia atrás--- estaba # repite el movimiento con los brazos.
+DT: sí es la acción, el lo que hacemos
+AH: estaba, en el futbol estaba, estaba, no no # niega con la cabeza.
+DT: ¿hace algo con las piernas?
+AH: no no no # niega con la cabeza.
+DT: ¿con los brazos?
+AH: no no, así con este # cerrando los puños de ambas manos, levanta los brazos a la altura del rostro y los alterna hacia adelante y hacia atrás en repetidas ocasiones.
+DT: ¿con lo brazos?
+AH: sí # afirma con la cabeza rápidamente.
+DT: ¿qué hace con lo brazos?
+AH: ay pérame (espérame)
+DT: sí sí no se preocupe
+AH: estaba, estaba, en el parque estaba, est, en el parque estaba, estaba, en el parque estaba, en el parque estaba, ay dios bendito # niega con la cabeza.
+DT: está bien, no se preocupe
+AH: estaba en el parque estaba en el futbol
+DT: mire, le vamos a ayudar # escribe en el pizarrón para regular a AH.
+# Escrito: en el parque- estaba _____- futbol.
+# Condición: lectura.
+DT: a ver vamos a leer esto
+AH: ah, en el paque estaba, ah # muestra sorpresa.
+DT: aquí ya vio que nos falta
+AH: sí
+DT: a ver vamos a leerlo todo completo
+AH: en el parque estaba # lee hasta «estaba» ignorando «futbol»--- en el parque
+DT: en el parque estaba, aquí nos falta algo
+AH: estaba
+DT: y luego futbol
+AH: ay hombre
+DT: aquí nos falta algo # señala la línea en blanco antes de futbol--- que es el verbo
+AH: ah, en el parque estaba
+DT: a ver
+AH: en el parque es
+DT: voy a poner un verbo que se me ocurre a mi
+AH: sí
+DT: # escribe «limpiando» sobre la línea.
+AH: ah limpiar
+DT: a ver léalo
+AH: limpiando, limpiando
+DT: ¿y está bien?
+AH: no
+DT: ¿por qué no?
+AH: no
+DT: a ver vamos a le
+AH: estaba ((árbol)) limpiando # interrumpe a DT--- no
+DT: a ver vamos a leerlo todo poco a poquito
+AH: en el parque estaba limpiando el fultbol, no # niega con la cabeza.
+DT: no ¿verdad?
+AH: no no
+DT: ¿entonces qué va a aquí? # borra «limpiando»--- no es limpiando, no es comer ¿qué será?
+AH: ta (está) bien difícil
+DT: ¿difícil?
+D: ¿si le pones una imagen? # dirigiéndose a DT.
+DT: a ver vamos a probar con una imagen.

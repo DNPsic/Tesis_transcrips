@@ -1,0 +1,73 @@
+# Segmento: conversación libre.
+# Condición: conversación.
+AH: ¿enfermo?
+DT: sí me enfermé
+AH: bien chismosa yo también, bien chismosa
+D: observadora
+AH: sí
+DT: observadora, también los psicólogos tenemos que andar de chismosos
+AH: pues sí, sí cierto
+DT: tenemos que andar preguntando de todo
+AH: pues sí cierto
+DT: ¿y usted no se ha enfermado?
+AH: no, gracias a dios no
+DT: ¿no?
+AH: gracias a dios
+D: tiene mejores defenzas que nosotros # se ríe.
+AH: ah pues quien sabe
+DT: y come muy bien por lo que # señala el cuaderno de AH.
+AH: ay sí
+DT: ¿qué le gusta comer de todo esto?
+AH: este, sopa
+DT: ¿qué es lo que más le gusta?
+AH: este, chilaquiles
+DT: # ve a AH con cara de sorpresa.
+AH: uy sí bien sabrosos
+DT: ¿de cuáles, rojos o verdes?
+AH: verdes
+DT: ¿verdes le gustan más?
+AH: verdes verdes ¿y tú? # se ríe.
+D: a mi me gustan más los rojos
+AH: ah pus (pues) sí
+DT: ¿a ti? # se dirige a D.
+D: me gustaban más los verdes pero ahora más los rojos
+AH: ah ¿tú crees? # comienza a reírse y señala alternadamente a AT y D.
+DT: ya la convertí # todos se ríen.
+AH: con tu novio # señala a D.
+DT: pues ya era hora de que se pasara a los rojos ¿no?
+AH: ah pus (pues) sí # se ríe.
+DT: ¿y cómo se prepara sus chilaquiles?
+AH: este con /.quesa./ con queso, y chilaquiles
+DT: ¿usted los hace?
+AH: sí hombre
+DT: ¿a ver cómo los hace?
+AH: este
+DT: paso por paso
+AH: chilaquiles, este, verdes, chiles verdes, tomate /.jeto./ jitomate, ah no tomate no, tomate
+DT: porque no le gustan los rojos
+AH: sí, tomate y mucho chile
+DT: ¿qué chile es es?
+AH: chile verde
+DT: ¿no es serrano?
+AH: ah no, chile verde
+DT: así ¿chile verde?
+AH: sí sí, chile verde
+DT: ah porque yo lo hago con serrano, y a veces con, se le hecha jalapeño a veces
+AH: ay ¿a poco?
+DT: ¿usted no le hecha jalapeño?
+AH: no no
+DT: ¿y no le pone pollo?
+AH: sí, sí pollo
+DT: ¿y usted también lo hace, el pollo?
+AH: sí
+DT: ¿cómo lo hace?
+AH: este, con agua, con agua y agua, y este, po con pollo
+DT: ¿pero qué hace con el agua y con el pollo?
+AH: este voy a voy, este, lavando, lavando lavando, el pollo
+DT: ¿lava el pollo?
+AH: sí sí
+DT: ¿y después de lavarlo?
+AH: este, espérame, este, el agua y este, en la estufa, en la estufa
+DT: ¿qué hace en la estufa?
+AH: este, no me acuerdo
+DT: muy bien

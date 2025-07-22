@@ -1,0 +1,21 @@
+# Segmento: orientación temporal.
+# Condición: conversación.
+DT: muy bien ¿me puede decir la fecha de hoy?
+AH: cinco, cinco
+DT: ¿qué más?
+AH:  de, cinco de jun, de jun, de cinco, cinco de septiembre, de septiembre
+DT: sí ¿qué más?
+AH: dos mil veinticuatro
+DT: a ver todo completo otra vez
+AH: cinco de agosto, de septiembre, dos mil veinticuatro
+DT: ajá ¿y qué día de la semana es?
+AH: jueves
+DT: muy bien ¿y ayer qué día fue?
+AH: mie, miércoles
+DT: ¿qué número?
+AH: cuatro
+DT: sí muy bien ¿y mañana?
+AH: seis, seis
+DT: muy bien ¿qué día de la semana?
+AH: este, viernes viernes
+DT: muy bien

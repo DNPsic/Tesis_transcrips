@@ -1,0 +1,48 @@
+# Segmento: inducción del verbo jugar usando un vídeo corto.
+# Material: teléfono celular donde se muestra un vídeo donde se observa a un jugador de futbol pateando un balón y un portero saltando a atraparlo.
+# Condición: conversación.
+DT: a ver ¿qué están haciendo aquí? # le acerca el teléfono para que vea el vídeo.
+AH: las, las canchas, las canchas
+DT: sí ¿pero qué están haciendo?
+AH: el futbol, con el futbol
+DT: ajá pero ¿qué están haciendo?
+AH: estaba, no no # niega con la cabeza.
+D: estaban /j/
+AH: jugando jugando
+DT: ahí está ¿ya vio que sí puede?
+AH: jugando jugando
+DT: a ver # le da el marcador azul.
+# Condición: escritura.
+AH: ju, ju, ju, juga, jugando, jugando # escritura: «gugando»
+DT: sí, nada más esta letra es con la que hemos tenido problemas # señala la primera g.
+AH: ah sí
+DT: se acuerda que también tenemos esta letra # escribe la letra j.
+AH: ah sí cierto
+DT: ¿esta cómo suena?
+AH: ja je
+DT: no # se corrige ya que en ocasiones AH confunde el sonido de la letra /j/ y el nombre de la letra «g».
+AH: ja ga, ja ja
+DT: así suena # borra la j y escribe la g en su lugar.
+# Condición: conversación.
+AH: ah sí
+DT: ¿ya vio?
+AH: sí
+DT: jugando en el verbo
+AH: ah
+DT: es lo que nos faltaba
+AH: ah mira
+DT: mire lo voy a quitar # borra «jugando».
+AH: si
+DT: si lo quito no tiene sentido, vamos a leerlo todo
+# Condición: lectura.
+AH: en el parque estaba jugando # agrega «jugando» a pesar de que ya no se encuentra escrita la palabra.
+DT: exacto, ahí está, a ver otra vez vamos a escribirlo
+# Condición: esc
+AH: ju, ga, juga, ndo, jugando # escritura: «jugaNdo»--- jugando
+DT: muy bien, esto es el verbo # señala lo que AH acaba de escribir.
+# Condición: conversación.
+AH: ah mira
+DT: es lo que nos falta ¿ya vio?
+AH: sí
+DT: vamos a hacer otro intento ¿se le hizo difícil?
+AH: sí
